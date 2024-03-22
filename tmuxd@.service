@@ -1,0 +1,11 @@
+[Unit]
+Description=tmux daemon for %i
+
+[Service]
+Type=forking
+ExecStart=/usr/bin/tmux new-session -s%i -d
+ExecStop=/usr/bin/tmux kill-session -t%i
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

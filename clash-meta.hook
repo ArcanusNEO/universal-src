@@ -1,0 +1,11 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Type=Package
+Target=clash-meta*
+
+[Action]
+Description=Setting cap_net_admin=ep for clash-meta...
+Depends=libcap
+When=PostTransaction
+Exec=/usr/bin/setcap cap_net_admin=ep /usr/bin/clash-meta
