@@ -3338,6 +3338,7 @@ parted
 paru
 pass
 passim
+passt
 pastebinit
 patch
 patchelf

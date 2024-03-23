@@ -2466,7 +2466,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1711077163
+flatpak-purge-timestamp=int64 1711177362
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2560,7 +2560,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(45, 29)
+window-position=(0, 29)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
@@ -2853,7 +2853,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///home/lucas/Documents/private.yaml']
+session=['1;;+file:///media/iso/oneplus11_crdroid_flash.sh']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
