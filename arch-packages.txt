@@ -1919,6 +1919,7 @@ kfilemetadata
 kfilemetadata5
 kglobalaccel
 kglobalaccel5
+kgraphviewer
 kguiaddons
 kguiaddons5
 ki18n
