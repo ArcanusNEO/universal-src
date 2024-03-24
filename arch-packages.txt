@@ -749,6 +749,7 @@ freeglut
 freeimage
 freepats-general-midi
 freerdp
+freerdp2
 freetds
 freetype2
 freeverb3
@@ -1197,6 +1198,7 @@ gvfs-google
 gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
+gvfs-onedrive
 gvfs-smb
 gvim
 gzip
@@ -3069,6 +3071,7 @@ mpv
 mpv-mpris
 msedgedriver-stable-bin
 msgpack-cxx
+msgraph
 msitools
 mtd-utils
 mtdev
@@ -5388,6 +5391,7 @@ udisks2
 ueberzug
 uefitool
 ugrep
+uhttpmock
 umockdev
 umurmur
 unace
