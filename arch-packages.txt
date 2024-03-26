@@ -445,6 +445,7 @@ cvc4
 cyrus-sasl-gssapi
 cython
 d-spy
+dart
 dash
 dav1d
 davs2
@@ -720,7 +721,14 @@ flite
 fltk
 fluidsynth
 flutter
+flutter-common
+flutter-devel
 flutter-engine-google-bin
+flutter-intellij-patch
+flutter-target-android
+flutter-target-linux
+flutter-target-web
+flutter-tool
 fmt
 fmt9
 folks
@@ -2559,7 +2567,6 @@ libnotify-docs
 libnsl
 libnumbertext
 libnvidia-container
-libnvidia-container-tools
 libnvme
 liboauth
 libodfgen
@@ -3961,6 +3968,7 @@ python-ldap3
 python-leather
 python-libevdev
 python-libtmux
+python-linkify-it-py
 python-livereload
 python-locket
 python-lockfile
@@ -3981,6 +3989,7 @@ python-matplotlib-inline
 python-matroid-database
 python-maturin
 python-mccabe
+python-mdit_py_plugins
 python-mdurl
 python-mdx-gh-links
 python-mechanize
@@ -4002,6 +4011,7 @@ python-munch
 python-mutagen
 python-mutatormath
 python-mypy_extensions
+python-myst-parser
 python-natsort
 python-nest-asyncio
 python-netaddr
@@ -4896,8 +4906,8 @@ signond
 simple-scan
 simpleitk
 sing-box
-sing-geoip-common
-sing-geosite-common
+sing-geoip-db
+sing-geoip-rule-set
 sing-geosite-db
 sing-geosite-rule-set
 singular
