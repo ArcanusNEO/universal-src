@@ -1351,7 +1351,7 @@ show-sidebar=true
 sidebar-page='links'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.9251444698293236, 1.24956942118329)
+window-ratio=(1.9268243515656496, 1.24956942118329)
 zoom=0.60678856306507245
 
 [org/gnome/evolution-data-server]
@@ -2477,7 +2477,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1711380064
+flatpak-purge-timestamp=int64 1711422388
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2864,7 +2864,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///media/iso/oneplus11_crdroid_flash.sh']
+session=['1;;+file:///home/lucas/Downloads/Dnb-Seq-T7_human_metagenome_SE/SRR16553112_1.fastq']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true

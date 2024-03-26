@@ -720,15 +720,6 @@ flint
 flite
 fltk
 fluidsynth
-flutter
-flutter-common
-flutter-devel
-flutter-engine-google-bin
-flutter-intellij-patch
-flutter-target-android
-flutter-target-linux
-flutter-target-web
-flutter-tool
 fmt
 fmt9
 folks
