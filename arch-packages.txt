@@ -636,6 +636,7 @@ epiphany
 eq10q
 erfa
 erlang-nox
+esbuild
 eslint
 eslint-language-server
 espeak-ng
@@ -1888,6 +1889,7 @@ kcrash5
 kdbusaddons
 kdbusaddons5
 kddockwidgets
+kddockwidgets-qt6
 kde-cli-tools
 kde-gtk-config
 kdeclarative
@@ -2336,6 +2338,7 @@ libcups
 libcupsfilters
 libcurl-compat
 libcurl-gnutls
+libcurl-impersonate-bin
 libdaemon
 libdatachannel
 libdatrie
@@ -3188,6 +3191,7 @@ nvidia-prime
 nvidia-prime-rtd3pm
 nvidia-settings
 nvidia-utils
+nvm
 nvme-cli
 nvtop
 nx-x11
@@ -3776,6 +3780,7 @@ python-cssselect
 python-cssselect2
 python-cuda
 python-cuda-docs
+python-curl-cffi
 python-cvxopt
 python-cycler
 python-cypari2
@@ -3821,6 +3826,7 @@ python-entrypoints
 python-et-xmlfile
 python-etils
 python-evdev
+python-eventlet
 python-exceptiongroup
 python-executing
 python-faker
@@ -3849,6 +3855,7 @@ python-future
 python-gast
 python-gbinder
 python-geoipsets
+python-gevent
 python-ghp-import
 python-gitdb
 python-github3py
@@ -4079,6 +4086,7 @@ python-prospector
 python-protobuf
 python-proxmoxer
 python-psutil
+python-psycopg2
 python-ptyprocess
 python-publicsuffix2
 python-pure-eval
@@ -4372,6 +4380,7 @@ python-zc.lockfile
 python-zeroconf
 python-zipfile-deflate64
 python-zipp
+python-zope-event
 python-zope-interface
 python-zopfli
 python-zstandard
@@ -4911,6 +4920,7 @@ sleuthkit
 slirp4netns
 slop
 slurm-llnl
+slurp
 smartmontools
 smbclient
 smooth
@@ -5526,10 +5536,12 @@ webrtc-audio-processing
 webrtc-audio-processing-1
 websocat
 wechat-devtools
+wechat-universal-bwrap
 weka
 wemeet-bin
 weston
 wewechat++
+wf-recorder
 wget
 wgetpaste
 whatweb
@@ -5543,10 +5555,10 @@ wildmidi
 wimlib
 windows95-electron-bin
 windterm-bin
-wine-for-wechat
+wine
 wine-gecko
 wine-mono
-wine-wechat-setup
+wine-nine
 winetricks-git
 wipe
 wireguard-tools
