@@ -666,7 +666,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='sound'
+last-panel='keyboard'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1927,7 +1927,7 @@ name='GNOME Calculator'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom20]
 binding='<Shift><Super>w'
-command='wechat'
+command='wechat-universal'
 name='WeChat'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom21]
