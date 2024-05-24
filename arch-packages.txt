@@ -966,6 +966,7 @@ ghex
 ghidra
 ghidra-desktop
 ghostscript
+ghostwriter
 gi-docgen
 giac
 giflib
@@ -1810,6 +1811,7 @@ intel-oneapi-openmp
 intel-oneapi-tbb
 intel-oneapi-tcm
 intellij-idea-community-edition
+inter-font
 intltool
 inxi
 iotop
@@ -1944,6 +1946,7 @@ kddockwidgets
 kddockwidgets-qt6
 kde-cli-tools
 kde-gtk-config
+kde-office-meta
 kdeclarative
 kdeclarative5
 kdeconnect
@@ -3331,6 +3334,7 @@ omnisharp-roslyn
 onednn
 onetbb
 oniguruma
+onlyoffice-bin
 open-iscsi
 open-isns
 openal
@@ -3421,6 +3425,9 @@ otf-monaspace-nerd
 otf-opendyslexic-nerd
 otf-overpass-nerd
 otf-smiley-sans-bin
+otf-takao
+otf-takaoex
+otf-takaomj
 p11-kit
 p11-kit-docs
 p8-platform
@@ -5594,6 +5601,7 @@ ttf-profont-nerd
 ttf-proggyclean-nerd
 ttf-roboto
 ttf-roboto-mono-nerd
+ttf-sarasa-gothic
 ttf-sazanami
 ttf-sharetech-mono-nerd
 ttf-smiley-sans-bin

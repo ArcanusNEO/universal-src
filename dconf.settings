@@ -685,7 +685,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='sound'
+last-panel='display'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -2606,7 +2606,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(45, 29)
+window-position=(0, 33)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
@@ -2653,7 +2653,7 @@ search-sort-column='date_modified'
 
 [org/nemo/window-state]
 geometry='1471x806+50+78'
-maximized=false
+maximized=true
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
 sidebar-width=209
