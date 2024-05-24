@@ -1368,12 +1368,12 @@ dual-page-odd-left=true
 enable-spellchecking=true
 fullscreen=false
 inverted-colors=false
-show-sidebar=false
+show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
 window-ratio=(1.9239583333333334, 1.25)
-zoom=0.44601343533637478
+zoom=0.60678856306507245
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -2509,7 +2509,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1716437808
+flatpak-purge-timestamp=int64 1716519798
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2652,7 +2652,7 @@ search-reverse-sort=false
 search-sort-column='date_modified'
 
 [org/nemo/window-state]
-geometry='1471x806+123+71'
+geometry='1471x806+50+78'
 maximized=false
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
