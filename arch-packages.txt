@@ -1808,6 +1808,7 @@ intel-oneapi-compiler-shared-runtime-libs
 intel-oneapi-mkl
 intel-oneapi-openmp
 intel-oneapi-tbb
+intel-oneapi-tcm
 intellij-idea-community-edition
 intltool
 inxi
