@@ -1644,14 +1644,15 @@ indent-width=2
 insert-spaces-instead-of-tabs=true
 prefer-dark-theme=false
 show-line-numbers=true
-style-scheme='classic'
+style-scheme='kate'
 use-system-font=true
+vc-commit-margin=79
 wrap-mode='word'
 
 [org/gnome/meld/window-state]
-height=1078
-is-maximized=true
-width=1990
+height=746
+is-maximized=false
+width=1440
 
 [org/gnome/mutter]
 attach-modal-dialogs=false
