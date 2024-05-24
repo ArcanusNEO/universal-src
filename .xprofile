@@ -1,0 +1,20 @@
+export LANG=zh_CN.UTF-8
+export GTK_IM_MODULE=ibus
+export QT_IM_MODULE=ibus
+export XMODIFIERS=@im=ibus
+export SDL_IM_MODULE=ibus
+export GLFW_IM_MODULE=ibus
+export GTK_THEME=WhiteSur-Light
+export QT_STYLE_OVERRIDE=kvantum
+export QT_QPA_PLATFORM=xcb
+export WINIT_UNIX_BACKEND=x11
+export ELECTRON_OZONE_PLATFORM_HINT=x11
+
+export VKD3D_CONFIG=dxr11,dxr
+export VKD3D_DEBUG=none
+export VKD3D_SHADER_DEBUG=none
+export DXVK_LOG_LEVEL=none
+export CSMT=enabled
+export DXVK_ASYNC=1
+export DXVK_GPLASYNCCACHE=1
+export vblank_mode=0

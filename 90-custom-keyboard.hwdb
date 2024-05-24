@@ -1,0 +1,4 @@
+evdev:input:*
+  KEYBOARD_KEY_70039=katakanahiragana
+  KEYBOARD_KEY_70047=capslock
+  KEYBOARD_KEY_70065=capslock

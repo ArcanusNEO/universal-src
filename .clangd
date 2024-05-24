@@ -1,0 +1,32 @@
+Index:
+  StandardLibrary: Yes
+CompileFlags:
+  Add: [-Wall, -Wvla, -Wno-deprecated-non-prototype, -Wno-c2x-extensions]
+Diagnostics:
+  ClangTidy:
+    Add: [bugprone*, modernize*, openmp*, performance*, portability*]
+    Remove: modernize-use-trailing-return-type
+
+---
+If:
+  PathMatch: [.*\.c$]
+CompileFlags:
+  Add: -xc
+
+---
+If:
+  PathMatch: [.*\.h$]
+CompileFlags:
+  Add: -xc-header
+
+---
+If:
+  PathMatch: [.*\.c(c|xx|pp)$]
+CompileFlags:
+  Add: -xc++
+
+---
+If:
+  PathMatch: [.*\.h(h|xx|pp)$]
+CompileFlags:
+  Add: -xc++-header
