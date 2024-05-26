@@ -11,6 +11,7 @@ aardvark-dns
 abc
 abseil-cpp
 accerciser
+accessibility-inspector
 accounts-qml-module
 accountsservice
 ack
@@ -187,6 +188,7 @@ attr
 aubio
 audacity
 audacity-docs
+audex
 audiocd-kio
 audiofile
 audiotube
@@ -817,6 +819,7 @@ fpc
 fpc-src
 fplll
 fprintd
+francis
 freac
 freealut
 freecell-solver
@@ -1097,6 +1100,7 @@ gnome-games-meta
 gnome-icon-theme
 gnome-icon-theme-extras
 gnome-icon-theme-symbolic
+gnome-keybindings
 gnome-keyring
 gnome-klotski
 gnome-latex
@@ -1981,6 +1985,7 @@ kajongg
 kalarm
 kalgebra
 kalk
+kalm
 kalzium
 kamera
 kamoso
@@ -4165,6 +4170,7 @@ python-bitstring
 python-black
 python-bleach
 python-blinker
+python-bluepy
 python-boolean.py
 python-booleanoperations
 python-boto3

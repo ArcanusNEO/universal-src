@@ -685,7 +685,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='display'
+last-panel='sound'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1372,7 +1372,7 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.9239583333333334, 1.25)
+window-ratio=(1.923477512951975, 1.24956942118329)
 zoom=0.60678856306507245
 
 [org/gnome/evolution-data-server]
@@ -2510,7 +2510,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1716519798
+flatpak-purge-timestamp=int64 1716711893
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2654,7 +2654,7 @@ search-sort-column='date_modified'
 
 [org/nemo/window-state]
 geometry='1471x806+50+78'
-maximized=true
+maximized=false
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
 sidebar-width=209
