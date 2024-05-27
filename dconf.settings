@@ -685,7 +685,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='sound'
+last-panel='network'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1368,12 +1368,12 @@ dual-page-odd-left=true
 enable-spellchecking=true
 fullscreen=false
 inverted-colors=false
-show-sidebar=true
+show-sidebar=false
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.923477512951975, 1.24956942118329)
-zoom=0.60678856306507245
+window-ratio=(1.9267596169998322, 1.249554578928614)
+zoom=0.5352161224036498
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -1592,7 +1592,7 @@ include-pointer=false
 last-save-directory='file:///home/lucas/Downloads'
 
 [org/gnome/gnome-system-monitor]
-current-tab='disks'
+current-tab='processes'
 logarithmic-scale=false
 maximized=false
 network-total-in-bits=false
@@ -1930,7 +1930,7 @@ name='Rhythmbox'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom14]
 binding='<Shift><Super>n'
-command='electron-netease-cloud-music'
+command="sh -c 'exec $HOME/.local/bin/ncmwin'"
 name='Netease Cloud Music'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom15]
@@ -2510,7 +2510,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1716711893
+flatpak-purge-timestamp=int64 1716768045
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2607,7 +2607,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(0, 33)
+window-position=(0, 28)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
@@ -2653,8 +2653,8 @@ search-reverse-sort=false
 search-sort-column='date_modified'
 
 [org/nemo/window-state]
-geometry='1471x806+50+78'
-maximized=false
+geometry='1471x806+32+60'
+maximized=true
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
 sidebar-width=209

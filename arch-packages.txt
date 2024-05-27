@@ -4442,6 +4442,7 @@ python-lsp-ruff
 python-lsp-server
 python-lsprotocol
 python-lxml
+python-lxml-html-clean
 python-lz4
 python-magic
 python-mako
