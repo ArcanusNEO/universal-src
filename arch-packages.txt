@@ -43,6 +43,7 @@ adobe-source-sans-fonts
 adobe-source-serif-fonts
 adwaita-cursors
 adwaita-icon-theme
+adwaita-icon-theme-legacy
 aeolus
 afdko
 afl++
@@ -3083,6 +3084,7 @@ libtraceevent
 libtracefs
 libtsm
 libudev0-shim
+libui-ng-git
 libunibreak
 libuninameslist
 libunistring
@@ -4317,6 +4319,7 @@ python-github3py
 python-gitpython
 python-glfw
 python-gmpy2
+python-gnupg
 python-gobject
 python-google-api-core
 python-google-api-python-client
@@ -4432,6 +4435,7 @@ python-license-expression
 python-linkify-it-py
 python-livereload
 python-llfuse
+python-llvmlite
 python-locket
 python-lockfile
 python-logutils
@@ -4489,6 +4493,7 @@ python-nose
 python-notify2
 python-nspektr
 python-ntlm-auth
+python-numba
 python-numpy
 python-numpydoc
 python-oauth2client

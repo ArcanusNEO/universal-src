@@ -685,7 +685,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='network'
+last-panel='mouse'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1199,7 +1199,7 @@ natural-scroll=true
 [org/gnome/desktop/peripherals/touchpad]
 click-method='fingers'
 natural-scroll=true
-send-events='enabled'
+send-events='disabled'
 tap-to-click=true
 two-finger-scrolling-enabled=true
 
@@ -2593,8 +2593,8 @@ view-type='list'
 window-size=(1920, 979)
 
 [org/gtk/settings/color-chooser]
-custom-colors=[(0.27843137254901962, 0.38823529411764707, 0.5725490196078431, 1.0), (0.027450980392156869, 0.21176470588235288, 0.25882352941176473, 1.0), (0.027450980392156862, 0.21176470588235294, 0.25882352941176473, 1.0), (0.090196078431372548, 0.078431372549019607, 0.12941176470588237, 1.0), (0.0, 0.0, 0.0, 0.0), (0.0, 0.0, 0.0, 0.74509803921568629), (0.0, 0.0, 0.0, 0.67000000000000004), (0.0, 0.0, 0.0, 0.84999999999999998)]
-selected-color=(true, 1.0, 1.0, 1.0, 1.0)
+custom-colors=[(0.11764705882352941, 0.56470588235294117, 1.0, 1.0), (0.27843137254901962, 0.38823529411764707, 0.5725490196078431, 1.0), (0.027450980392156869, 0.21176470588235288, 0.25882352941176473, 1.0), (0.027450980392156862, 0.21176470588235294, 0.25882352941176473, 1.0), (0.090196078431372548, 0.078431372549019607, 0.12941176470588237, 1.0), (0.0, 0.0, 0.0, 0.0), (0.0, 0.0, 0.0, 0.74509803921568629), (0.0, 0.0, 0.0, 0.67000000000000004)]
+selected-color=(true, 0.75294117647058822, 0.10980392156862745, 0.15686274509803921, 1.0)
 
 [org/gtk/settings/file-chooser]
 date-format='regular'
@@ -2900,7 +2900,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
+session=['1;;+file:///home/lucas/wine/32/ie3.0drv/drive_c/Program%20Files/IE3.0%20A3327/res/profilemenu.xml']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
