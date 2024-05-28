@@ -685,7 +685,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='mouse'
+last-panel='network'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -2157,7 +2157,7 @@ middle-click-action='launch'
 min-alpha=0.33000000000000002
 multi-monitor=true
 preferred-monitor=-2
-preferred-monitor-by-connector='eDP-1'
+preferred-monitor-by-connector='DP-0'
 pressure-threshold=100.0
 preview-size-scale=0.0
 require-pressure-to-show=false
@@ -2510,7 +2510,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1716768045
+flatpak-purge-timestamp=int64 1716876480
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

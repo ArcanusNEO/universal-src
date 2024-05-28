@@ -40,7 +40,7 @@ alias md='mkdir -p'
 alias mkpdir='mkdir bin lib libexec share etc man doc misc include src'
 alias mkddir='mkdir Desktop Pictures Music Videos Downloads Templates Documents Public'
 alias sudo='sudo '
-alias prime.nvidia='prime.nvidia '
+alias nvrun='nvrun '
 alias brun='brun '
 alias cls='clear'
 alias gcam='git commit --all --allow-empty-message --message'
@@ -84,6 +84,7 @@ export WINEPREFIX="$HOME/wine/64/default"
 export WINEARCH=win64
 export WINEDEBUG=-all
 export WINETRICKS_DOWNLOADER=wget
+unset DEBUGINFOD_URLS
 alias weather='curl --silent --header "Accept-Language:zh-CN,zh;q=0.8" http://wttr.in'
 alias star-wars='telnet towel.blinkenlights.nl'
 unalias cd &>/dev/null

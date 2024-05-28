@@ -640,6 +640,7 @@ dub
 duf
 duktape
 dumb
+dummydroid-bin
 dump_syms
 duperemove
 dust
@@ -4548,6 +4549,7 @@ python-pipx
 python-pkgconfig
 python-pkginfo
 python-platformdirs
+python-playwright
 python-pluggy
 python-plumbum
 python-ply
@@ -5106,6 +5108,7 @@ qxmpp-qt6
 r
 r2ghidra
 rabbitmq
+raccoon-bin
 racket
 radare2
 radeontool
