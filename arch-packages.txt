@@ -216,6 +216,19 @@ avr-gcc
 avr-libc
 avrdude
 awesome-terminal-fonts
+aws-c-auth
+aws-c-cal
+aws-c-common
+aws-c-compression
+aws-c-event-stream
+aws-c-http
+aws-c-io
+aws-c-mqtt
+aws-c-s3
+aws-c-sdkutils
+aws-checksums
+aws-crt-cpp
+aws-sdk-cpp
 axel
 ayatana-ido
 b3sum
@@ -662,6 +675,7 @@ eclib
 eclipse-java
 ed
 edb-debugger
+editline
 editorconfig-core-c
 edk2-aarch64
 edk2-arm
@@ -3254,6 +3268,7 @@ lokalize
 lolcat
 loupe
 love
+lowdown
 lpsolve
 lrcalc
 lrzip
@@ -3548,6 +3563,8 @@ ninja
 ninjas2-lv2
 ninjas2-standalone
 ninjas2-vst
+nix
+nix-busybox
 njconnect
 nlohmann-json
 nm-connection-editor
@@ -4414,7 +4431,6 @@ python-jwcrypto
 python-kaitaistruct
 python-keras
 python-keras-applications
-python-keras-preprocessing
 python-keyring
 python-keystoneauth1
 python-kivy
@@ -4446,6 +4462,7 @@ python-lsp-jsonrpc
 python-lsp-ruff
 python-lsp-server
 python-lsprotocol
+python-lxc
 python-lxml
 python-lxml-html-clean
 python-lz4
@@ -4509,6 +4526,7 @@ python-openrazer
 python-openstacksdk
 python-opt_einsum
 python-optax
+python-optree
 python-orbax-checkpoint
 python-ordered-set
 python-orjson
@@ -4638,7 +4656,6 @@ python-pyparsing
 python-pypcode
 python-pypdf
 python-pyperclip
-python-pyppeteer
 python-pyppmd
 python-pyproject-hooks
 python-pyproject-metadata
@@ -4672,6 +4689,7 @@ python-pytest-isort
 python-pytest-localserver
 python-pytest-mypy
 python-pytest-mypy-testing
+python-pytest-playwright
 python-pytest-runner
 python-pytest-subtests
 python-pythran
@@ -5367,6 +5385,7 @@ rxvt-unicode-terminfo
 rygel
 s-nail
 s-tui
+s2n-tls
 sage-data-combinatorial_designs
 sage-data-elliptic_curves
 sage-data-graphs
