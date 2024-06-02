@@ -2659,8 +2659,8 @@ search-reverse-sort=false
 search-sort-column='date_modified'
 
 [org/nemo/window-state]
-geometry='1471x806+32+60'
-maximized=true
+geometry='1193x832+245+63'
+maximized=false
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
 sidebar-width=209
