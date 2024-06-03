@@ -18,6 +18,8 @@ alias lv='ls -Fhlav'
 alias diff='diff --color=auto'
 alias grep='grep --color=auto'
 alias ip='ip -color=auto'
+export MANPAGER="less -R --use-color -Dd+r -Du+b"
+export MANROFFOPT="-P -c"
 alias j='cd'
 alias jp='cd $(pwd -P)'
 #alias vi='vim'
