@@ -1816,7 +1816,7 @@ user='lucas'
 [org/gnome/rhythmbox]
 display-page-tree-visible=true
 maximized=false
-position=(45, 29)
+position=(345, 42)
 queue-as-sidebar=false
 size=(1060, 676)
 
@@ -2516,7 +2516,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1717311434
+flatpak-purge-timestamp=int64 1717387473
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
