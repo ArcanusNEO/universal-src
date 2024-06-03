@@ -305,12 +305,15 @@ bolt
 bomber
 boost
 boost-libs
+bootconfig
 borg
 botan
 botan2
 bottom
 bovo
 box2d
+bpf
+bpftop
 bpftrace
 brasero
 breeze-gtk
@@ -1829,6 +1832,7 @@ hwinfo
 hwloc
 hydrogen
 hyperfine
+hyperv
 hyphen
 hysteria
 i2c-tools
@@ -2432,6 +2436,7 @@ lib32-libappindicator-gtk2
 lib32-libappindicator-gtk3
 lib32-libasyncns
 lib32-libavc1394
+lib32-libbpf
 lib32-libcaca
 lib32-libcanberra
 lib32-libcap
@@ -3798,6 +3803,7 @@ pciutils
 pcmanfm
 pcmanfm-qt
 pcp
+pcp-pmda-bcc
 pcp-pmda-libvirt
 pcp-pmda-podman
 pcre
@@ -4126,6 +4132,7 @@ purescript-language-server
 purpose
 purpose5
 pvoc
+pwru
 pybind11
 pymdown-extensions
 pypy
@@ -5860,6 +5867,7 @@ tinyxml
 tinyxml2
 tk
 tldr
+tmon
 tmux
 toilet
 tokodon
@@ -5973,6 +5981,7 @@ ttf-victor-mono-nerd
 ttf-vlgothic
 ttf-wps-fonts
 tumbler
+turbostat
 twolame
 typescript
 typescript-language-server
@@ -6009,6 +6018,7 @@ upx
 uriparser
 usb_modeswitch
 usbguard
+usbip
 usbmuxd
 usbredir
 usbutils
@@ -6198,6 +6208,7 @@ x264
 x265
 x42-plugins-lv2
 x42-plugins-standalone
+x86_energy_perf_policy
 xapian-core
 xapp
 xarchiver
