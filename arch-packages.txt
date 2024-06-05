@@ -5983,6 +5983,7 @@ ttf-wps-fonts
 tumbler
 turbostat
 twolame
+txt2man
 typescript
 typescript-language-server
 typora-electron
