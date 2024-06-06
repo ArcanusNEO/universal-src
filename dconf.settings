@@ -688,7 +688,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='network'
+last-panel='keyboard'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1994,7 +1994,6 @@ command='mailspring'
 name='Mailspring'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom29]
-binding=''
 command='gnome-control-center'
 name='GNOME Control Center'
 
@@ -2659,7 +2658,7 @@ search-reverse-sort=false
 search-sort-column='date_modified'
 
 [org/nemo/window-state]
-geometry='1193x832+50+78'
+geometry='1193x832+48+76'
 maximized=false
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
