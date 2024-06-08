@@ -713,6 +713,8 @@ ell
 emacs-nox
 embree
 embree3
+emby-ffmpeg
+emby-theater
 emovix
 enca
 enchant
