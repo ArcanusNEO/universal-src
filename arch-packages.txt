@@ -1205,6 +1205,7 @@ gping
 gpm
 gprename
 gpsd
+gpt4all-chat
 gptfdisk
 gpu-viewer
 gputest
