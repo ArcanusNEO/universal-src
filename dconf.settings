@@ -16,7 +16,7 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/desktop/interface/document-font-name'
+saved-pathbar-path='/org/gnome/desktop/interface/font-name'
 saved-view='/org/gnome/desktop/interface/'
 show-warning=false
 window-height=816
@@ -1790,7 +1790,7 @@ user='lucas'
 [org/gnome/rhythmbox]
 display-page-tree-visible=true
 maximized=false
-position=(310, 131)
+position=(485, 171)
 queue-as-sidebar=false
 size=(1060, 676)
 
