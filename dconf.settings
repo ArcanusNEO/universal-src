@@ -16,10 +16,10 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/mutter/keybindings/'
-saved-view='/org/gnome/'
+saved-pathbar-path='/org/gnome/desktop/interface/document-font-name'
+saved-view='/org/gnome/desktop/interface/'
 show-warning=false
-window-height=817
+window-height=816
 window-is-maximized=false
 window-width=1439
 
@@ -128,17 +128,14 @@ next-engine-in-menu=@as []
 triggers=@as []
 
 [desktop/ibus/panel]
-custom-font='Ubuntu Mono 16'
 lookup-table-orientation=0
 show-icon-on-systray=true
 show-im-name=true
-use-custom-font=true
 use-custom-icon=false
 use-custom-theme=false
 
 [desktop/ibus/panel/emoji]
 favorites=['λ', '°', '·', '$', "'", '(', 'ʷ', '', 'ሴ']
-font='Ubuntu Mono 16'
 hotkey=@as []
 unicode-hotkey=@as []
 
@@ -288,14 +285,6 @@ width=838
 [org/gnome/Connections]
 first-run=false
 
-[org/gnome/Console]
-custom-font='Fira Code 12'
-font-scale=1.2
-last-window-maximised=false
-last-window-size=(1202, 916)
-theme='night'
-use-system-font=false
-
 [org/gnome/Contacts]
 did-initial-setup=true
 window-fullscreen=false
@@ -309,9 +298,6 @@ window-width=1033
 
 [org/gnome/GCDMaster]
 configured-devices=@as []
-
-[org/gnome/GHex]
-font='UbuntuMono Nerd Font Mono 14'
 
 [org/gnome/GPaste]
 element-size=uint64 80
@@ -381,7 +367,6 @@ window-height=640
 window-width=800
 
 [org/gnome/TextEditor]
-custom-font='Fixedsys Excelsior 14'
 highlight-current-line=true
 indent-style='space'
 last-save-directory='file:///home/lucas/Downloads'
@@ -393,7 +378,6 @@ show-right-margin=false
 style-scheme='kate'
 style-variant='light'
 tab-width=uint32 2
-use-system-font=true
 
 [org/gnome/Totem]
 active-plugins=['screenshot', 'open-directory', 'vimeo', 'skipto', 'mpris', 'movie-properties', 'save-file', 'rotation', 'screensaver', 'autoload-subtitles', 'apple-trailers', 'variable-rate', 'recent']
@@ -757,16 +741,16 @@ clock-show-seconds=true
 clock-show-weekday=true
 color-scheme='default'
 cursor-theme='WhiteSur-cursors'
-document-font-name='Ubuntu 12'
+document-font-name='SF Pro 12'
 enable-animations=true
 enable-hot-corners=false
-font-name='Ubuntu 12'
+font-name='SF Pro 12'
 gtk-im-module='ibus'
 gtk-key-theme='Emacs'
 gtk-theme='WhiteSur-Light'
 icon-theme='WhiteSur'
 locate-pointer=false
-monospace-font-name='Ubuntu Mono 14'
+monospace-font-name='SF Mono 12'
 show-battery-percentage=false
 toolkit-accessibility=false
 
@@ -1321,7 +1305,6 @@ auto-raise=false
 button-layout='close,minimize,maximize:appmenu'
 focus-mode='click'
 mouse-button-modifier='<Super>'
-titlebar-font='Ubuntu Semi-Bold 12'
 workspace-names=@as []
 
 [org/gnome/dictionary]
@@ -1509,17 +1492,12 @@ auto-save=true
 auto-save-interval=uint32 2
 display-overview-map=true
 display-right-margin=true
-editor-font='Source Code Pro 14'
 insert-spaces=true
 scheme='Adwaita'
 tabs-size=uint32 2
-use-default-font=true
 wrap-last-split-mode='word'
 
 [org/gnome/gedit/preferences/print]
-print-font-body-pango='Source Code Pro 18'
-print-font-header-pango='Sans 11'
-print-font-numbers-pango='Sans 8'
 print-header=false
 print-line-numbers=uint32 0
 print-syntax-highlighting=false
@@ -1564,9 +1542,7 @@ state=87168
 latexila-to-gnome-latex-migration-done=true
 
 [org/gnome/gnome-latex/preferences/editor]
-editor-font='Source Code Pro 16'
 scheme='solarized-dark'
-use-default-font=false
 
 [org/gnome/gnome-latex/preferences/file-browser]
 current-directory='file:///home/lucas'
@@ -1642,7 +1618,6 @@ window-position=(45, 29)
 window-size=(360, 391)
 
 [org/gnome/meld]
-custom-font='Source Code Pro 14'
 enable-space-drawer=true
 highlight-current-line=false
 highlight-syntax=true
@@ -1651,7 +1626,6 @@ insert-spaces-instead-of-tabs=true
 prefer-dark-theme=false
 show-line-numbers=true
 style-scheme='kate'
-use-system-font=true
 vc-commit-margin=79
 wrap-mode='word'
 
@@ -1816,7 +1790,7 @@ user='lucas'
 [org/gnome/rhythmbox]
 display-page-tree-visible=true
 maximized=false
-position=(345, 42)
+position=(310, 131)
 queue-as-sidebar=false
 size=(1060, 676)
 
@@ -2514,7 +2488,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1718255339
+flatpak-purge-timestamp=int64 1718376771
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2554,7 +2528,6 @@ cursor-shape='block'
 custom-command='tzsh'
 default-size-columns=80
 default-size-rows=25
-font='Hurmit Nerd Font Mono Medium 14'
 foreground-color='rgb(131,148,150)'
 login-shell=false
 palette=['rgb(7,54,66)', 'rgb(220,50,47)', 'rgb(133,153,0)', 'rgb(181,137,0)', 'rgb(18,72,139)', 'rgb(211,54,130)', 'rgb(42,161,152)', 'rgb(238,232,213)', 'rgb(94,92,100)', 'rgb(203,75,22)', 'rgb(88,110,117)', 'rgb(101,123,131)', 'rgb(131,148,150)', 'rgb(108,113,196)', 'rgb(147,161,161)', 'rgb(253,246,227)']
@@ -2564,7 +2537,6 @@ scrollback-lines=1000
 scrollback-unlimited=true
 scrollbar-policy='always'
 use-custom-command=false
-use-system-font=false
 use-theme-colors=false
 visible-name='80x25'
 
@@ -2574,9 +2546,6 @@ window-maximized=true
 
 [org/gnome/tweaks]
 show-extensions-notice=false
-
-[org/gnome/yelp]
-font-adjustment=0
 
 [org/gtk/gtk4/settings/color-chooser]
 custom-colors=[(1.0, 1.0, 1.0, 0.0), (0.0, 0.0, 0.0, 0.0), (0.0, 0.0, 0.0, 0.25)]
