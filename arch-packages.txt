@@ -74,7 +74,6 @@ alembic
 aliki
 alist
 aliyun-adrive-bin
-all-repository-fonts
 allegro
 alligator
 alltray
