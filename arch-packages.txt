@@ -703,6 +703,7 @@ electron27
 electron28
 electron29
 electron30
+electron31
 electron9-bin
 element
 elementary-icon-theme
@@ -1068,6 +1069,7 @@ glfw
 glib-networking
 glib-perl
 glib2
+glib2-devel
 glib2-docs
 glibc
 glibc-locales

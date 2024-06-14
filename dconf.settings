@@ -688,7 +688,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='wifi'
+last-panel='keyboard'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1378,7 +1378,7 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.143922596250756, 0.7126567844925884)
+window-ratio=(1.1446148409718195, 0.7126568014219119)
 zoom=0.50565713588756034
 
 [org/gnome/evolution-data-server]
@@ -1793,7 +1793,7 @@ window-size=[846, 551]
 last-folder-path='/home/lucas/Downloads'
 
 [org/gnome/portal/filechooser/google-chrome-stable]
-last-folder-path='/home/lucas/Downloads'
+last-folder-path='/home/lucas/Documents'
 
 [org/gnome/portal/filechooser/org.gnome.Settings]
 last-folder-path='/home/lucas/Pictures'
@@ -1908,7 +1908,6 @@ volume-mute=['<Super>m']
 volume-up=['<Super>Up']
 window-screenshot=['<Primary><Super>Print']
 window-screenshot-clip=['<Super>Print']
-www=['<Super>e']
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
 binding='<Shift><Super>s'
@@ -1945,7 +1944,7 @@ command='fan.boostswitch'
 name='Fan Boost Switch'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom17]
-binding=''
+binding='<Super>e'
 command='firefox'
 name='Firefox'
 
@@ -2515,7 +2514,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1718164389
+flatpak-purge-timestamp=int64 1718255339
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2599,7 +2598,7 @@ window-size=(1920, 979)
 
 [org/gtk/settings/color-chooser]
 custom-colors=[(0.11764705882352941, 0.56470588235294117, 1.0, 1.0), (0.27843137254901962, 0.38823529411764707, 0.5725490196078431, 1.0), (0.027450980392156869, 0.21176470588235288, 0.25882352941176473, 1.0), (0.027450980392156862, 0.21176470588235294, 0.25882352941176473, 1.0), (0.090196078431372548, 0.078431372549019607, 0.12941176470588237, 1.0), (0.0, 0.0, 0.0, 0.0), (0.0, 0.0, 0.0, 0.74509803921568629), (0.0, 0.0, 0.0, 0.67000000000000004)]
-selected-color=(true, 0.75294117647058822, 0.10980392156862745, 0.15686274509803921, 1.0)
+selected-color=(true, 1.0, 1.0, 1.0, 1.0)
 
 [org/gtk/settings/file-chooser]
 date-format='regular'
@@ -2905,7 +2904,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
+session=['1;;+file:///home/lucas/Documents/private.yaml']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
