@@ -1790,7 +1790,7 @@ user='lucas'
 [org/gnome/rhythmbox]
 display-page-tree-visible=true
 maximized=false
-position=(485, 171)
+position=(45, 29)
 queue-as-sidebar=false
 size=(1060, 676)
 
@@ -2029,8 +2029,8 @@ app-picker-layout=[{'org.gnome.TwentyFortyEight.desktop': <{'position': <0>}>, '
 command-history=['echo Hello', 'rog-control-center', 'mumble', 'sdcv fortune', 'gedit', 'cmd', 'kgx', 'cfw', 'wechat', 'linuxqq', 'dconf-editor', 'gnome-session', 'gnome-tweaks', 'gnome-session-properties', 'gnome-extensions-app', 'reboot', 'xunmap', 'bash', 'newsflash', 'fsearch', 'qterminal', 'kdenlive', 'blender', 'feishu', 'steam', 'pavucontrol-qt', 'telegram-desktop', 'xunlei', 'baidunetdisk', 'localsend', 'finalshell', 'picgo', 'sdlpal', 'steam-native', 'raven-reader', 'nautilus', 'evince', 'calc', 'gnome-calculator', 'ribt=off', 'gnome-terminal', 'firefoxd', 'lg', 'r', 'gjs', 'poweroff']
 disable-extension-version-validation=true
 disable-user-extensions=false
-disabled-extensions=['better-osd@hllvc', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'netspeed@alynx.one', 'simplenetspeed@biji.extension', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'pixel-saver@deadalnix.me', 'status-area-horizontal-spacing@mathematical.coffee.gmail.com', 'dash-to-plank@hardpixel.eu', 'window-list@gnome-shell-extensions.gcampax.github.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'aztaskbar@aztaskbar.gitlab.com', 'tray-icons@nicovell3', 'rounded-window-corners@yilozt', 'dock-from-dash@fthx', 'no-overview@fthx', 'dash2dock-lite@icedman.github.com', 'dash-animator@icedman.github.com', 'fildemGMenu@gonza.com', 'dash-to-panel@jderose9.github.com', 'native-window-placement@gnome-shell-extensions.gcampax.github.com', 'just-perfection-desktop@just-perfection', 'compiz-alike-magic-lamp-effect@hermes83.github.com', 'trayIconsReloaded@selfmade.pl', 'activate_gnome@isjerryxiao', 'compiz-windows-effect@hermes83.github.com', 'Move_Clock@rmy.pobox.com', 'windowIsReady_Remover@nunofarruca@gmail.com', 'auto-move-windows@gnome-shell-extensions.gcampax.github.com', 'gsconnect@andyholmes.github.io', 'asusctl-gnome@asus-linux.org', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com']
-enabled-extensions=['panel-osd@berend.de.schouwer.gmail.com', 'system-monitor@paradoxxx.zero.gmail.com', 'captivate@rensoliemans.nl', 'switchtwolayouts@qtmax.dev', 'ubuntu-dock@ubuntu.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'system-monitor-next@paradoxxx.zero.gmail.com', 'maximize-to-workspace@rliang.github.com', 'MaximizeToEmptyWorkspace-extension@kaisersite.de', 'gnome-optiprime@kalteseele', 'RadeonPRIME@xvexisu-gmail.com', 'gnome-optirun@TCG', 'GNOME_Run_With_PRIME@floturcocantsee.daguerro.net', 'custom-menu-panel@AndreaBenini', 'unite@hardpixel.eu', 'cpupower@mko-sl.de', 'impatience@gfxmonk.net', 'GPU_profile_selector@lorenzo9904.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'GPaste@gnome-shell-extensions.gnome.org', 'notification-timeout@chlumskyvaclav.gmail.com', 'ProxySwitcher@flannaghan.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'handy_extensions_collection@transcliff.eu.org', 'appindicatorsupport@rgcjonas.gmail.com', 'ibus-switcher@kevinhwang91.github.com', 'AlphabeticalAppGrid@stuarthayhurst', 'system-monitor@gnome-shell-extensions.gcampax.github.com', 'light-style@gnome-shell-extensions.gcampax.github.com', 'handy-extensions-collection@transcliff.eu.org']
+disabled-extensions=['better-osd@hllvc', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'netspeed@alynx.one', 'simplenetspeed@biji.extension', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'pixel-saver@deadalnix.me', 'status-area-horizontal-spacing@mathematical.coffee.gmail.com', 'dash-to-plank@hardpixel.eu', 'window-list@gnome-shell-extensions.gcampax.github.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'aztaskbar@aztaskbar.gitlab.com', 'tray-icons@nicovell3', 'rounded-window-corners@yilozt', 'dock-from-dash@fthx', 'no-overview@fthx', 'dash2dock-lite@icedman.github.com', 'dash-animator@icedman.github.com', 'fildemGMenu@gonza.com', 'dash-to-panel@jderose9.github.com', 'native-window-placement@gnome-shell-extensions.gcampax.github.com', 'just-perfection-desktop@just-perfection', 'trayIconsReloaded@selfmade.pl', 'activate_gnome@isjerryxiao', 'compiz-windows-effect@hermes83.github.com', 'Move_Clock@rmy.pobox.com', 'windowIsReady_Remover@nunofarruca@gmail.com', 'auto-move-windows@gnome-shell-extensions.gcampax.github.com', 'gsconnect@andyholmes.github.io', 'asusctl-gnome@asus-linux.org', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com']
+enabled-extensions=['panel-osd@berend.de.schouwer.gmail.com', 'system-monitor@paradoxxx.zero.gmail.com', 'captivate@rensoliemans.nl', 'switchtwolayouts@qtmax.dev', 'ubuntu-dock@ubuntu.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'system-monitor-next@paradoxxx.zero.gmail.com', 'maximize-to-workspace@rliang.github.com', 'MaximizeToEmptyWorkspace-extension@kaisersite.de', 'gnome-optiprime@kalteseele', 'RadeonPRIME@xvexisu-gmail.com', 'gnome-optirun@TCG', 'GNOME_Run_With_PRIME@floturcocantsee.daguerro.net', 'custom-menu-panel@AndreaBenini', 'unite@hardpixel.eu', 'cpupower@mko-sl.de', 'impatience@gfxmonk.net', 'GPU_profile_selector@lorenzo9904.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'GPaste@gnome-shell-extensions.gnome.org', 'notification-timeout@chlumskyvaclav.gmail.com', 'ProxySwitcher@flannaghan.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'handy_extensions_collection@transcliff.eu.org', 'appindicatorsupport@rgcjonas.gmail.com', 'ibus-switcher@kevinhwang91.github.com', 'AlphabeticalAppGrid@stuarthayhurst', 'system-monitor@gnome-shell-extensions.gcampax.github.com', 'light-style@gnome-shell-extensions.gcampax.github.com', 'handy-extensions-collection@transcliff.eu.org', 'compiz-alike-magic-lamp-effect@hermes83.github.com']
 favorite-apps=['']
 had-bluetooth-devices-setup=true
 last-selected-power-profile='performance'
@@ -2360,7 +2360,7 @@ window-size=(765, 456)
 theme='primary'
 
 [org/gnome/shell/extensions/ncom/github/hermes83/compiz-alike-magic-lamp-effect]
-duration=500.0
+duration=300.0
 effect='default'
 x-tiles=15.0
 y-tiles=20.0
@@ -2488,7 +2488,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1718376771
+flatpak-purge-timestamp=int64 1718435486
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

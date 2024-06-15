@@ -1153,6 +1153,7 @@ gnome-session-properties
 gnome-settings-daemon
 gnome-shell-extension-alphabetical-grid-extension-git
 gnome-shell-extension-appindicator-git
+gnome-shell-extension-compiz-alike-magic-lamp-effect-git
 gnome-shell-extension-dash-to-dock-git
 gnome-shell-extension-notification-timeout-git
 gnome-shell-extension-proxy-switcher-git
