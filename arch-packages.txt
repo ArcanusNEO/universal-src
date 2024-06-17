@@ -3471,6 +3471,7 @@ mkinitcpio-firmware
 mkinitcpio-nfs-utils
 mlite
 mlt
+mma
 mmdblookup
 mobile-broadband-provider-info
 mod_dnssd

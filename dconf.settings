@@ -671,7 +671,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='wifi'
+last-panel='keyboard'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1360,8 +1360,8 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(2.1955316647068708, 1.069010571326761)
-zoom=0.50565713588756034
+window-ratio=(2.1956054293777716, 1.0690232690731569)
+zoom=0.72814627567808687
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -1992,7 +1992,7 @@ name='ROG Control Center'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom6]
 binding='<Super>t'
-command='mousepad'
+command='gnome-text-editor'
 name='Text Editor'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7]
