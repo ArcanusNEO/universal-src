@@ -1,4 +1,4 @@
-7-zip-full
+7-zip
 a2jmidid
 a52dec
 aalib
@@ -65,7 +65,6 @@ akonadi-contacts
 akonadi-import-wizard
 akonadi-mime
 akonadi-notes
-akonadi-notes5
 akonadi-search
 akonadiconsole
 akregator
@@ -144,6 +143,8 @@ arduino-builder
 arduino-cli
 arduino-ctags
 arduino-docs
+arduino-fwuploader
+arduino-ide
 arduino-language-server
 argbash
 argon2
@@ -677,7 +678,7 @@ ebumeter-docs
 ecasound
 ecl
 eclib
-eclipse-java
+eclipse-java-bin
 ed
 edb-debugger
 editline
@@ -2262,7 +2263,6 @@ konsole
 konsolepart5
 kontact
 kontactinterface
-kontactinterface5
 kontrast
 konversation
 kopeninghours
@@ -3220,7 +3220,6 @@ libyuv
 libzen
 libzip
 libzmf
-license-wtfpl
 licenses
 lightsoff
 lighttpd
@@ -3768,6 +3767,7 @@ otf-takaoex
 otf-takaomj
 p11-kit
 p11-kit-docs
+p7zip
 p8-platform
 packagekit
 packagekit-qt6
@@ -5022,6 +5022,7 @@ qemu-user-static-binfmt
 qemu-vhost-user-gpu
 qgpgme-qt6
 qhull
+qimgv
 qjackctl
 qmidiarp-lv2
 qmidiarp-standalone
@@ -5141,6 +5142,7 @@ qtkeychain-qt6
 qtpbfimageplugin-qt6
 qtqr
 qtractor
+qtraw
 qtspell
 qtxdg-tools
 quad

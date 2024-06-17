@@ -16,8 +16,8 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/desktop/interface/font-name'
-saved-view='/org/gnome/desktop/interface/'
+saved-pathbar-path='/org/xfce/mousepad/'
+saved-view='/org/xfce/mousepad/'
 show-warning=false
 window-height=816
 window-is-maximized=false
@@ -226,8 +226,7 @@ opp-accept=true
 shared-path=''
 
 [org/cinnamon/desktop/applications/terminal]
-exec='qterminal'
-exec-arg='-e'
+exec='kitty'
 
 [org/flozz/nautilus-terminal]
 background-color='#000000'
@@ -672,7 +671,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='keyboard'
+last-panel='sound'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -708,8 +707,8 @@ name='suse-yast.directory'
 translate=true
 
 [org/gnome/desktop/applications/terminal]
-exec='qterminal'
-exec-arg='-e'
+exec='kitty'
+exec-arg='--'
 
 [org/gnome/desktop/background]
 color-shading-type='solid'
@@ -1361,7 +1360,7 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.1446148409718195, 0.7126568014219119)
+window-ratio=(2.1955316647068708, 1.069010571326761)
 zoom=0.50565713588756034
 
 [org/gnome/evolution-data-server]
@@ -1882,6 +1881,7 @@ volume-mute=['<Super>m']
 volume-up=['<Super>Up']
 window-screenshot=['<Primary><Super>Print']
 window-screenshot-clip=['<Super>Print']
+www=['<Super>e']
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
 binding='<Shift><Super>s'
@@ -1918,7 +1918,7 @@ command='fan.boostswitch'
 name='Fan Boost Switch'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom17]
-binding='<Super>e'
+binding=''
 command='firefox'
 name='Firefox'
 
@@ -2488,7 +2488,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1718435486
+flatpak-purge-timestamp=int64 1718519757
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2580,7 +2580,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(0, 28)
+window-position=(0, 33)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
@@ -2873,7 +2873,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///home/lucas/Documents/private.yaml']
+session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
