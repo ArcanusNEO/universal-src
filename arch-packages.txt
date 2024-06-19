@@ -6491,6 +6491,7 @@ zam-plugins-vst3
 zanshin
 zbar
 zeitgeist
+zellij
 zenity
 zeroc-ice
 zeromq

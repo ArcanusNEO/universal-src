@@ -671,7 +671,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='keyboard'
+last-panel='wifi'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1321,7 +1321,7 @@ statusbar=false
 [org/gnome/eog/view]
 background-color='rgb(0,0,0)'
 trans-color='rgb(255,255,255)'
-transparency='color'
+transparency='checked'
 use-background-color=false
 
 [org/gnome/epiphany]
@@ -1347,7 +1347,7 @@ enable-mouse-gestures=false
 
 [org/gnome/evince]
 document-directory=@ms 'file:///home/lucas/Documents/gene-compressing'
-pictures-directory=@ms 'file:///home/lucas/Downloads'
+pictures-directory=@ms 'file:///home/lucas/Documents/2024final/print'
 
 [org/gnome/evince/default]
 continuous=true
@@ -1360,8 +1360,8 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(2.1956054293777716, 1.0690232690731569)
-zoom=0.72814627567808687
+window-ratio=(1.9267596169998322, 1.249554578928614)
+zoom=0.50565713588756034
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -2488,7 +2488,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1718608228
+flatpak-purge-timestamp=int64 1718729353
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2580,7 +2580,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(45, 29)
+window-position=(0, 29)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
