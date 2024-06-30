@@ -16,8 +16,8 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/desktop/interface/document-font-name'
-saved-view='/org/gnome/desktop/interface/document-font-name'
+saved-pathbar-path='/org/gnome/nautilus/window-state/'
+saved-view='/org/gnome/'
 show-warning=false
 window-height=816
 window-is-maximized=false
@@ -283,6 +283,10 @@ width=838
 
 [org/gnome/Connections]
 first-run=false
+
+[org/gnome/Console]
+last-window-maximised=false
+last-window-size=(812, 597)
 
 [org/gnome/Contacts]
 did-initial-setup=true
@@ -671,7 +675,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='wifi'
+last-panel='keyboard'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1188,7 +1192,7 @@ natural-scroll=true
 [org/gnome/desktop/peripherals/touchpad]
 click-method='fingers'
 natural-scroll=true
-send-events='disabled'
+send-events='enabled'
 tap-to-click=true
 two-finger-scrolling-enabled=true
 
@@ -1670,7 +1674,7 @@ show-delete-permanently=true
 
 [org/gnome/nautilus/window-state]
 initial-size=(1171, 776)
-maximized=false
+maximized=true
 sidebar-width=200
 
 [org/gnome/nibbles]
@@ -1789,7 +1793,7 @@ user='lucas'
 [org/gnome/rhythmbox]
 display-page-tree-visible=true
 maximized=false
-position=(45, 29)
+position=(1190, 380)
 queue-as-sidebar=false
 size=(1060, 676)
 
@@ -1938,7 +1942,7 @@ name='GNOME Calculator'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom20]
 binding='<Shift><Super>w'
-command='wechat-universal'
+command='/usr/lib/wechat-universal/start.sh'
 name='WeChat'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom21]
@@ -2488,7 +2492,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1718778695
+flatpak-purge-timestamp=int64 1719725308
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2580,7 +2584,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(0, 33)
+window-position=(760, 194)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
@@ -2626,8 +2630,8 @@ search-reverse-sort=false
 search-sort-column='date_modified'
 
 [org/nemo/window-state]
-geometry='1258x888+50+78'
-maximized=true
+geometry='1258x888+146+174'
+maximized=false
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
 sidebar-width=209
