@@ -1813,7 +1813,7 @@ sorting=('Artist', false)
 play-order='random-by-age-and-rating'
 transition-time=0.10000000000000001
 use-xfade-backend=true
-volume=0.7368011474609375
+volume=0.53680419921875
 
 [org/gnome/rhythmbox/plugins]
 active-plugins=['power-manager', 'rb', 'artsearch', 'mpris', 'iradio', 'generic-player', 'daap', 'mtpdevice', 'repeat-one-song', 'audiocd', 'android', 'dbus-media-server', 'replaygain', 'lyrics']
@@ -2631,7 +2631,7 @@ search-sort-column='date_modified'
 
 [org/nemo/window-state]
 geometry='1258x888+146+174'
-maximized=false
+maximized=true
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
 sidebar-width=209
