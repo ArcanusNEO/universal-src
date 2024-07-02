@@ -675,7 +675,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='network'
+last-panel='sound'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
