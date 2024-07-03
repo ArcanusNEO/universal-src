@@ -675,7 +675,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='sound'
+last-panel='network'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1793,7 +1793,7 @@ user='lucas'
 [org/gnome/rhythmbox]
 display-page-tree-visible=true
 maximized=false
-position=(1190, 380)
+position=(1302, 318)
 queue-as-sidebar=false
 size=(1060, 676)
 
@@ -2492,7 +2492,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1719901802
+flatpak-purge-timestamp=int64 1719976973
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2584,7 +2584,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(0, 393)
+window-position=(760, 194)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
