@@ -16,10 +16,10 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/nautilus/window-state/'
-saved-view='/org/gnome/'
+saved-pathbar-path='/org/gnome/TextEditor/'
+saved-view='/org/gnome/TextEditor/'
 show-warning=false
-window-height=816
+window-height=817
 window-is-maximized=false
 window-width=1439
 
@@ -349,10 +349,11 @@ window-is-maximized=false
 window-width=900
 
 [org/gnome/Mines]
+mode=0
 use-animations=false
 use-question-marks=false
-window-height=430
-window-is-maximized=false
+window-height=432
+window-is-maximized=true
 window-width=600
 
 [org/gnome/Music]
@@ -381,6 +382,7 @@ show-right-margin=false
 style-scheme='kate'
 style-variant='light'
 tab-width=uint32 2
+use-system-font=true
 
 [org/gnome/Totem]
 active-plugins=['screenshot', 'open-directory', 'vimeo', 'skipto', 'mpris', 'movie-properties', 'save-file', 'rotation', 'screensaver', 'autoload-subtitles', 'apple-trailers', 'variable-rate', 'recent']
@@ -675,7 +677,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='network'
+last-panel='wifi'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -744,16 +746,16 @@ clock-show-seconds=true
 clock-show-weekday=true
 color-scheme='default'
 cursor-theme='WhiteSur-cursors'
-document-font-name='SF Pro 12'
+document-font-name='sans-serif 12'
 enable-animations=true
 enable-hot-corners=false
-font-name='SF Pro 12'
+font-name='sans-serif 12'
 gtk-im-module='ibus'
 gtk-key-theme='Emacs'
 gtk-theme='WhiteSur-Light'
 icon-theme='WhiteSur'
 locate-pointer=false
-monospace-font-name='SF Mono 12'
+monospace-font-name='monospace 12'
 show-battery-percentage=false
 toolkit-accessibility=false
 
@@ -1192,7 +1194,7 @@ natural-scroll=true
 [org/gnome/desktop/peripherals/touchpad]
 click-method='fingers'
 natural-scroll=true
-send-events='enabled'
+send-events='disabled'
 tap-to-click=true
 two-finger-scrolling-enabled=true
 
@@ -1364,7 +1366,7 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.9267596169998322, 1.249554578928614)
+window-ratio=(1.9266180179383814, 1.249841312990553)
 zoom=0.50565713588756034
 
 [org/gnome/evolution-data-server]
@@ -1793,7 +1795,7 @@ user='lucas'
 [org/gnome/rhythmbox]
 display-page-tree-visible=true
 maximized=false
-position=(1302, 318)
+position=(45, 29)
 queue-as-sidebar=false
 size=(1060, 676)
 
@@ -2083,6 +2085,9 @@ vertical=0
 captivate=['Menu']
 notify=true
 set-captivate=['<Control>space']
+
+[org/gnome/shell/extensions/com-flannaghan-ProxySwitcher]
+active-mode='manual'
 
 [org/gnome/shell/extensions/com/github/hermes83/compiz-windows-effect]
 friction=3.5
@@ -2492,7 +2497,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1719976973
+flatpak-purge-timestamp=int64 1721539386
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2584,7 +2589,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(760, 194)
+window-position=(0, 28)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
@@ -2877,7 +2882,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
+session=['1;;+file:///home/lucas/Documents/private.yaml']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
@@ -2897,21 +2902,21 @@ width=uint32 1113
 region='zh_CN.UTF-8'
 
 [system/proxy]
-ignore-hosts=['localhost', '127.0.0.1/8', '::1']
+ignore-hosts=@as []
 mode='none'
 
 [system/proxy/ftp]
-host='127.0.0.1'
-port=7890
+host=''
+port=0
 
 [system/proxy/http]
-host='127.0.0.1'
-port=7890
+host=''
+port=0
 
 [system/proxy/https]
-host='127.0.0.1'
-port=7890
+host=''
+port=0
 
 [system/proxy/socks]
 host='127.0.0.1'
-port=7890
+port=1080

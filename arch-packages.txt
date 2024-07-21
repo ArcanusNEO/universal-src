@@ -98,6 +98,11 @@ amf-headers
 ams
 ams-lv2
 amsynth
+amsynth-common
+amsynth-dssi
+amsynth-lv2
+amsynth-standalone
+amsynth-vst
 amule
 analitza
 android-apktool
@@ -414,7 +419,6 @@ clang15
 clash-geoip
 clash-meta
 clash-meta-is-mihomo
-clash-verge
 clazy
 clblast
 clevis
@@ -1312,7 +1316,6 @@ guile
 guile1.8
 guile2.2
 guitarix
-gulp
 gumbo-parser
 gummi
 gupnp
@@ -2758,7 +2761,7 @@ libffi
 libfishsound
 libfm
 libfm-extra
-libfm-gtk2
+libfm-gtk3
 libfm-qt
 libfontenc
 libfprint
@@ -3319,23 +3322,24 @@ lutris
 lv2
 lv2-example-plugins
 lv2file
+lv2lint
 lvm2
 lvtk
-lxappearance
-lxappearance-obconf
+lxappearance-gtk3
+lxappearance-obconf-gtk3
 lxc
 lxcfs
 lxd
 lxde-common
 lxde-icon-theme
-lxdm
-lxhotkey
+lxdm-gtk3
+lxhotkey-gtk3
 lximage-qt
-lxinput
-lxlauncher
+lxinput-gtk3
+lxlauncher-gtk3
 lxmenu-data
 lxmusic
-lxpanel
+lxpanel-gtk3
 lxqt-about
 lxqt-admin
 lxqt-archiver
@@ -3352,9 +3356,9 @@ lxqt-runner
 lxqt-session
 lxqt-sudo
 lxqt-themes
-lxrandr
-lxsession
-lxtask
+lxrandr-gtk3
+lxsession-gtk3
+lxtask-gtk3
 lxterminal
 lynx
 lyx
@@ -3433,6 +3437,7 @@ mesa-vdpau
 meson
 meson-python
 messagelib
+meta-rules-dat
 metacubexd
 metalog
 metals
@@ -3588,7 +3593,6 @@ nmap
 nnn
 node-gyp
 nodejs-decktape
-nodejs-emojione
 nodejs-lts-iron
 nodejs-nativefier
 nodejs-nopt
@@ -3605,6 +3609,7 @@ non-mixer
 non-sequencer
 non-timeline
 normaliz
+notepadqq
 noto-fonts
 noto-fonts-cjk
 noto-fonts-extra
@@ -3793,7 +3798,6 @@ pango-perl
 pangomm
 pangomm-2.48
 pappl
-paprefs
 parallel
 pari
 pari-galdata
@@ -3820,7 +3824,7 @@ payload-dumper-go
 pbzip2
 pcaudiolib
 pciutils
-pcmanfm
+pcmanfm-gtk3
 pcmanfm-qt
 pcp
 pcp-pmda-bcc
@@ -4787,6 +4791,7 @@ python-scipy
 python-screeninfo
 python-secretstorage
 python-semantic-version
+python-semver
 python-send2trash
 python-sentry_sdk
 python-serpent
@@ -4872,6 +4877,7 @@ python-typed-ast
 python-typeguard
 python-typing_extensions
 python-typogrify
+python-tzdata
 python-tzlocal
 python-uc-micro-py
 python-ufolib2
@@ -4936,6 +4942,7 @@ python-zope-interface
 python-zopfli
 python-zstandard
 python2
+python311
 qastools
 qca-qt5
 qca-qt6
