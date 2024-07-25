@@ -1183,7 +1183,6 @@ gnome-vfs
 gnome-video-effects
 gnome-weather
 gnu-free-fonts
-gnu-netcat
 gnuchess
 gnugo
 gnupg
@@ -1311,6 +1310,7 @@ gtkspell3
 gtkspellmm
 gtop
 gts
+gtuber
 gucharmap
 guile
 guile1.8
@@ -2687,6 +2687,8 @@ libcerf
 libcgif
 libchamplain
 libcheese
+libclapper
+libclapper-gtk
 libclc
 libcloudproviders
 libcmis
@@ -3672,6 +3674,7 @@ openal-examples
 openbabel
 openblas64
 openbox
+openbsd-netcat
 opencc
 opencl-clhpp
 opencl-clover-mesa
@@ -4854,6 +4857,7 @@ python-text-unidecode
 python-texttable
 python-threadpoolctl
 python-tifffile
+python-tifffile-doc
 python-timm
 python-tinycss2
 python-tokenize-rt
