@@ -768,7 +768,7 @@ autorun-x-content-open-folder=['x-content/audio-dvd', 'x-content/image-dcf']
 autorun-x-content-start-app=['x-content/ostree-repository', 'x-content/unix-software', 'x-content/audio-cdda', 'x-content/audio-player', 'x-content/video-dvd']
 
 [org/gnome/desktop/notifications]
-application-children=['org-gnome-nautilus', 'firefox', 'org-gnome-shell-extensions-gsconnect', 'gnome-power-panel', 'icalingua', 'gnome-network-panel', 'steam-native', 'electronic-wechat', 'com-qq-weixin-deepin', 'crossover', 'org-gnome-builder', 'stacer', 'org-gnome-terminal', 'org-gnome-gedit', 'typora', 'com-blackmagicdesign-resolve', 'org-kde-kdenlive', 'virt-manager', 'org-gnome-screenshot', 'wine', 'org-gnome-evolution', 'qq', 'tor-browser', 'gnome-control-center', 'com-tencent-meeting-deepin', 'dolphin-emu', '-', 'visual-studio-code', 'org-gnome-gpaste-ui', 'wemeetapp', 'vlc', 'blueman-manager', 'org-gnome-shell-extensions', 'gimp', 'location-file-media-storage', 'org-gnome-fileroller', 'finalshell', 'libreoffice-writer', 'org-gnome-software', 'gnome-printers-panel', 'google-chrome', 'org-remmina-remmina', 'baidunetdisk', 'org-gnome-geary', 'rhythmbox', 'texmaker', 'mathpix-snipping-tool', 'touchpad-indicator', 'libreoffice-impress', 'org-gnome-eog', 'stardict', 'balena-etcher-electron', 'telegramdesktop', 'virtualbox', 'org-gnome-extensions', 'libreoffice-calc', 'org-gnome-chromegnomeshell', 'gnome-datetime-panel', 'electron', 'org-gnome-evince', 'netease-cloud-music', 'org-komorebiteam-wallpapercreator', 'variety', 'masterpdfeditor4', 'transmission-gtk', 'mountable-volume-225a6d42d4fa828f', 'skypeforlinux', 'org-gnome-baobab', 'com-alibabainc-dingtalk', 'org-gnome-texteditor', 'easyconnect', 'genymotion-player', 'org-gnome-rhythmbox3', 'wine-programs-microsoft-office-microsoft-word-2010', 'microsoft-office-microsoft-excel-2010', 'org-gnome-tweaks', 'guiscrcpy', 'android-studio', 'org-shotcut-shotcut', 'leafpad', 'fr-handbrake-ghb', 'peazip', 'transmission-qt', 'org-gnome-settings', 'location-gphoto2-apple-inc-iphone-a90958d660b413e7f04ec185a40d55438018f3a1-', 'mailspring', 'raven-reader', 'com-gitlab-newsflash', 'vmware-workstation', 'rog-control-center', 'feishu', 'gnome-system-monitor', 'wps-office-wpp', 'wine-wechat', 'clash-for-windows', 'wps-office-wps', 'org-inkscape-inkscape', 'code', 'org-telegram-desktop', 'com-uploadedlobster-peek', 'mpv', 'wine-programs-', 'org-gnome-console', 'ca-desrt-dconf-editor', '010editor', 'clash-verge', 'ieasemusic', 'windterm', 'org-gnome-epiphany', 'org-gnome-shell-portalhelper', 'sunloginremote', 'info-mumble-mumble', 'wewechat', 'cairo-dock', 'org-gnome-shell-extensions-gsconnect-preferences', 'axure-rp-8', 'com-github-iwalton3-jellyfin-media-player', 'localsend', 'com-github-marinm-songrec', 'org-kde-ark', 'picgo', 'org-gnome-terminal-preferences', 'cool-retro-term', 'xterm', 'nemo', 'steam', 'electron-netease-cloud-music', 'org-xfce-mousepad', 'org-kde-kate', 'davinciresolve', 'qmmp', 'qterminal', 'kde-wine-helper', 'balena-etcher', 'pasystray', 'megasync']
+application-children=['org-gnome-nautilus', 'firefox', 'org-gnome-shell-extensions-gsconnect', 'gnome-power-panel', 'icalingua', 'gnome-network-panel', 'steam-native', 'electronic-wechat', 'com-qq-weixin-deepin', 'crossover', 'org-gnome-builder', 'stacer', 'org-gnome-terminal', 'org-gnome-gedit', 'typora', 'com-blackmagicdesign-resolve', 'org-kde-kdenlive', 'virt-manager', 'org-gnome-screenshot', 'wine', 'org-gnome-evolution', 'qq', 'tor-browser', 'gnome-control-center', 'com-tencent-meeting-deepin', 'dolphin-emu', '-', 'visual-studio-code', 'org-gnome-gpaste-ui', 'wemeetapp', 'vlc', 'blueman-manager', 'org-gnome-shell-extensions', 'gimp', 'location-file-media-storage', 'org-gnome-fileroller', 'finalshell', 'libreoffice-writer', 'org-gnome-software', 'gnome-printers-panel', 'google-chrome', 'org-remmina-remmina', 'baidunetdisk', 'org-gnome-geary', 'rhythmbox', 'texmaker', 'mathpix-snipping-tool', 'touchpad-indicator', 'libreoffice-impress', 'org-gnome-eog', 'stardict', 'balena-etcher-electron', 'telegramdesktop', 'virtualbox', 'org-gnome-extensions', 'libreoffice-calc', 'org-gnome-chromegnomeshell', 'gnome-datetime-panel', 'electron', 'org-gnome-evince', 'netease-cloud-music', 'org-komorebiteam-wallpapercreator', 'variety', 'masterpdfeditor4', 'transmission-gtk', 'mountable-volume-225a6d42d4fa828f', 'skypeforlinux', 'org-gnome-baobab', 'com-alibabainc-dingtalk', 'org-gnome-texteditor', 'easyconnect', 'genymotion-player', 'org-gnome-rhythmbox3', 'wine-programs-microsoft-office-microsoft-word-2010', 'microsoft-office-microsoft-excel-2010', 'org-gnome-tweaks', 'guiscrcpy', 'android-studio', 'org-shotcut-shotcut', 'leafpad', 'fr-handbrake-ghb', 'peazip', 'transmission-qt', 'org-gnome-settings', 'location-gphoto2-apple-inc-iphone-a90958d660b413e7f04ec185a40d55438018f3a1-', 'mailspring', 'raven-reader', 'com-gitlab-newsflash', 'vmware-workstation', 'rog-control-center', 'feishu', 'gnome-system-monitor', 'wps-office-wpp', 'wine-wechat', 'clash-for-windows', 'wps-office-wps', 'org-inkscape-inkscape', 'code', 'org-telegram-desktop', 'com-uploadedlobster-peek', 'mpv', 'wine-programs-', 'org-gnome-console', 'ca-desrt-dconf-editor', '010editor', 'clash-verge', 'ieasemusic', 'windterm', 'org-gnome-epiphany', 'org-gnome-shell-portalhelper', 'sunloginremote', 'info-mumble-mumble', 'wewechat', 'cairo-dock', 'org-gnome-shell-extensions-gsconnect-preferences', 'axure-rp-8', 'com-github-iwalton3-jellyfin-media-player', 'localsend', 'com-github-marinm-songrec', 'org-kde-ark', 'picgo', 'org-gnome-terminal-preferences', 'cool-retro-term', 'xterm', 'nemo', 'steam', 'electron-netease-cloud-music', 'org-xfce-mousepad', 'org-kde-kate', 'davinciresolve', 'qmmp', 'qterminal', 'kde-wine-helper', 'balena-etcher', 'pasystray', 'megasync', 'calibre-gui']
 show-banners=true
 
 [org/gnome/desktop/notifications/application/-]
@@ -800,6 +800,9 @@ application-id='ca.desrt.dconf-editor.desktop'
 
 [org/gnome/desktop/notifications/application/cairo-dock]
 application-id='cairo-dock.desktop'
+
+[org/gnome/desktop/notifications/application/calibre-gui]
+application-id='calibre-gui.desktop'
 
 [org/gnome/desktop/notifications/application/clash-for-windows]
 application-id='clash-for-windows.desktop'
@@ -1366,7 +1369,7 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.9266180179383814, 1.249841312990553)
+window-ratio=(1.9264705882352942, 1.25)
 zoom=0.50565713588756034
 
 [org/gnome/evolution-data-server]
@@ -2497,7 +2500,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1721878098
+flatpak-purge-timestamp=int64 1722004825
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2850,7 +2853,7 @@ scaling=1
 vm-window-size=(1440, 756)
 
 [org/x/reader/default]
-window-ratio=(1.5425, 1.4266666666666667)
+window-ratio=(2.3999999999999999, 1.7)
 
 [org/xfce/mousepad/preferences/view]
 auto-indent=true
