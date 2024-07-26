@@ -17,7 +17,6 @@ if [[ $(id -u) -eq 0 ]]; then
 else
   PROMPT+='$ %{$reset_color%}'
 fi
-
 (( ${+functions[module]} )) || source /etc/modules/init/zsh
 
 umask 002
