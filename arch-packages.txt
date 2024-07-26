@@ -530,6 +530,11 @@ dav1d
 davs2
 db
 db5.3
+dbeaver
+dbeaver-plugin-apache-poi
+dbeaver-plugin-batik
+dbeaver-plugin-office
+dbeaver-plugin-svg-format
 dblatex
 dbus
 dbus-broker
@@ -879,6 +884,7 @@ fuse3
 fuseiso
 futuresql
 fvextra
+fvm
 fwupd
 fwupd-efi
 fxload
@@ -3275,7 +3281,7 @@ llvm15-libs
 lm_sensors
 lmdb
 lmms
-localsend-bin
+localsend
 lockdev
 lockfile-progs
 log4cplus
@@ -6115,6 +6121,7 @@ usbmuxd
 usbredir
 usbutils
 usd
+uthash
 util-linux
 util-linux-libs
 uudeck
@@ -6212,6 +6219,7 @@ wasi-compiler-rt
 wasi-libc
 wasi-libc++
 wasi-libc++abi
+wasm-component-ld
 wavpack
 waydroid
 waydroid-image-gapps
