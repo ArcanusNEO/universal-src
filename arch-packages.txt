@@ -1248,6 +1248,7 @@ grpc-cli
 grub
 gscan2pdf
 gsettings-desktop-schemas
+gsettings-system-schemas
 gsfonts
 gsl
 gsm
