@@ -677,7 +677,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='sound'
+last-panel='display'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]

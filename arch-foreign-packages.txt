@@ -457,7 +457,7 @@ sunloginclient
 sunloginremote
 systemd-boot-pacman-hook
 tap-plugins
-tcping-go-bin
+tcping-go
 teamviewer
 tencent-docs-bin
 terminus-font-ttf

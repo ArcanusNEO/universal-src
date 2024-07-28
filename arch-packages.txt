@@ -5693,7 +5693,7 @@ tar
 tcc
 tcl
 tcpdump
-tcping-go-bin
+tcping-go
 tcsh
 tdb
 teamviewer
