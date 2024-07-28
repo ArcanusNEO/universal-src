@@ -6040,6 +6040,7 @@ ttf-lilex-nerd
 ttf-linux-libertine
 ttf-linux-libertine-g
 ttf-martian-mono-nerd
+ttf-meslo
 ttf-meslo-nerd
 ttf-monapo
 ttf-monaspace-variable

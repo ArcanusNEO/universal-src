@@ -471,6 +471,7 @@ ttf-dingtalk-sans
 ttf-fixedsys-excelsior-linux
 ttf-kanjistrokeorders
 ttf-koruri
+ttf-meslo
 ttf-monapo
 ttf-mplus
 ttf-ms-fonts
