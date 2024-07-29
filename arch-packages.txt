@@ -4200,8 +4200,8 @@ python-apipkg
 python-appdirs
 python-apsw
 python-argcomplete
+python-argon2-cffi
 python-argon2-cffi-bindings
-python-argon2_cffi
 python-arrow
 python-asgiref
 python-astor

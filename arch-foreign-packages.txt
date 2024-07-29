@@ -246,7 +246,6 @@ midimsg-lv2
 mimeo
 mimetic
 mingw-w64-tools
-mkdocs
 mkdocs-git-revision-date-localized-plugin
 mkdocs-material-extensions
 mkdocs-minify-plugin
@@ -350,8 +349,6 @@ python-langdetect
 python-lazy-loader
 python-lsp-isort
 python-lsp-ruff
-python-mdx-gh-links
-python-mergedeep
 python-mitmproxy-wireguard
 python-mock
 python-optax
@@ -370,7 +367,6 @@ python-pylsp-rope
 python-pynput
 python-pytest-runner
 python-pywavelets
-python-pyyaml-env-tag
 python-qudida
 python-rarfile
 python-requirements-detector

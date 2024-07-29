@@ -3227,6 +3227,7 @@ mitmproxy
 mixxx
 mjpegtools
 mkcert
+mkdocs
 mkinitcpio
 mkinitcpio-busybox
 mkinitcpio-nfs-utils
@@ -3882,8 +3883,8 @@ python-apipkg
 python-appdirs
 python-apsw
 python-argcomplete
+python-argon2-cffi
 python-argon2-cffi-bindings
-python-argon2_cffi
 python-arrow
 python-asgiref
 python-astor
@@ -4172,9 +4173,11 @@ python-maturin
 python-mccabe
 python-mdit_py_plugins
 python-mdurl
+python-mdx-gh-links
 python-mechanize
 python-memory-allocator
 python-merge3
+python-mergedeep
 python-mistune
 python-mitmproxy-rs
 python-ml-dtypes
@@ -4377,6 +4380,7 @@ python-pyudev
 python-pywinrm
 python-pyx
 python-pyxdg
+python-pyyaml-env-tag
 python-pyzmq
 python-pyzstd
 python-qasync
