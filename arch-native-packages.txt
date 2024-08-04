@@ -21,6 +21,7 @@ acme.sh
 acorn
 acpi
 acpi_call-dkms
+ada
 adljack
 adlplug-lv2
 adlplug-standalone
@@ -523,6 +524,8 @@ discount
 distrho-ports-lv2
 distrho-ports-vst
 distrho-ports-vst3
+distro-info
+distro-info-data
 distrobuilder
 ditaa
 djvulibre
@@ -4316,6 +4319,7 @@ python-pygdbmi
 python-pygit2
 python-pygls
 python-pygments
+python-pygraphviz
 python-pyicu
 python-pyinotify
 python-pyjsparser

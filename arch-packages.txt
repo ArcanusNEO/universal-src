@@ -22,6 +22,7 @@ acme.sh
 acorn
 acpi
 acpi_call-dkms
+ada
 adljack
 adlplug-lv2
 adlplug-standalone
@@ -594,6 +595,8 @@ discount
 distrho-ports-lv2
 distrho-ports-vst
 distrho-ports-vst3
+distro-info
+distro-info-data
 distrobuilder
 ditaa
 djvulibre
@@ -624,7 +627,6 @@ dot2tex
 dotconf
 dotnet-host
 dotnet-runtime
-dotnet-runtime-3.1-bin
 dotnet-runtime-6.0
 dotnet-runtime-7.0
 dotnet-sdk
@@ -1882,7 +1884,7 @@ ijs
 imagemagick
 imake
 imath
-imewlconverter-bin
+imewlconverter
 imgcat
 iml
 imlib2
@@ -4676,6 +4678,7 @@ python-pygdbmi
 python-pygit2
 python-pygls
 python-pygments
+python-pygraphviz
 python-pyicu
 python-pyinotify
 python-pyjsparser
@@ -5430,7 +5433,6 @@ rust-musl
 rust-src
 rust-wasm
 rustc-demangle
-rustdesk
 rustic
 rxvt-unicode
 rxvt-unicode-terminfo

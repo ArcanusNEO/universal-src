@@ -71,7 +71,6 @@ diffmerge
 dingtalk-bin
 dmg2img
 dockerfile-language-server
-dotnet-runtime-3.1-bin
 downgrade
 dummydroid-bin
 dxvk-mingw
@@ -172,7 +171,7 @@ icoextract
 icu69
 icu70
 ida-free
-imewlconverter-bin
+imewlconverter
 imgcat
 insight-toolkit
 ir.lv2
@@ -419,7 +418,6 @@ ruby-solargraph
 ruby-treetop
 ruffle-nightly-bin
 rustc-demangle
-rustdesk
 sanguosha
 secure-delete
 see-git
