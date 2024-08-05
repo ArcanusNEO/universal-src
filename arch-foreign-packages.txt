@@ -381,7 +381,7 @@ python-timm
 python-tokenizers
 python-transformers
 python-ufonormalizer
-python-vdf
+python-vdf-solstice
 python-whatever
 python-wn
 python-x-transformers

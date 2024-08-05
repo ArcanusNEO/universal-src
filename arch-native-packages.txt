@@ -3874,6 +3874,7 @@ python-agate
 python-agate-dbf
 python-agate-excel
 python-agate-sql
+python-aiohappyeyeballs
 python-aiohttp
 python-aioquic
 python-aiosignal

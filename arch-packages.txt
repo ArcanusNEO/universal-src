@@ -4188,6 +4188,7 @@ python-agate
 python-agate-dbf
 python-agate-excel
 python-agate-sql
+python-aiohappyeyeballs
 python-aiohttp
 python-aioquic
 python-aiosignal
@@ -4911,7 +4912,7 @@ python-userpath
 python-utils
 python-uvloop
 python-validate-pyproject
-python-vdf
+python-vdf-solstice
 python-virtualenv
 python-virtualenv-clone
 python-virtualenvwrapper
