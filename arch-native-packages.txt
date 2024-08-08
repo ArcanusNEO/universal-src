@@ -2704,6 +2704,7 @@ libmng
 libmnl
 libmodplug
 libmp4v2
+libmpack
 libmpc
 libmpcdec
 libmpeg2
@@ -3262,6 +3263,7 @@ mplayer
 mpv
 mpv-mpris
 mpvqt
+msgpack-c
 msgpack-cxx
 msgraph
 msitools

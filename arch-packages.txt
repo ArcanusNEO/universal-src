@@ -2922,6 +2922,7 @@ libmng
 libmnl
 libmodplug
 libmp4v2
+libmpack
 libmpc
 libmpcdec
 libmpeg2
@@ -3516,6 +3517,7 @@ mpv
 mpv-mpris
 mpvqt
 msedgedriver-stable-bin
+msgpack-c
 msgpack-cxx
 msgraph
 msitools

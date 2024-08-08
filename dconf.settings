@@ -1369,7 +1369,7 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.9264705882352942, 1.25)
+window-ratio=(1.925719591457753, 1.2504708097928436)
 zoom=0.50565713588756034
 
 [org/gnome/evolution-data-server]
@@ -2500,7 +2500,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1722755314
+flatpak-purge-timestamp=int64 1723096992
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2592,7 +2592,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(0, 28)
+window-position=(0, 32)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
