@@ -224,6 +224,7 @@ libui-ng-git
 libxcomp
 linux-wifi-hotspot
 linuxqq-nt-bwrap
+llhttp
 llvm15
 llvm15-libs
 localsend
@@ -412,7 +413,6 @@ rog-control-center
 ruby-backport
 ruby-e2mmap
 ruby-jaro_winkler
-ruby-rbs
 ruby-reverse_markdown
 ruby-solargraph
 ruby-treetop
