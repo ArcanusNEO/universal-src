@@ -1,4 +1,5 @@
 7-zip
+adspower-global
 afdko
 aic94xx-firmware
 alist
@@ -18,7 +19,6 @@ apfs-fuse-git
 appimagetool-bin
 apple-fonts
 arduino
-arduino-docs
 aria2-fast
 aria2c-daemon
 asp
@@ -110,8 +110,6 @@ fswatch
 fvm
 fxload
 fzf-extras
-gambas3-gb-sdl
-gambas3-gb-sdl-sound
 gamin
 ganache-cli
 gatling
@@ -190,7 +188,6 @@ joplin-desktop
 jre-lts
 jre11
 jre8
-js102
 kddockwidgets
 kddockwidgets-qt6
 kdocker

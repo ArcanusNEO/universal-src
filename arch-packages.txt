@@ -42,6 +42,7 @@ adobe-source-han-serif-otc-fonts
 adobe-source-han-serif-tw-fonts
 adobe-source-sans-fonts
 adobe-source-serif-fonts
+adspower-global
 adwaita-cursors
 adwaita-icon-theme
 adwaita-icon-theme-legacy
@@ -148,7 +149,6 @@ arduino-avr-core
 arduino-builder
 arduino-cli
 arduino-ctags
-arduino-docs
 arduino-fwuploader
 arduino-ide
 arduino-language-server
@@ -960,8 +960,6 @@ gambas3-gb-qt5
 gambas3-gb-qt5-opengl
 gambas3-gb-report
 gambas3-gb-scanner
-gambas3-gb-sdl
-gambas3-gb-sdl-sound
 gambas3-gb-sdl2
 gambas3-gb-sdl2-audio
 gambas3-gb-settings
@@ -1993,8 +1991,8 @@ jre11
 jre8
 jre8-openjdk
 jre8-openjdk-headless
-js102
 js115
+js128
 js91
 jsampler
 json-c

@@ -1802,6 +1802,7 @@ jq
 jre8-openjdk
 jre8-openjdk-headless
 js115
+js128
 js91
 jsampler
 json-c
