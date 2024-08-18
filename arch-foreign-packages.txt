@@ -17,7 +17,6 @@ aocl-aocc
 aocl-gcc
 apfs-fuse-git
 appimagetool-bin
-apple-fonts
 arduino
 aria2-fast
 aria2c-daemon
@@ -456,7 +455,6 @@ texmacs
 tor-browser-bin
 treeline
 ttf-apple-emoji
-ttf-apple-fontpack
 ttf-arphic-extra
 ttf-dingtalk-sans
 ttf-fixedsys-excelsior-linux
@@ -511,7 +509,6 @@ woff2-smiley-sans-bin
 womic
 wordbook
 wps-office
-wps-office-fonts
 wps-office-mime
 wps-office-mui-zh-cn
 wudao-dict-git

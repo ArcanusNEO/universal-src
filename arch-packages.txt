@@ -131,7 +131,6 @@ apache
 apfs-fuse-git
 apparmor
 appimagetool-bin
-apple-fonts
 appmenu-gtk-module
 appstream
 appstream-glib
@@ -3307,10 +3306,12 @@ lsof
 lsp-plugins
 lsp-plugins-clap
 lsp-plugins-docs
+lsp-plugins-gst
 lsp-plugins-ladspa
 lsp-plugins-lv2
 lsp-plugins-standalone
 lsp-plugins-vst
+lsp-plugins-vst3
 lsscsi
 lto-dump
 lttng-ust
@@ -5949,7 +5950,6 @@ ttf-agave-nerd
 ttf-anonymous-pro
 ttf-anonymouspro-nerd
 ttf-apple-emoji
-ttf-apple-fontpack
 ttf-arimo-nerd
 ttf-arphic-extra
 ttf-arphic-ukai
@@ -6273,7 +6273,6 @@ wpa_supplicant
 wpebackend-fdo
 wpewebkit
 wps-office
-wps-office-fonts
 wps-office-mime
 wps-office-mui-zh-cn
 wqy-bitmapfont

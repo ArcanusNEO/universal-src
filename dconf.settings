@@ -677,7 +677,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='network'
+last-panel='background'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1602,8 +1602,12 @@ col-1-width=147
 col-2-visible=true
 col-2-width=145
 col-6-visible=true
-col-6-width=0
+col-6-width=903
 columns-order=[0, 1, 2, 3, 4, 5, 6]
+sort-col=0
+sort-order=0
+
+[org/gnome/gnome-system-monitor/memmapstree]
 sort-col=0
 sort-order=0
 
@@ -2500,7 +2504,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1723355687
+flatpak-purge-timestamp=int64 1723951690
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

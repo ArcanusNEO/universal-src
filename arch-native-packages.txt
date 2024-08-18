@@ -3079,10 +3079,12 @@ lsof
 lsp-plugins
 lsp-plugins-clap
 lsp-plugins-docs
+lsp-plugins-gst
 lsp-plugins-ladspa
 lsp-plugins-lv2
 lsp-plugins-standalone
 lsp-plugins-vst
+lsp-plugins-vst3
 lsscsi
 lto-dump
 lttng-ust
