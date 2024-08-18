@@ -17,7 +17,7 @@ width=1440
 
 [ca/desrt/dconf-editor]
 saved-pathbar-path='/org/gnome/desktop/interface/monospace-font-name'
-saved-view='/org/gnome/desktop/interface/monospace-font-name'
+saved-view='/org/gnome/desktop/interface/'
 show-warning=false
 window-height=818
 window-is-maximized=false
@@ -755,7 +755,7 @@ gtk-key-theme='Emacs'
 gtk-theme='WhiteSur-Light'
 icon-theme='WhiteSur'
 locate-pointer=false
-monospace-font-name='monospace 10'
+monospace-font-name='monospace 12'
 show-battery-percentage=false
 toolkit-accessibility=false
 
