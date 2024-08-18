@@ -16,10 +16,10 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/TextEditor/'
-saved-view='/org/gnome/TextEditor/'
+saved-pathbar-path='/org/gnome/desktop/interface/monospace-font-name'
+saved-view='/org/gnome/desktop/interface/monospace-font-name'
 show-warning=false
-window-height=817
+window-height=818
 window-is-maximized=false
 window-width=1439
 
@@ -746,16 +746,16 @@ clock-show-seconds=true
 clock-show-weekday=true
 color-scheme='default'
 cursor-theme='WhiteSur-cursors'
-document-font-name='sans-serif 12'
+document-font-name='sans-serif 11'
 enable-animations=true
 enable-hot-corners=false
-font-name='sans-serif 12'
+font-name='sans-serif 11'
 gtk-im-module='ibus'
 gtk-key-theme='Emacs'
 gtk-theme='WhiteSur-Light'
 icon-theme='WhiteSur'
 locate-pointer=false
-monospace-font-name='monospace 12'
+monospace-font-name='monospace 10'
 show-battery-percentage=false
 toolkit-accessibility=false
 

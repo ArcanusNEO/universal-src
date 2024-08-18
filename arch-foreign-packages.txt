@@ -509,6 +509,7 @@ woff2-smiley-sans-bin
 womic
 wordbook
 wps-office
+wps-office-fonts
 wps-office-mime
 wps-office-mui-zh-cn
 wudao-dict-git

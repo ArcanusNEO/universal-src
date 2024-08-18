@@ -6273,6 +6273,7 @@ wpa_supplicant
 wpebackend-fdo
 wpewebkit
 wps-office
+wps-office-fonts
 wps-office-mime
 wps-office-mui-zh-cn
 wqy-bitmapfont
