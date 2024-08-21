@@ -4331,6 +4331,7 @@ python-dodgy
 python-dogpile.cache
 python-dotenv
 python-dpkt
+python-dukpy
 python-dulwich
 python-dunamai
 python-e3-core
@@ -4549,6 +4550,7 @@ python-multivolumefile
 python-munch
 python-mutagen
 python-mutatormath
+python-mutf8
 python-mypy_extensions
 python-mysqlclient
 python-myst-parser

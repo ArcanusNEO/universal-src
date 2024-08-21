@@ -323,6 +323,7 @@ python-curl-cffi
 python-dateparser
 python-dm-tree
 python-dodgy
+python-dukpy
 python-e3-core
 python-e3-testsuite
 python-einops
@@ -347,6 +348,7 @@ python-lsp-isort
 python-lsp-ruff
 python-mitmproxy-wireguard
 python-mock
+python-mutf8
 python-optax
 python-orbax-checkpoint
 python-pdm-pep517
