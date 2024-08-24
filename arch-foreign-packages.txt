@@ -160,6 +160,7 @@ hfsutils
 hmcl
 hotspot
 httpdirfs
+httpfs2-2gbplus
 humanity-icon-theme
 hysteria
 i4tools-bin
@@ -204,6 +205,7 @@ lib32-faudio
 lib32-lapack
 lib32-lzo
 lib32-ncurses5-compat-libs
+lib32-rest
 libaal
 libcroco
 libcurl-impersonate-bin
@@ -406,6 +408,7 @@ remmina-plugin-open
 remmina-plugin-teamviewer
 remmina-plugin-url
 responder
+rest
 rig
 rog-control-center
 ruby-backport
@@ -465,7 +468,14 @@ ttf-koruri
 ttf-meslo
 ttf-monapo
 ttf-mplus
-ttf-ms-fonts
+ttf-ms-win10-auto
+ttf-ms-win10-auto-japanese
+ttf-ms-win10-auto-korean
+ttf-ms-win10-auto-other
+ttf-ms-win10-auto-sea
+ttf-ms-win10-auto-thai
+ttf-ms-win10-auto-zh_cn
+ttf-ms-win10-auto-zh_tw
 ttf-smiley-sans-bin
 ttf-wps-fonts
 typora-electron

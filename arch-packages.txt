@@ -279,6 +279,7 @@ bind
 bingrep
 binutils
 binwalk
+birdfont
 bison
 bitcoin-daemon
 black-hole-solver
@@ -716,6 +717,7 @@ electron28
 electron29
 electron30
 electron31
+electron32
 electron9-bin
 element
 elementary-icon-theme
@@ -1805,6 +1807,7 @@ hspell
 htop
 http-parser
 httpdirfs
+httpfs2-2gbplus
 httpie
 humanity-icon-theme
 hunspell
@@ -3210,6 +3213,7 @@ libxml++
 libxml2
 libxml2-docs
 libxmlb
+libxmlbird
 libxmu
 libxnvctrl
 libxp
@@ -6033,7 +6037,14 @@ ttf-monoid-nerd
 ttf-mononoki-nerd
 ttf-mplus
 ttf-mplus-nerd
-ttf-ms-fonts
+ttf-ms-win10-auto
+ttf-ms-win10-auto-japanese
+ttf-ms-win10-auto-korean
+ttf-ms-win10-auto-other
+ttf-ms-win10-auto-sea
+ttf-ms-win10-auto-thai
+ttf-ms-win10-auto-zh_cn
+ttf-ms-win10-auto-zh_tw
 ttf-nerd-fonts-symbols
 ttf-nerd-fonts-symbols-common
 ttf-nerd-fonts-symbols-mono

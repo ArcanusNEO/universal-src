@@ -248,6 +248,7 @@ bind
 bingrep
 binutils
 binwalk
+birdfont
 bison
 bitcoin-daemon
 black-hole-solver
@@ -631,6 +632,7 @@ electron28
 electron29
 electron30
 electron31
+electron32
 element
 elementary-icon-theme
 elfutils
@@ -2389,7 +2391,6 @@ lib32-polkit
 lib32-popt
 lib32-readline
 lib32-renderdoc
-lib32-rest
 lib32-rust-libs
 lib32-sdl12-compat
 lib32-sdl2
@@ -2990,6 +2991,7 @@ libxml++
 libxml2
 libxml2-docs
 libxmlb
+libxmlbird
 libxmu
 libxnvctrl
 libxp
@@ -4822,7 +4824,6 @@ reiserfsprogs
 remmina
 renderdoc
 repgrep
-rest
 retro-gtk
 retroarch
 retroarch-assets-glui
