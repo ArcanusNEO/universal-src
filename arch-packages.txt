@@ -2023,6 +2023,7 @@ kaccounts-integration
 kaccounts-providers
 kactivities5
 kaddressbook
+kafka
 kajongg
 kalarm
 kalgebra
@@ -4095,6 +4096,7 @@ playerctl
 plfit
 plocate
 plotutils
+plumber
 plymouth
 pm2
 pngquant
