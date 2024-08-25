@@ -1100,6 +1100,7 @@ gron
 grpc
 grpc-cli
 grub
+grunt-cli
 gscan2pdf
 gsettings-desktop-schemas
 gsettings-system-schemas
