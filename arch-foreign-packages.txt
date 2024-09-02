@@ -137,7 +137,6 @@ gnome-shell-extension-dash-to-dock-git
 gnome-shell-extension-notification-timeout-git
 gnome-shell-extension-proxy-switcher-git
 gnome-shell-performance
-gnome-shell-performance-docs
 gnome-vfs
 gomatrix-git
 google-chrome
@@ -205,7 +204,6 @@ lib32-faudio
 lib32-lapack
 lib32-lzo
 lib32-ncurses5-compat-libs
-lib32-rest
 libaal
 libcroco
 libcurl-impersonate-bin
@@ -252,7 +250,6 @@ mma
 mprime
 msedgedriver-stable-bin
 mutter-performance
-mutter-performance-docs
 nautilus-sendto
 navicat16-premium-cs
 ncurses5-compat-libs
@@ -382,7 +379,7 @@ python-timm
 python-tokenizers
 python-transformers
 python-ufonormalizer
-python-vdf-solstice
+python-vdf
 python-whatever
 python-wn
 python-x-transformers
@@ -420,6 +417,7 @@ ruby-treetop
 ruffle-nightly-bin
 rustc-demangle
 sanguosha
+sdcardformatter
 secure-delete
 see-git
 seer-gdb

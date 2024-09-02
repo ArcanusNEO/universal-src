@@ -373,7 +373,7 @@ window-width=800
 [org/gnome/TextEditor]
 highlight-current-line=true
 indent-style='space'
-last-save-directory='file:///home/lucas/Downloads'
+last-save-directory='file:///home/lucas/Games'
 restore-session=false
 show-grid=false
 show-line-numbers=true
@@ -1590,6 +1590,7 @@ process-memory-in-iec=true
 resources-memory-in-iec=true
 show-dependencies=true
 show-whose-processes='user'
+update-interval=1000
 window-height=887
 window-state=(1440, 979, 45, 29)
 window-width=1528
@@ -1602,7 +1603,7 @@ col-1-width=147
 col-2-visible=true
 col-2-width=145
 col-6-visible=true
-col-6-width=903
+col-6-width=0
 columns-order=[0, 1, 2, 3, 4, 5, 6]
 sort-col=0
 sort-order=0
@@ -2504,7 +2505,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1724567739
+flatpak-purge-timestamp=int64 1725171065
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2637,7 +2638,7 @@ selection-menu-move-to=true
 selection-menu-rename=true
 
 [org/nemo/search]
-search-files-recursively=true
+search-files-recursively=false
 search-reverse-sort=false
 search-sort-column='date_modified'
 

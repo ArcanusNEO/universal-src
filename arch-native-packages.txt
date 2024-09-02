@@ -532,7 +532,6 @@ ditaa
 djvulibre
 dkms
 dleyna
-dmapi
 dmd
 dmd-docs
 dmenu
@@ -560,9 +559,6 @@ dotnet-runtime-7.0
 dotnet-sdk
 dotnet-sdk-6.0
 dotnet-sdk-7.0
-dotnet-source-built-artifacts
-dotnet-source-built-artifacts-6.0
-dotnet-source-built-artifacts-7.0
 dotnet-targeting-pack
 dotnet-targeting-pack-6.0
 dotnet-targeting-pack-7.0
@@ -1475,6 +1471,7 @@ haskell-optparse-applicative
 haskell-optparse-simple
 haskell-ordered-containers
 haskell-ormolu
+haskell-os-string
 haskell-pandoc
 haskell-pandoc-lua-engine
 haskell-pandoc-lua-marshal
@@ -1788,6 +1785,7 @@ jconvolver
 jdk-openjdk
 jdk11-openjdk
 jdk17-openjdk
+jdk21-openjdk
 jdk8-openjdk
 jedi-language-server
 jellyfin-ffmpeg
@@ -2038,7 +2036,6 @@ knewstuff5
 knights
 knot
 knot-resolver
-knotes
 knotifications
 knotifications5
 knotifyconfig
@@ -2668,6 +2665,7 @@ libksba
 libkscreen
 libkscreen5
 libksieve
+libksysguard
 libktorrent
 liblangtag
 liblc3
@@ -2910,6 +2908,7 @@ libtpms
 libtraceevent
 libtracefs
 libudev0-shim
+libultrahdr
 libunibreak
 libuninameslist
 libunistring
@@ -3181,6 +3180,7 @@ marisa
 markdownpart
 marknote
 marksman
+massif-visualizer
 materialx
 mathjax
 mathjax2
@@ -3831,9 +3831,7 @@ postgresql-libs
 potrace
 power-profiles-daemon
 powerline
-powerline-common
 powerline-fonts
-powerline-vim
 powertop
 poxml
 ppl
@@ -4278,7 +4276,6 @@ python-poetry-dynamic-versioning
 python-poetry-plugin-export
 python-pooch
 python-portend
-python-powerline
 python-pplpy
 python-prettytable
 python-primecountpy
@@ -4817,6 +4814,7 @@ read-edid
 readline
 realtime-privileges
 reaper
+recastnavigation
 recode
 recordmydesktop
 redis
@@ -5663,6 +5661,7 @@ vi
 vice
 vid.stab
 vifm
+vim-powerline
 vim-runtime
 virglrenderer
 virt-install

@@ -602,7 +602,6 @@ ditaa
 djvulibre
 dkms
 dleyna
-dmapi
 dmd
 dmd-docs
 dmenu
@@ -632,9 +631,6 @@ dotnet-runtime-7.0
 dotnet-sdk
 dotnet-sdk-6.0
 dotnet-sdk-7.0
-dotnet-source-built-artifacts
-dotnet-source-built-artifacts-6.0
-dotnet-source-built-artifacts-7.0
 dotnet-targeting-pack
 dotnet-targeting-pack-6.0
 dotnet-targeting-pack-7.0
@@ -1171,7 +1167,6 @@ gnome-shell-extension-notification-timeout-git
 gnome-shell-extension-proxy-switcher-git
 gnome-shell-extensions
 gnome-shell-performance
-gnome-shell-performance-docs
 gnome-software
 gnome-sound-recorder
 gnome-sudoku
@@ -1627,6 +1622,7 @@ haskell-optparse-applicative
 haskell-optparse-simple
 haskell-ordered-containers
 haskell-ormolu
+haskell-os-string
 haskell-pandoc
 haskell-pandoc-lua-engine
 haskell-pandoc-lua-marshal
@@ -1969,6 +1965,7 @@ jdk-openjdk
 jdk11
 jdk11-openjdk
 jdk17-openjdk
+jdk21-openjdk
 jdk8
 jdk8-openjdk
 jdtls
@@ -2233,7 +2230,6 @@ knewstuff5
 knights
 knot
 knot-resolver
-knotes
 knotifications
 knotifications5
 knotifyconfig
@@ -2600,7 +2596,6 @@ lib32-polkit
 lib32-popt
 lib32-readline
 lib32-renderdoc
-lib32-rest
 lib32-rust-libs
 lib32-sdl12-compat
 lib32-sdl2
@@ -2883,6 +2878,7 @@ libksba
 libkscreen
 libkscreen5
 libksieve
+libksysguard
 libktorrent
 liblangtag
 liblc3
@@ -3131,6 +3127,7 @@ libtracefs
 libtsm
 libudev0-shim
 libui-ng-git
+libultrahdr
 libunibreak
 libuninameslist
 libunistring
@@ -3416,6 +3413,7 @@ markdownpart
 marknote
 marksman
 marsyas
+massif-visualizer
 masterpdfeditor-free
 materialx
 mathjax
@@ -3544,7 +3542,6 @@ muse
 musescore
 musl
 mutter-performance
-mutter-performance-docs
 mxml
 mxml-docs
 mypaint-brushes1
@@ -4130,9 +4127,7 @@ postgresql-libs
 potrace
 power-profiles-daemon
 powerline
-powerline-common
 powerline-fonts
-powerline-vim
 powertop
 poxml
 ppl
@@ -4636,7 +4631,6 @@ python-poetry-dynamic-versioning
 python-poetry-plugin-export
 python-pooch
 python-portend
-python-powerline
 python-pplpy
 python-prettytable
 python-primecountpy
@@ -4923,7 +4917,7 @@ python-userpath
 python-utils
 python-uvloop
 python-validate-pyproject
-python-vdf-solstice
+python-vdf
 python-virtualenv
 python-virtualenv-clone
 python-virtualenvwrapper
@@ -5221,6 +5215,7 @@ readline
 realtime-privileges
 reaper
 rebar3
+recastnavigation
 recode
 recordmydesktop
 redis
@@ -5455,6 +5450,7 @@ screengrab
 screenkey
 scrot
 sd
+sdcardformatter
 sdcv
 sdl12-compat
 sdl2
@@ -6156,6 +6152,7 @@ vice
 vid.stab
 vifm
 vim-language-server
+vim-powerline
 vim-runtime
 virglrenderer
 virt-install
