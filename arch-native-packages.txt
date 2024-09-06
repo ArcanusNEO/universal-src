@@ -1203,6 +1203,7 @@ haskell-aeson-pretty
 haskell-aeson-yaml
 haskell-algebraic-graphs
 haskell-ansi-terminal
+haskell-ansi-terminal-types
 haskell-ansi-wl-pprint
 haskell-appar
 haskell-apply-refact
@@ -1950,7 +1951,6 @@ keysmith
 keystone
 keyutils
 kfilemetadata
-kfilemetadata5
 kfind
 kfourinline
 kgeography
@@ -2642,7 +2642,6 @@ libjxl
 libkate
 libkate-docs
 libkcddb
-libkcddb5
 libkcompactdisc
 libkdcraw
 libkdcraw5
@@ -2783,8 +2782,11 @@ libplist
 libpng
 libpng12
 libportal
+libportal-docs
 libportal-gtk3
 libportal-gtk4
+libportal-qt5
+libportal-qt6
 libppd
 libproxy
 libpsl
@@ -5605,6 +5607,7 @@ ubuntu-keyring
 uchardet
 udftools
 udisks2
+udisks2-docs
 ueberzug
 ugrep
 uhttpmock

@@ -190,6 +190,7 @@ jre8
 kddockwidgets
 kddockwidgets-qt6
 kdocker
+kfilemetadata5
 kjs
 kmscon
 komikku
@@ -211,6 +212,7 @@ liberica-jdk-11-full-bin
 libgbinder
 libglibutil
 libinput-gestures
+libkcddb5
 libldap24
 libowfat
 libpng15
