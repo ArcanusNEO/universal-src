@@ -1197,7 +1197,7 @@ natural-scroll=true
 [org/gnome/desktop/peripherals/touchpad]
 click-method='fingers'
 natural-scroll=true
-send-events='disabled'
+send-events='enabled'
 tap-to-click=true
 two-finger-scrolling-enabled=true
 
@@ -2644,7 +2644,7 @@ search-sort-column='date_modified'
 
 [org/nemo/window-state]
 geometry='1258x888+393+39'
-maximized=true
+maximized=false
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
 sidebar-width=209

@@ -203,6 +203,7 @@ lerc
 lib32-blas
 lib32-faudio
 lib32-lapack
+lib32-libvisual
 lib32-lzo
 lib32-ncurses5-compat-libs
 libaal
@@ -219,6 +220,7 @@ libpng15
 libstroke
 libtsm
 libui-ng-git
+libvisual
 libxcomp
 linux-wifi-hotspot
 linuxqq-nt-bwrap

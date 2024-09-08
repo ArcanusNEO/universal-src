@@ -5023,7 +5023,6 @@ qemu-system-m68k
 qemu-system-microblaze
 qemu-system-microblaze-firmware
 qemu-system-mips
-qemu-system-nios2
 qemu-system-or1k
 qemu-system-ppc
 qemu-system-ppc-firmware
@@ -5053,6 +5052,7 @@ qemu-user
 qemu-user-static
 qemu-user-static-binfmt
 qemu-vhost-user-gpu
+qemu-vmsr-helper
 qgpgme-qt6
 qhull
 qimgv
