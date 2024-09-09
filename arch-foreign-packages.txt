@@ -91,6 +91,7 @@ etcher-bin
 evhz-git
 faudio
 feishu-bin
+ffmpeg2theora
 finalshell
 firefox-vaapi
 flashplayer-standalone

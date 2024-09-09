@@ -701,7 +701,6 @@ festival-us
 ffcall
 fflas-ffpack
 ffmpeg
-ffmpeg2theora
 ffmpeg4.4
 ffmpegthumbnailer
 ffmpegthumbs
