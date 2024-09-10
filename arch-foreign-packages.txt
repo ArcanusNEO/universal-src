@@ -145,6 +145,8 @@ googler
 gpt4all-chat
 gpu-viewer
 gputest
+gstreamermm
+gstreamermm-docs
 gtk-theme-numix-solarized
 gtkglext
 guile1.8

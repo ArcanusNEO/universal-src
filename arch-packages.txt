@@ -6541,6 +6541,7 @@ zoom
 zopfli
 zotero
 zoxide
+zram-generator
 zsh
 zsh-autosuggestions
 zsh-completions

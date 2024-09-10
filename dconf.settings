@@ -1582,7 +1582,7 @@ include-pointer=false
 last-save-directory='file:///home/lucas/Downloads'
 
 [org/gnome/gnome-system-monitor]
-current-tab='processes'
+current-tab='disks'
 logarithmic-scale=false
 maximized=false
 network-total-in-bits=false

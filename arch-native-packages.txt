@@ -1130,8 +1130,6 @@ gst-python
 gstreamer
 gstreamer-docs
 gstreamer-vaapi
-gstreamermm
-gstreamermm-docs
 gtest
 gtk-chtheme
 gtk-doc
@@ -5989,6 +5987,7 @@ zlib-ng
 zls
 zopfli
 zoxide
+zram-generator
 zsh
 zsh-autosuggestions
 zsh-completions
