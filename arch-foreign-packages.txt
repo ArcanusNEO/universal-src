@@ -312,7 +312,6 @@ protonutils
 psautohint
 pulsar-bin
 purescript-language-server
-pymdown-extensions
 pypy3-pip
 pypy3-setuptools
 python-albucore

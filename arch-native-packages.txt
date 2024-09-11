@@ -4334,6 +4334,7 @@ python-pyliblo
 python-pylint
 python-pylint-venv
 python-pylsqpack
+python-pymdown-extensions
 python-pymongo
 python-pynacl
 python-pynetbox

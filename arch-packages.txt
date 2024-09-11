@@ -4178,7 +4178,6 @@ purpose5
 pvoc
 pwru
 pybind11
-pymdown-extensions
 pypy
 pypy3
 pypy3-pip
@@ -4704,6 +4703,7 @@ python-pylint-venv
 python-pylsp-mypy
 python-pylsp-rope
 python-pylsqpack
+python-pymdown-extensions
 python-pymongo
 python-pynacl
 python-pynetbox
