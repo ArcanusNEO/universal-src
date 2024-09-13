@@ -84,7 +84,6 @@ electron16-bin
 electron21-bin
 electron22-bin
 electron9-bin
-env-modules
 envycontrol
 erlang_ls
 etcher-bin
@@ -227,6 +226,7 @@ linuxqq-nt-bwrap
 llhttp
 llvm15
 llvm15-libs
+lmod
 localsend
 lockdev
 lyx
@@ -413,8 +413,6 @@ rog-control-center
 ruby-backport
 ruby-e2mmap
 ruby-jaro_winkler
-ruby-reverse_markdown
-ruby-solargraph
 ruby-treetop
 ruffle-nightly-bin
 rustc-demangle

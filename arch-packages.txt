@@ -732,7 +732,6 @@ enchant
 endeavour
 enet
 entr
-env-modules
 envycontrol
 eog
 epiphany
@@ -3287,6 +3286,7 @@ llvm15-libs
 lm_sensors
 lmdb
 lmms
+lmod
 localsend
 lockdev
 lockfile-progs
@@ -3321,10 +3321,12 @@ lto-dump
 lttng-ust
 lua
 lua-alt-getopt
+lua-bit32
 lua-filesystem
 lua-language-server
 lua-lgi
 lua-lpeg
+lua-posix
 lua51
 lua51-lgi
 lua52
@@ -5371,7 +5373,6 @@ ruby-rb-inotify
 ruby-rbs
 ruby-rdoc
 ruby-regexp_parser
-ruby-reverse_markdown
 ruby-rexml
 ruby-rouge
 ruby-rr
@@ -5386,7 +5387,6 @@ ruby-ruby-progressbar
 ruby-rugged
 ruby-sass
 ruby-sass-listen
-ruby-solargraph
 ruby-stdlib
 ruby-sync
 ruby-sys-proctable

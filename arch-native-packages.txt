@@ -3090,10 +3090,12 @@ lto-dump
 lttng-ust
 lua
 lua-alt-getopt
+lua-bit32
 lua-filesystem
 lua-language-server
 lua-lgi
 lua-lpeg
+lua-posix
 lua51
 lua51-lgi
 lua52
