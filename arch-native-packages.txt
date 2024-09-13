@@ -5652,6 +5652,7 @@ variety
 vc
 vcdimager
 vco-plugins
+vcpkg
 vde2
 vdpauinfo
 verdict

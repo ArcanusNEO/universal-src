@@ -794,7 +794,6 @@ festival-us
 ffcall
 fflas-ffpack
 ffmpeg
-ffmpeg2theora
 ffmpeg4.4
 ffmpegthumbnailer
 ffmpegthumbs
@@ -2529,7 +2528,6 @@ lib32-libva-intel-driver
 lib32-libva-mesa-driver
 lib32-libva-vdpau-driver
 lib32-libvdpau
-lib32-libvisual
 lib32-libvorbis
 lib32-libvpx
 lib32-libvpx1.3
@@ -2856,7 +2854,6 @@ libjxl
 libkate
 libkate-docs
 libkcddb
-libkcddb5
 libkcompactdisc
 libkdcraw
 libkdcraw5
@@ -3343,7 +3340,6 @@ lv2-example-plugins
 lv2file
 lv2lint
 lvm2
-lvtk
 lxappearance-gtk3
 lxappearance-obconf-gtk3
 lxc

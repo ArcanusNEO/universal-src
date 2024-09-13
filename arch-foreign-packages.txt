@@ -91,7 +91,6 @@ etcher-bin
 evhz-git
 faudio
 feishu-bin
-ffmpeg2theora
 finalshell
 firefox-vaapi
 flashplayer-standalone
@@ -206,7 +205,6 @@ lerc
 lib32-blas
 lib32-faudio
 lib32-lapack
-lib32-libvisual
 lib32-lzo
 lib32-ncurses5-compat-libs
 libaal
@@ -216,7 +214,6 @@ liberica-jdk-11-full-bin
 libgbinder
 libglibutil
 libinput-gestures
-libkcddb5
 libldap24
 libowfat
 libpng15
@@ -232,7 +229,6 @@ llvm15
 llvm15-libs
 localsend
 lockdev
-lvtk
 lyx
 lzfse
 macintosh.js-bin
@@ -490,7 +486,6 @@ upd72020x-fw
 uudeck
 uxplay
 vala-language-server
-vcpkg
 vdhcoapp
 ventoy-bin
 verilog-format-git
