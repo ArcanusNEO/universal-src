@@ -3349,7 +3349,7 @@ nm-connection-editor
 nmap
 nnn
 node-gyp
-nodejs-lts-iron
+nodejs-lts-hydrogen
 nodejs-nopt
 nodejs-source-map
 nodejs-yaml

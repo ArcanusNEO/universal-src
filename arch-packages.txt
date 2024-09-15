@@ -3610,7 +3610,7 @@ nmap
 nnn
 node-gyp
 nodejs-decktape
-nodejs-lts-iron
+nodejs-lts-hydrogen
 nodejs-nativefier
 nodejs-nopt
 nodejs-reveal.js
@@ -3825,7 +3825,7 @@ paros
 parsec-bin
 parted
 partitionmanager
-paru-git
+paru
 pass
 passim
 passt
