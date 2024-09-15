@@ -134,7 +134,6 @@ gnome-shell-extension-appindicator-git
 gnome-shell-extension-compiz-alike-magic-lamp-effect-git
 gnome-shell-extension-dash-to-dock-git
 gnome-shell-extension-notification-timeout-git
-gnome-shell-extension-proxy-switcher-git
 gnome-shell-performance
 gnome-vfs
 gomatrix-git
