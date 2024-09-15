@@ -223,7 +223,6 @@ libvisual
 libxcomp
 linux-wifi-hotspot
 linuxqq-nt-bwrap
-llhttp
 llvm15
 llvm15-libs
 lmod
@@ -289,7 +288,7 @@ pacman-static
 pacroller
 paros
 parsec-bin
-paru
+paru-git
 patool
 payload-dumper-go
 peazip-gtk2-bin
@@ -308,8 +307,6 @@ protonutils
 psautohint
 pulsar-bin
 purescript-language-server
-pypy3-pip
-pypy3-setuptools
 python-albucore
 python-albumentations
 python-async_generator

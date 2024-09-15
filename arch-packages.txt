@@ -3826,7 +3826,7 @@ paros
 parsec-bin
 parted
 partitionmanager
-paru
+paru-git
 pass
 passim
 passt
@@ -4178,8 +4178,6 @@ pwru
 pybind11
 pypy
 pypy3
-pypy3-pip
-pypy3-setuptools
 pyright
 pyside6
 pysolfc
