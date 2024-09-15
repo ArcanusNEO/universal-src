@@ -1,8 +1,8 @@
 [Trigger]
 Operation=Install
 Operation=Upgrade
-Type = Path
-Target = usr/share/gnome-shell/extensions/AlphabeticalAppGrid@stuarthayhurst/schemas/org.gnome.shell.extensions.AlphabeticalAppGrid.gschema.xml
+Type=Package
+Target=gnome-shell-extension-alphabetical-grid-extension*
 
 [Action]
 Description=Compiling GSettings XML schema files for AlphabeticalAppGrid...
