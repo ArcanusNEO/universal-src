@@ -5782,6 +5782,7 @@ x265
 x42-plugins-lv2
 x42-plugins-standalone
 x86_energy_perf_policy
+xaos
 xapian-core
 xapp
 xarchiver
