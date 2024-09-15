@@ -17,9 +17,8 @@ if [[ $(id -u) -eq 0 ]]; then
 else
   PROMPT+='$ %{$reset_color%}'
 fi
-(( ${+functions[module]} )) || source /etc/modules/init/zsh
 
-umask 002
+#umask 002
 alias ls="ls --color=auto --group-directories-first"
 alias l='ls -Fhla'
 alias ll='ls -FhlaX'
