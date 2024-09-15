@@ -6,9 +6,6 @@ export SDL_IM_MODULE=ibus
 export GLFW_IM_MODULE=ibus
 export GTK_THEME=WhiteSur-Light
 export QT_STYLE_OVERRIDE=kvantum
-export QT_QPA_PLATFORM=xcb
-export WINIT_UNIX_BACKEND=x11
-export ELECTRON_OZONE_PLATFORM_HINT=x11
 
 export VKD3D_CONFIG=dxr11,dxr
 export VKD3D_DEBUG=none
