@@ -42,6 +42,7 @@ adobe-source-han-serif-otc-fonts
 adobe-source-han-serif-tw-fonts
 adobe-source-sans-fonts
 adobe-source-serif-fonts
+adriconf
 adspower-global
 adwaita-cursors
 adwaita-icon-theme
@@ -2574,7 +2575,9 @@ lib32-nvidia-cg-toolkit
 lib32-nvidia-utils
 lib32-ocl-icd
 lib32-openal
+lib32-opencl-clover-mesa
 lib32-opencl-nvidia
+lib32-opencl-rusticl-mesa
 lib32-openssl
 lib32-openssl-1.1
 lib32-opus
@@ -2605,6 +2608,8 @@ lib32-sdl_ttf
 lib32-smpeg
 lib32-speex
 lib32-speexdsp
+lib32-spirv-llvm-translator
+lib32-spirv-tools
 lib32-sqlite
 lib32-systemd
 lib32-taglib
@@ -3449,6 +3454,7 @@ mephisto.lv2
 mercurial
 merkuro
 mesa
+mesa-docs
 mesa-utils
 mesa-vdpau
 meson
@@ -3695,6 +3701,7 @@ opencl-clhpp
 opencl-clover-mesa
 opencl-headers
 opencl-nvidia
+opencl-rusticl-mesa
 opencollada
 opencolorio
 openconnect

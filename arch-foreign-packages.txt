@@ -409,7 +409,6 @@ rog-control-center
 ruby-backport
 ruby-e2mmap
 ruby-jaro_winkler
-ruby-treetop
 ruffle-nightly-bin
 rustc-demangle
 sanguosha
