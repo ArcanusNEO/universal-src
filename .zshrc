@@ -1,7 +1,7 @@
-ZSH=/usr/share/oh-my-zsh
-ZSH_THEME="simple"
-DISABLE_AUTO_UPDATE="true"
-ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
+export ZSH=/usr/share/oh-my-zsh
+export ZSH_THEME=simple
+export DISABLE_AUTO_UPDATE=true
+export ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
 if [[ ! -d $ZSH_CACHE_DIR ]]; then
   mkdir $ZSH_CACHE_DIR
 fi
@@ -17,6 +17,7 @@ if [[ $(id -u) -eq 0 ]]; then
 else
   PROMPT+='$ %{$reset_color%}'
 fi
+export PROMPT
 
 #umask 002
 alias ls="ls --color=auto --group-directories-first"
