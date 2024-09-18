@@ -6,7 +6,7 @@ After=network-online.target nftables.service iptables.service xdg-desktop-autost
 [Service]
 Type=simple
 ExecStartPre=/bin/sleep 3
-ExecStart=/opt/localsend/localsend autostart
+ExecStart=/usr/bin/localsend --hidden
 Restart=on-abnormal
 RestartSec=3
 
