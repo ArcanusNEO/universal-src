@@ -3,16 +3,17 @@
   "cache": true,
   "custom": {
     "*": "Mozilla/5.0 (X11; SunOS sun4u; rv:999.0) Gecko/20100101 Firefox/999.0",
+    "qq.com, tencent.com": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/999.0.0.0 Safari/537.36",
     "netflix.com, youtube.com": "Mozilla/5.0 (X11; Linux x86_64; rv:999.0) Gecko/20100101 Firefox/999.0"
   },
   "exactMatch": false,
   "faqs": false,
   "json-forced": false,
-  "json-guid": "f4c6687a-b4cd-4b63-8a2f-8a00d545c607",
+  "json-guid": "f7997539-3165-4bcd-b45e-ffdb3d0fdbe1",
   "log": false,
   "mode": "custom",
   "parser": {},
-  "popup-browser": "Edge",
+  "popup-browser": "Chrome",
   "popup-os": "Windows",
   "protected": [
     "google.com/recaptcha",
