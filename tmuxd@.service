@@ -8,4 +8,4 @@ ExecStop=/usr/bin/tmux kill-session -t%i
 Restart=always
 
 [Install]
-WantedBy=multi-user.target
+WantedBy=default.target
