@@ -88,4 +88,9 @@ if [[ $- == *i* && "$ZTERM"_ == *t*_ ]] && which tmux &>/dev/null && test -z "$T
 elif [[ $- == *i* && "$ZTERM"_ == *T*_ ]] && which tmux &>/dev/null && test -z "$TMUX"; then
   if tmux has-session &>/dev/null; then exec tmux attach; else exec tmux new-session; fi
 fi
+
+if [[ -f "$HOME/.zshrc_local" ]]; then
+  source "$HOME/.zshrc_local"
+fi
+
 return 0
