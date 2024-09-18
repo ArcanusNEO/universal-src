@@ -1366,11 +1366,11 @@ enable-spellchecking=true
 fullscreen=false
 inverted-colors=false
 show-sidebar=true
-sidebar-page='thumbnails'
+sidebar-page='links'
 sidebar-size=177
 sizing-mode='free'
 window-ratio=(1.925719591457753, 1.2504708097928436)
-zoom=0.50565713588756034
+zoom=0.60678856306507245
 
 [org/gnome/evolution-data-server]
 migrated=true
