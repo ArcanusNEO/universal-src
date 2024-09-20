@@ -5,9 +5,9 @@
 export PS1='[$?][\u@\h \W]\$ '
 alias ls="ls --color=auto --group-directories-first"
 alias l='ls -Fhla'
-alias ll='ls -FhlaX'
-alias la='ls -FhlaSr'
+alias ll='ls -FhlaSr'
 alias lt='ls -Fhlatr'
+alias lx='ls -FhlaX'
 alias lv='ls -Fhlav'
 alias diff='diff --color=auto'
 alias grep='grep --color=auto'
