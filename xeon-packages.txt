@@ -796,6 +796,7 @@ file
 file-roller
 filelight
 filesystem
+finalshell
 findutils
 firefox
 firefox-i18n-zh-cn
@@ -3603,11 +3604,8 @@ ntl
 ntp
 numactl
 nuspell
-nvflash
-nvidia-prime-rtd3pm
 nvm
 nvme-cli
-nvtop
 nx-x11
 nxagent
 nyancat
@@ -4033,8 +4031,6 @@ pipewire-roc
 pipewire-v4l2
 pipewire-x11-bell
 pipewire-zeroconf
-pix2tex
-pix2tex-desktop
 pixiewps
 pixman
 pkcs11-helper
@@ -5390,6 +5386,7 @@ seahorse-nautilus
 seatd
 secure-delete
 sed
+see-git
 seer-gdb
 semver
 serd
@@ -5491,6 +5488,7 @@ spirv-llvm-translator
 spirv-tools
 splint
 splix
+spotify
 sqlite
 sqlite-analyzer
 sqlite-doc
@@ -5509,7 +5507,9 @@ stacer-bin
 stardict
 stardict-langdao-ce-gb
 stardict-langdao-ec-gb
+stardict-oald
 stardict-oxford-gb-formated
+stardict-web1913
 stardict-wikt-en-all
 stardict-wordnet
 startup-notification

@@ -649,7 +649,7 @@ target-currency='DZD'
 target-units='radian'
 window-maximized=false
 window-position=(1198, 241)
-window-size=(690, 834)
+window-size=(680, 834)
 word-size=64
 
 [org/gnome/calendar]
@@ -735,7 +735,7 @@ automatic-timezone=false
 require-password='always'
 
 [org/gnome/desktop/input-sources]
-mru-sources=[('xkb', 'us'), ('ibus', 'libpinyin')]
+mru-sources=[('ibus', 'libpinyin')]
 per-window=false
 show-all-sources=true
 sources=[('ibus', 'libpinyin')]
@@ -1804,7 +1804,7 @@ user='lucas'
 [org/gnome/rhythmbox]
 display-page-tree-visible=true
 maximized=false
-position=(522, 116)
+position=(45, 29)
 queue-as-sidebar=false
 size=(1060, 676)
 
@@ -1824,7 +1824,7 @@ sorting=('Artist', false)
 play-order='random-by-age-and-rating'
 transition-time=0.10000000000000001
 use-xfade-backend=true
-volume=0.53680419921875
+volume=1.0
 
 [org/gnome/rhythmbox/plugins]
 active-plugins=['power-manager', 'rb', 'artsearch', 'mpris', 'iradio', 'generic-player', 'daap', 'mtpdevice', 'repeat-one-song', 'audiocd', 'android', 'dbus-media-server', 'replaygain', 'lyrics']
