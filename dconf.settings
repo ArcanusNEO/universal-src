@@ -58,7 +58,7 @@ enable-cloud-input=false
 english-candidate=false
 english-input-mode=false
 export-custom-table='/home/lucas/Downloads/tab.txt'
-export-dictionary='/home/lucas/Documents/libpinyin_20240407.txt'
+export-dictionary='/home/lucas/Documents/libpinyin_20240918.txt'
 fuzzy-pinyin=false
 fuzzy-pinyin-an-ang=false
 fuzzy-pinyin-c-ch=false
@@ -677,7 +677,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='display'
+last-panel='sound'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -2123,13 +2123,14 @@ always-center-icons=true
 animate-show-apps=true
 animation-time=0.099999999999999686
 apply-custom-theme=false
+apply-glossy-effect=false
 autohide=true
 autohide-in-fullscreen=false
 background-color='rgb(192,191,188)'
 background-opacity=0.25
 click-action='focus-minimize-or-appspread'
 custom-background-color=false
-custom-theme-customize-running-dots=true
+custom-theme-customize-running-dots=false
 custom-theme-running-dots-border-color='rgb(28,113,216)'
 custom-theme-running-dots-color='rgb(28,113,216)'
 custom-theme-shrink=true
@@ -2505,7 +2506,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1726643895
+flatpak-purge-timestamp=int64 1726883353
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2646,7 +2647,7 @@ search-sort-column='date_modified'
 geometry='1258x888+393+39'
 maximized=true
 side-pane-view='places'
-sidebar-bookmark-breakpoint=7
+sidebar-bookmark-breakpoint=13
 sidebar-width=209
 start-with-sidebar=true
 
@@ -2856,6 +2857,9 @@ autoconnect=1
 resize-guest=1
 scaling=1
 vm-window-size=(1440, 756)
+
+[org/x/apps/favorites]
+list=@as []
 
 [org/x/reader/default]
 window-ratio=(2.3999999999999999, 1.7)

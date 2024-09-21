@@ -196,6 +196,7 @@ kmscon
 komikku
 komorebi
 kotlin-language-server
+kpeople5
 kvantum-theme-whitesur-git
 latex2rtf
 lemminx
@@ -248,6 +249,7 @@ mkdocs-material-extensions
 mkdocs-minify-plugin
 mkinitcpio-firmware
 mma
+modemmanager-qt5
 mprime
 msedgedriver-stable-bin
 mutter-performance
@@ -388,7 +390,14 @@ qimgv
 qqmusic-electron
 qt4
 qt4-doc
+qt5-gamepad
+qt5-lottie
+qt5-purchasing
+qt5-quicktimeline
+qt5-serialbus
 qt5-webengine-widevine
+qt5-webglplugin
+qt5-webview
 qtraw
 quad
 quickjs

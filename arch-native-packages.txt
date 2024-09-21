@@ -620,6 +620,7 @@ edk2-shell
 efibootmgr
 efitools
 efivar
+egl-gbm
 egl-wayland
 eglexternalplatform
 eigen
@@ -646,6 +647,7 @@ enca
 enchant
 endeavour
 enet
+enter-tex
 entr
 eog
 epiphany
@@ -895,7 +897,6 @@ gdm
 geary
 geckodriver
 gedit
-gedit-plugins
 gef
 gegl
 genact
@@ -977,6 +978,7 @@ gmp-ecm
 gmsynth.lv2
 gn
 gnome-2048
+gnome-app-list
 gnome-autoar
 gnome-backgrounds
 gnome-bluetooth
@@ -1007,7 +1009,6 @@ gnome-games
 gnome-keybindings
 gnome-keyring
 gnome-klotski
-gnome-latex
 gnome-logs
 gnome-mahjongg
 gnome-maps
@@ -2087,7 +2088,6 @@ kparts
 kparts5
 kpat
 kpeople
-kpeople5
 kpimtextedit
 kpimtextedit5
 kpipewire
@@ -2539,7 +2539,6 @@ libei
 libelf
 libepoxy
 libepubgen
-libertinus-font
 libesmtp
 libetebase
 libetonyek
@@ -2886,6 +2885,7 @@ libspecbleach
 libspectmorph
 libspectre
 libspeechd
+libspelling
 libspiro
 libspnav
 libspng
@@ -3064,6 +3064,7 @@ llvm14-libs
 lm_sensors
 lmdb
 lmms
+localsearch
 lockfile-progs
 log4cplus
 log4cpp
@@ -3255,7 +3256,6 @@ mobile-broadband-provider-info
 mod_dnssd
 modemmanager
 modemmanager-qt
-modemmanager-qt5
 mokutil
 mold
 molequeue
@@ -3508,6 +3508,7 @@ otf-ipafont
 otf-ipamjfont
 otf-latin-modern
 otf-latinmodern-math
+otf-libertinus
 otf-monaspace-nerd
 otf-opendyslexic-nerd
 otf-overpass
@@ -4700,24 +4701,19 @@ qt5-datavis3d
 qt5-declarative
 qt5-doc
 qt5-examples
-qt5-gamepad
 qt5-graphicaleffects
 qt5-imageformats
 qt5-location
-qt5-lottie
 qt5-multimedia
 qt5-networkauth
-qt5-purchasing
 qt5-quick3d
 qt5-quickcontrols
 qt5-quickcontrols-nemo
 qt5-quickcontrols2
-qt5-quicktimeline
 qt5-remoteobjects
 qt5-script
 qt5-scxml
 qt5-sensors
-qt5-serialbus
 qt5-serialport
 qt5-speech
 qt5-svg
@@ -4727,9 +4723,7 @@ qt5-virtualkeyboard
 qt5-wayland
 qt5-webchannel
 qt5-webengine
-qt5-webglplugin
 qt5-websockets
-qt5-webview
 qt5-x11extras
 qt5-xmlpatterns
 qt5ct
@@ -5440,6 +5434,7 @@ tigervnc
 time
 timidity++
 tinycompress
+tinysparql
 tinyxml
 tinyxml2
 tk
@@ -5456,8 +5451,6 @@ tpm2-tools
 tpm2-tss
 trace-cmd
 traceroute
-tracker3
-tracker3-miners
 translate-shell
 transmission-cli
 transmission-gtk
