@@ -510,6 +510,7 @@ cups-pk-helper
 curl
 curlftpfs
 curlie
+cursor-bin
 cvc4
 cyrus-sasl-gssapi
 cython
@@ -719,6 +720,7 @@ enca
 enchant
 endeavour
 enet
+enter-tex
 entr
 envycontrol
 eog
@@ -997,7 +999,6 @@ gdm-tools
 geary
 geckodriver
 gedit
-gedit-plugins
 geekbench
 gef
 gegl
@@ -1082,6 +1083,7 @@ gmsynth.lv2
 gn
 gnirehtet
 gnome-2048
+gnome-app-list
 gnome-autoar
 gnome-backgrounds
 gnome-bluetooth
@@ -1117,7 +1119,6 @@ gnome-icon-theme-symbolic
 gnome-keybindings
 gnome-keyring
 gnome-klotski
-gnome-latex
 gnome-logs
 gnome-mahjongg
 gnome-maps
@@ -2715,7 +2716,6 @@ libelf
 libepoxy
 libepubgen
 liberica-jdk-11-full-bin
-libertinus-font
 libesmtp
 libetebase
 libetonyek
@@ -3068,6 +3068,7 @@ libspecbleach
 libspectmorph
 libspectre
 libspeechd
+libspelling
 libspiro
 libspnav
 libspng
@@ -3254,6 +3255,7 @@ lm_sensors
 lmdb
 lmms
 lmod
+localsearch
 localsend
 lockdev
 lockfile-progs
@@ -3744,6 +3746,7 @@ otf-ipafont
 otf-ipamjfont
 otf-latin-modern
 otf-latinmodern-math
+otf-libertinus
 otf-monaspace-nerd
 otf-opendyslexic-nerd
 otf-overpass
@@ -5832,6 +5835,7 @@ tigervnc
 time
 timidity++
 tinycompress
+tinysparql
 tinyxml
 tinyxml2
 tk
@@ -5847,8 +5851,6 @@ tpm2-tools
 tpm2-tss
 trace-cmd
 traceroute
-tracker3
-tracker3-miners
 translate-shell
 transmission-cli
 transmission-gtk
@@ -6246,6 +6248,7 @@ x265
 x42-plugins-lv2
 x42-plugins-standalone
 x86_energy_perf_policy
+x86info
 xaos
 xapian-core
 xapp
