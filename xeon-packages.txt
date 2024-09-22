@@ -1239,6 +1239,7 @@ gst-devtools-libs
 gst-editing-services
 gst-libav
 gst-plugin-gtk
+gst-plugin-gtk4
 gst-plugin-libcamera
 gst-plugin-msdk
 gst-plugin-opencv
@@ -4522,6 +4523,7 @@ python-oauth2client
 python-oauthlib
 python-objgraph
 python-olefile
+python-openai-whisper
 python-openbabel
 python-opencv
 python-opengl
@@ -4800,6 +4802,8 @@ python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-sqlalchemy
+python-srt
+python-srt_equalizer
 python-stack-data
 python-starlette
 python-statsmodels
@@ -4824,6 +4828,7 @@ python-texttable
 python-threadpoolctl
 python-tifffile
 python-tifffile-doc
+python-tiktoken
 python-timm
 python-tinycss2
 python-tokenize-rt
@@ -4872,6 +4877,7 @@ python-virtualenv
 python-virtualenv-clone
 python-virtualenvwrapper
 python-volume_key
+python-vosk
 python-waitress
 python-watchdog
 python-wcmatch
@@ -6093,6 +6099,7 @@ vmware-keymaps
 vo-amrwbenc
 volume_key
 vorbis-tools
+vosk-api
 vpl-gpu-rt
 vpnc
 vrrtest-git
