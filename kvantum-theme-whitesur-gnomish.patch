@@ -118,7 +118,7 @@ diff --color -aurN Kvantum/WhiteSur-opaque/WhiteSur-opaqueDark.kvconfig Kvantum/
  group_toolbar_buttons=false
  spread_progressbar=true
  composite=true
--menu_shadow_depth=4
+-menu_shadow_depth=27
 +menu_shadow_depth=1
  spread_menuitems=false
  tooltip_shadow_depth=6
@@ -176,7 +176,7 @@ diff --color -aurN Kvantum/WhiteSur-opaque/WhiteSur-opaque.kvconfig Kvantum/Whit
  group_toolbar_buttons=false
  spread_progressbar=true
  composite=true
--menu_shadow_depth=4
+-menu_shadow_depth=27
 +menu_shadow_depth=1
  spread_menuitems=false
  tooltip_shadow_depth=5
