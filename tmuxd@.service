@@ -1,5 +1,7 @@
 [Unit]
-Description=tmux daemon for %i
+Description=Terminal multiplexer daemon for %i
+Documentation=man:tmux(1)
+After=gpg-agent.service
 
 [Service]
 Type=forking
