@@ -493,7 +493,6 @@ ventoy-bin
 verilog-format-git
 vim-language-server
 virtio-win
-virtualbox-ext-oracle
 vkbasalt
 vkd3d-proton-bin
 vlmcsd
