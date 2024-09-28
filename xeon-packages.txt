@@ -662,7 +662,6 @@ dvdauthor
 dvgrab
 dvisvgm
 dxvk-mingw
-dxvk-nvapi-mingw
 e-antic
 e2fsprogs
 easyeffects
@@ -3121,6 +3120,7 @@ libvirt-storage-gluster
 libvirt-storage-iscsi-direct
 libvisio
 libvisual
+libvlc
 libvncserver
 libvoikko
 libvorbis
