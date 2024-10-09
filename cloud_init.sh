@@ -3,7 +3,8 @@
 set -ex
 
 apt update && apt upgrade -y
-apt install -y coreutils moreutils man-db openssl apt-transport-https ca-certificates gnupg wget curl git ncat socat iproute2 nftables iptables iprange ipset
+apt install -y coreutils moreutils man-db openssl apt-transport-https ca-certificates gnupg wget curl git ncat socat iproute2 nftables iptables iprange ipset kmod
+apt install --no-install-recommends -y wireguard-tools
 
 # hysteria
 HYPASS=$(head -c12 /dev/urandom | base64)
@@ -43,17 +44,6 @@ EOF
 
 systemctl restart hysteria-server.service
 systemctl enable hysteria-server.service
-
-# warp
-apt install -y kmod openresolv
-apt install --no-install-recommends -y wireguard-tools
-cd /usr/local/bin
-rm -rf -- warp.sh && wget git.io/warp.sh && chmod 755 warp.sh
-# if lsmod | grep wireguard || [[ "$(uname -r | awk -F. '{print $1}')" -gt 5 || "$(uname -r | awk -F. '{print $1}')" -eq 5 && "$(uname -r | awk -F. '{print $2}')" -ge 6 ]]; then
-grep -vE -- '^\s*Install_WireGuardGo\s*$' warp.sh | sponge warp.sh
-# fi
-
-warp.sh d
 
 apt clean all
 
