@@ -2462,6 +2462,7 @@ libblockdev-loop
 libblockdev-mdraid
 libblockdev-nvme
 libblockdev-part
+libblockdev-smart
 libblockdev-swap
 libbluray
 libbpf
@@ -3248,6 +3249,7 @@ mixxx
 mjpegtools
 mkcert
 mkdocs
+mkdocs-get-deps
 mkinitcpio
 mkinitcpio-busybox
 mkinitcpio-nfs-utils
@@ -3931,6 +3933,7 @@ python-beautifulsoup4
 python-beniget
 python-betamax
 python-binaryornot
+python-bitarray
 python-bitcoinlib
 python-bitstring
 python-black
@@ -4010,6 +4013,7 @@ python-dirty-equals
 python-distlib
 python-distro
 python-distutils-extra
+python-django
 python-dnslib
 python-dnspython
 python-docker
@@ -4018,6 +4022,7 @@ python-docstring-to-markdown
 python-docutils
 python-dogpile.cache
 python-dotenv
+python-dpcontracts
 python-dpkt
 python-dulwich
 python-dunamai
@@ -4087,6 +4092,7 @@ python-hatch-nodejs-version
 python-hatch-requirements-txt
 python-hatch-vcs
 python-hatchling
+python-hiredis
 python-hishel
 python-hpack
 python-html2text
@@ -4100,6 +4106,7 @@ python-humanfriendly
 python-humanize
 python-hyperframe
 python-hyperlink
+python-hypothesis
 python-idna
 python-ifaddr
 python-imagesize
@@ -4163,12 +4170,12 @@ python-ldap
 python-ldap3
 python-leather
 python-lexicon
+python-libcst
 python-libevdev
 python-libseccomp
 python-libtmux
 python-license-expression
 python-linkify-it-py
-python-livereload
 python-llfuse
 python-llvmlite
 python-locket
@@ -4373,7 +4380,6 @@ python-pyqt6-sip
 python-pyqt6-webengine
 python-pyrate-limiter
 python-pyro
-python-pyrsistent
 python-pyserial
 python-pysmbc
 python-pysmi
@@ -4414,6 +4420,7 @@ python-random2
 python-rapidfuzz
 python-rdflib
 python-readability-lxml
+python-redis
 python-referencing
 python-regex
 python-rencode
@@ -4488,6 +4495,7 @@ python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-sqlalchemy
+python-sqlparse
 python-srt
 python-srt_equalizer
 python-stack-data
@@ -4549,6 +4557,7 @@ python-urllib3
 python-urwid
 python-userpath
 python-utils
+python-uv
 python-uvloop
 python-validate-pyproject
 python-virtualenv
@@ -4595,7 +4604,7 @@ python-zstandard
 qastools
 qca-qt5
 qca-qt6
-qcoro-qt6
+qcoro
 qd
 qemu-audio-alsa
 qemu-audio-dbus
@@ -5645,6 +5654,7 @@ usd
 uthash
 util-linux
 util-linux-libs
+uv
 uvicorn
 uwsgi
 uwsgi-plugin-pypy

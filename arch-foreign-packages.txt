@@ -139,7 +139,6 @@ gnome-vfs
 gomatrix-git
 google-chrome
 googler
-gpt4all-chat
 gpu-viewer
 gputest
 gstreamermm
@@ -343,6 +342,7 @@ python-jaxlib
 python-jsmin
 python-langdetect
 python-lazy-loader
+python-livereload
 python-lsp-isort
 python-lsp-ruff
 python-mitmproxy-wireguard
@@ -362,6 +362,7 @@ python-pylint-plugin-utils
 python-pylsp-mypy
 python-pylsp-rope
 python-pynput
+python-pyrsistent
 python-pytest-runner
 python-pywavelets
 python-qudida

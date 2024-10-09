@@ -1214,7 +1214,6 @@ gping
 gpm
 gprename
 gpsd
-gpt4all-chat
 gptfdisk
 gpu-viewer
 gputest
@@ -2671,6 +2670,7 @@ libblockdev-loop
 libblockdev-mdraid
 libblockdev-nvme
 libblockdev-part
+libblockdev-smart
 libblockdev-swap
 libbluray
 libbpf
@@ -3494,6 +3494,7 @@ mixxx
 mjpegtools
 mkcert
 mkdocs
+mkdocs-get-deps
 mkdocs-git-revision-date-localized-plugin
 mkdocs-material-extensions
 mkdocs-minify-plugin
@@ -4245,6 +4246,7 @@ python-beniget
 python-betamax
 python-binaryornot
 python-biscuits
+python-bitarray
 python-bitcoinlib
 python-bitstring
 python-black
@@ -4332,6 +4334,7 @@ python-dirty-equals
 python-distlib
 python-distro
 python-distutils-extra
+python-django
 python-dm-tree
 python-dnslib
 python-dnspython
@@ -4342,6 +4345,7 @@ python-docutils
 python-dodgy
 python-dogpile.cache
 python-dotenv
+python-dpcontracts
 python-dpkt
 python-dukpy
 python-dulwich
@@ -4421,6 +4425,7 @@ python-hatch-requirements-txt
 python-hatch-vcs
 python-hatchling
 python-hijri-converter
+python-hiredis
 python-hishel
 python-hpack
 python-html2text
@@ -4436,6 +4441,7 @@ python-humanfriendly
 python-humanize
 python-hyperframe
 python-hyperlink
+python-hypothesis
 python-idna
 python-ifaddr
 python-imagecodecs
@@ -4508,6 +4514,7 @@ python-ldap
 python-ldap3
 python-leather
 python-lexicon
+python-libcst
 python-libevdev
 python-libseccomp
 python-libtmux
@@ -4782,6 +4789,7 @@ python-rapidfuzz
 python-rarfile
 python-rdflib
 python-readability-lxml
+python-redis
 python-referencing
 python-regex
 python-rencode
@@ -4862,6 +4870,7 @@ python-sphinxcontrib-jsmath
 python-sphinxcontrib-qthelp
 python-sphinxcontrib-serializinghtml
 python-sqlalchemy
+python-sqlparse
 python-srt
 python-srt_equalizer
 python-stack-data
@@ -4930,6 +4939,7 @@ python-urllib3
 python-urwid
 python-userpath
 python-utils
+python-uv
 python-uvloop
 python-validate-pyproject
 python-vdf
@@ -4982,7 +4992,7 @@ python311
 qastools
 qca-qt5
 qca-qt6
-qcoro-qt6
+qcoro
 qd
 qdl-git
 qemu-audio-alsa
@@ -6133,6 +6143,7 @@ uthash
 util-linux
 util-linux-libs
 uudeck
+uv
 uvicorn
 uwsgi
 uwsgi-plugin-pypy
