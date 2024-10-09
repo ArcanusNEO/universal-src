@@ -1582,7 +1582,7 @@ include-pointer=false
 last-save-directory='file:///home/lucas/Downloads'
 
 [org/gnome/gnome-system-monitor]
-cpu-colors=[(uint32 0, '#e01b24'), (1, '#ff7800'), (2, '#f6d32d'), (3, '#33d17a'), (4, '#26a269'), (5, '#62a0ea'), (6, '#1c71d8'), (7, '#613583'), (8, '#9141ac'), (9, '#c061cb'), (10, '#ffbe6f'), (11, '#f9f06b'), (12, '#8ff0a4'), (13, '#2ec27e'), (14, '#1a5fb4'), (15, '#c061cb'), (16, '#d851f3327999'), (17, '#ea977999f332'), (18, '#7999f332c71b'), (19, '#f332a3a07999'), (20, '#80257999f332'), (21, '#9688f3327999'), (22, '#f3327999ba03'), (23, '#7999dd7ff332')]
+cpu-colors=[(uint32 0, '#e01b24'), (1, '#ff7800'), (2, '#f6d32d'), (3, '#33d17a'), (4, '#26a269'), (5, '#62a0ea'), (6, '#1c71d8'), (7, '#613583'), (8, '#9141ac'), (9, '#c061cb'), (10, '#ffbe6f'), (11, '#f9f06b'), (12, '#8ff0a4'), (13, '#2ec27e'), (14, '#1a5fb4'), (15, '#c061cb'), (16, '#d851f3327999'), (17, '#ea977999f332'), (18, '#7999f332c71b'), (19, '#f332a3a07999'), (20, '#80257999f332'), (21, '#9688f3327999'), (22, '#f3327999ba03'), (23, '#7999dd7ff332'), (24, '#f332ad887999'), (25, '#8a0c7999f332'), (26, '#8ca0f3327999'), (27, '#f3327999b01c'), (28, '#7999d397f332'), (29, '#f332ef517999'), (30, '#cbd67999f332'), (31, '#7999f332a85a'), (32, '#f33284df7999'), (33, '#799991cef332'), (34, '#b549f3327999'), (35, '#f3327999d8c4')]
 current-tab='resources'
 logarithmic-scale=false
 maximized=false
@@ -1622,6 +1622,8 @@ col-0-visible=true
 col-0-width=554
 col-2-visible=true
 col-2-width=76
+col-26-visible=false
+col-26-width=0
 columns-order=[0, 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 sort-col=0
 sort-order=0
@@ -1685,6 +1687,7 @@ show-delete-permanently=true
 
 [org/gnome/nautilus/window-state]
 initial-size=(1171, 776)
+initial-size-file-chooser=(890, 550)
 maximized=true
 sidebar-width=200
 
@@ -1792,6 +1795,9 @@ last-folder-path='/home/lucas/Games/Palworld.v0.2.3.0-0xdeadcode'
 [org/gnome/portal/filechooser/raven-reader]
 last-folder-path='/home/lucas/src/universal-src'
 
+[org/gnome/portal/filechooser/start.sh]
+last-folder-path='/home/lucas/Downloads'
+
 [org/gnome/power-manager]
 info-history-type='rate'
 info-last-device='/org/freedesktop/UPower/devices/battery_BAT0'
@@ -1897,7 +1903,7 @@ volume-mute=['<Super>m']
 volume-up=['<Super>Up']
 window-screenshot=['<Primary><Super>Print']
 window-screenshot-clip=['<Super>Print']
-www=['<Super>e']
+www=@as []
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
 binding='<Shift><Super>s'
@@ -1929,12 +1935,11 @@ command="sh -c 'exec $HOME/.local/bin/ncmwin'"
 name='Netease Cloud Music'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom15]
-binding='<Shift><Super>f'
 command='fan.boostswitch'
 name='Fan Boost Switch'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom17]
-binding=''
+binding='<Super>e'
 command='firefox'
 name='Firefox'
 
@@ -1948,7 +1953,6 @@ command='sudo systemctl poweroff -i'
 name='Poweroff'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2]
-binding='<Shift><Super>c'
 command='gnome-calculator'
 name='GNOME Calculator'
 
@@ -2002,7 +2006,6 @@ command='nemo'
 name='Nemo'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom5]
-binding='Launch1'
 command='rog-control-center'
 name='ROG Control Center'
 
@@ -2511,7 +2514,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1727507094
+flatpak-purge-timestamp=int64 1727751532
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2603,7 +2606,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(45, 29)
+window-position=(0, 28)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
