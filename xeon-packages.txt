@@ -137,6 +137,7 @@ arch-install-scripts
 arch-wiki-docs
 arch-wiki-lite
 archivetools
+archlinux-java-run
 archlinux-keyring
 ardour
 arduino-avr-core
@@ -384,6 +385,7 @@ cdrtools
 celluloid
 celt
 cervisia
+cf-tool
 cfitsio
 cfr
 cgdb
@@ -438,7 +440,6 @@ cni-plugins
 cockpit
 cockpit-machines
 cockpit-packagekit
-cockpit-pcp
 cockpit-podman
 cockpit-storaged
 code
@@ -602,6 +603,7 @@ docbook-xml
 docbook-xsl
 docbook2x
 docker-scan
+dockerfile-language-server
 dog
 dolphin
 dolphin-emu
@@ -983,6 +985,7 @@ gcc-objc
 gcc-rust
 gcc13
 gcc13-libs
+gcc49
 gconf
 gcr
 gcr-4
@@ -1927,9 +1930,11 @@ jdk-doc
 jdk-lts
 jdk-lts-doc
 jdk-openjdk
+jdk11
 jdk11-openjdk
 jdk17-openjdk
 jdk21-openjdk
+jdk8
 jdk8-openjdk
 jdtls
 jedi-language-server
@@ -1948,6 +1953,7 @@ jose
 joyutils
 jq
 jre-lts
+jre11
 jre8
 jre8-openjdk
 jre8-openjdk-headless
@@ -2708,7 +2714,6 @@ libei
 libelf
 libepoxy
 libepubgen
-liberica-jdk-11-full-bin
 libesmtp
 libetebase
 libetonyek
@@ -3305,7 +3310,6 @@ lv2-example-plugins
 lv2file
 lv2lint
 lvm2
-lvtk-git
 lxappearance-gtk3
 lxappearance-obconf-gtk3
 lxc
@@ -3671,6 +3675,8 @@ openjdk11-doc
 openjdk11-src
 openjdk17-doc
 openjdk17-src
+openjdk21-doc
+openjdk21-src
 openjdk8-doc
 openjdk8-src
 openjpeg2
@@ -4120,7 +4126,6 @@ psutils
 ptex
 publicsuffix-list
 pugixml
-pugl-git
 pulsar-bin
 pulse-native-provider
 pulseaudio-qt
@@ -4461,7 +4466,6 @@ python-libseccomp
 python-libtmux
 python-license-expression
 python-linkify-it-py
-python-livereload
 python-llfuse
 python-llvmlite
 python-locket
@@ -5439,6 +5443,10 @@ signond
 simple-scan
 simpleitk
 sing-box
+sing-geoip-db
+sing-geoip-rule-set
+sing-geosite-db
+sing-geosite-rule-set
 singular
 skanlite
 skanpage
@@ -5826,6 +5834,7 @@ tmon
 tmux
 toilet
 tokodon
+tor-browser-bin
 totem
 totem-pl-parser
 tpm2-abrmd
@@ -6440,6 +6449,7 @@ zenity
 zeroc-ice
 zeromq
 zfp
+zhcon
 zig
 zimg
 zip
