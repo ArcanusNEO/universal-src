@@ -16,6 +16,7 @@ aocl-aocc
 aocl-gcc
 apfs-fuse-git
 appimagetool-bin
+archlinux-java-run
 aria2-fast
 aria2c-daemon
 asp
@@ -53,6 +54,7 @@ cpu-x
 crunch
 csharp-ls
 cubeb
+cursor-bin
 davs2
 dbus-sharp
 dbus-sharp-glib
@@ -131,6 +133,7 @@ gnome-shell-performance
 gomatrix-git
 google-chrome
 googler
+gpt4all-chat
 gpu-viewer
 gputest
 gtk-theme-numix-solarized
@@ -471,6 +474,7 @@ ventoy-bin
 verilog-format-git
 vim-language-server
 virtio-win
+virtualbox-ext-oracle
 vkbasalt
 vkd3d-proton-bin
 vlmcsd
@@ -502,6 +506,7 @@ wps-office-fonts
 wps-office-mime
 wps-office-mui-zh-cn
 wudao-dict-git
+x86info
 xavs2
 xbanish
 xbyak

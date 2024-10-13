@@ -141,6 +141,7 @@ arch-install-scripts
 arch-wiki-docs
 arch-wiki-lite
 archivetools
+archlinux-java-run
 archlinux-keyring
 ardour
 arduino-avr-core
@@ -517,6 +518,7 @@ cups-pk-helper
 curl
 curlftpfs
 curlie
+cursor-bin
 cvc4
 cyrus-sasl-gssapi
 cython
@@ -1205,6 +1207,7 @@ gping
 gpm
 gprename
 gpsd
+gpt4all-chat
 gptfdisk
 gpu-viewer
 gputest
@@ -6161,6 +6164,7 @@ virt-manager
 virtio-win
 virtiofsd
 virtualbox
+virtualbox-ext-oracle
 virtualbox-ext-vnc
 virtualbox-guest-iso
 virtualbox-guest-utils
@@ -6304,6 +6308,7 @@ x265
 x42-plugins-lv2
 x42-plugins-standalone
 x86_energy_perf_policy
+x86info
 xaos
 xapian-core
 xapp
