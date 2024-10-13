@@ -395,7 +395,6 @@ cni-plugins
 cockpit
 cockpit-machines
 cockpit-packagekit
-cockpit-pcp
 cockpit-podman
 cockpit-storaged
 code

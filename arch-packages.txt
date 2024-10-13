@@ -417,7 +417,6 @@ cinnamon-translations
 cjs
 cjson
 clang
-clang15
 clash-geoip
 clash-meta
 clash-meta-is-mihomo
@@ -447,7 +446,6 @@ cni-plugins
 cockpit
 cockpit-machines
 cockpit-packagekit
-cockpit-pcp
 cockpit-podman
 cockpit-storaged
 code
@@ -4520,7 +4518,6 @@ python-libseccomp
 python-libtmux
 python-license-expression
 python-linkify-it-py
-python-livereload
 python-llfuse
 python-llvmlite
 python-locket

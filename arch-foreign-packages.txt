@@ -43,7 +43,6 @@ charls
 checkra1n-cli
 chromedriver
 chromium-widevine
-clang15
 clash-geoip
 clash-meta
 clash-meta-is-mihomo
@@ -342,7 +341,6 @@ python-jaxlib
 python-jsmin
 python-langdetect
 python-lazy-loader
-python-livereload
 python-lsp-isort
 python-lsp-ruff
 python-mitmproxy-wireguard
