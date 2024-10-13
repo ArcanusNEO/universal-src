@@ -3820,7 +3820,7 @@ pd-lua
 pd-sfizz
 pdfgrep
 pdftricks
-peazip-gtk2-bin
+peazip
 peda
 peek
 perf
