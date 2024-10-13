@@ -277,7 +277,7 @@ parsec-bin
 paru
 patool
 payload-dumper-go
-peazip-gtk2-bin
+peazip
 phpactor
 pix2tex
 pix2tex-desktop
