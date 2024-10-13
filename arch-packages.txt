@@ -99,7 +99,6 @@ amduprof
 amdvlk
 amf-headers
 ams
-ams-lv2
 amsynth
 amsynth-common
 amsynth-dssi
@@ -144,7 +143,6 @@ arch-wiki-lite
 archivetools
 archlinux-keyring
 ardour
-arduino
 arduino-avr-core
 arduino-builder
 arduino-cli
@@ -269,7 +267,6 @@ bcg729
 bchoppr
 beanshell
 bear
-beatslash-lv2
 bees
 bespokesynth
 bfg
@@ -560,7 +557,6 @@ default-cursors
 dejagnu
 densify
 desktop-file-utils
-deteriorate-lv2
 devhelp
 device-mapper
 devtools
@@ -979,7 +975,6 @@ gambas3-script
 gameconqueror
 gamemode
 gamescope
-gamin
 ganache-cli
 gap
 garcon
@@ -1012,7 +1007,6 @@ gdm-settings
 gdm-tools
 geary
 geckodriver
-geda-gaf
 gedit
 geekbench
 gef
@@ -1178,7 +1172,6 @@ gnome-tweaks
 gnome-usage
 gnome-user-docs
 gnome-user-share
-gnome-vfs
 gnome-video-effects
 gnome-weather
 gnu-free-fonts
@@ -1274,8 +1267,6 @@ gst-python
 gstreamer
 gstreamer-docs
 gstreamer-vaapi
-gstreamermm
-gstreamermm-docs
 gtest
 gtk-chtheme
 gtk-doc
@@ -1955,7 +1946,6 @@ java-runtime-common
 jbig2dec
 jbigkit
 jconvolver
-jd-gui
 jdk-doc
 jdk-lts
 jdk-lts-doc
@@ -1979,8 +1969,6 @@ jitterentropy
 jlatexmath
 jnoisemeter
 john
-joplin
-joplin-desktop
 jose
 joyutils
 jq
@@ -2076,7 +2064,6 @@ kcron
 kdav
 kdbusaddons
 kdbusaddons5
-kddockwidgets
 kddockwidgets-qt6
 kde-accessibility-meta
 kde-applications-meta
@@ -2749,7 +2736,6 @@ libei
 libelf
 libepoxy
 libepubgen
-liberica-jdk-11-full-bin
 libesmtp
 libetebase
 libetonyek
@@ -3130,7 +3116,6 @@ libtraceevent
 libtracefs
 libtsm
 libudev0-shim
-libui-ng-git
 libultrahdr
 libunibreak
 libuninameslist
@@ -3469,7 +3454,6 @@ metals
 metasploit
 metis
 midi_matrix.lv2
-midimsg-lv2
 mimalloc
 mimeo
 mimetic
@@ -4066,7 +4050,6 @@ php-gd
 php-sodium
 phpactor
 physfs
-picgo-electron
 picmi
 picom
 pigz
@@ -5134,7 +5117,6 @@ qt5-virtualkeyboard
 qt5-wayland
 qt5-webchannel
 qt5-webengine
-qt5-webengine-widevine
 qt5-webglplugin
 qt5-websockets
 qt5-webview
@@ -5360,7 +5342,6 @@ ruby-gettext
 ruby-httpclient
 ruby-i18n
 ruby-irb
-ruby-jaro_winkler
 ruby-kramdown
 ruby-kramdown-parser-gfm
 ruby-locale
@@ -5453,7 +5434,6 @@ samplv1-lv2
 samplv1-standalone
 sane
 sane-airscan
-sanguosha
 sassc
 sbc
 sbcl
@@ -5551,7 +5531,6 @@ smpeg
 snapd-xdg-open-git
 snappy
 snapshot
-snarf
 snd
 sndio
 sniffnet
@@ -6274,7 +6253,6 @@ wiiuse
 wildmidi
 wimlib
 windows95-electron-bin
-windterm-bin
 wine
 wine-ge-custom-bin
 wine-gecko
@@ -6372,7 +6350,6 @@ xf86-video-dummy
 xf86-video-fbdev
 xf86-video-intel
 xf86-video-nouveau
-xf86-video-openchrome
 xf86-video-qxl
 xf86-video-vesa
 xf86-video-vmware

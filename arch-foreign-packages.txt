@@ -5,7 +5,6 @@ aic94xx-firmware
 alist
 aliyun-adrive-bin
 amduprof
-ams-lv2
 android-apktool
 android-sdk
 android-sdk-build-tools
@@ -17,7 +16,6 @@ aocl-aocc
 aocl-gcc
 apfs-fuse-git
 appimagetool-bin
-arduino
 aria2-fast
 aria2c-daemon
 asp
@@ -26,7 +24,6 @@ asusctl
 aurutils
 automoc4
 baidunetdisk-electron
-beatslash-lv2
 bfg
 bilibili-bin
 boca
@@ -62,7 +59,6 @@ dbus-sharp-glib
 deadbeef
 debtap
 densify
-deteriorate-lv2
 diagnostic-languageserver
 dietlibc
 diffmerge
@@ -107,7 +103,6 @@ fswatch
 fvm
 fxload
 fzf-extras
-gamin
 ganache-cli
 gatling
 gcc49
@@ -115,7 +110,6 @@ gconf
 gdcm
 gdm-settings
 gdm-tools
-geda-gaf
 geekbench
 ghidra-desktop
 gklib
@@ -134,14 +128,11 @@ gnome-shell-extension-compiz-alike-magic-lamp-effect-git
 gnome-shell-extension-dash-to-dock-git
 gnome-shell-extension-notification-timeout-git
 gnome-shell-performance
-gnome-vfs
 gomatrix-git
 google-chrome
 googler
 gpu-viewer
 gputest
-gstreamermm
-gstreamermm-docs
 gtk-theme-numix-solarized
 gtkglext
 guile1.8
@@ -171,7 +162,6 @@ imgcat
 insight-toolkit
 ir.lv2
 istyle-verilog-formatter-git
-jd-gui
 jdk-doc
 jdk-lts
 jdk-lts-doc
@@ -180,12 +170,9 @@ jdk8
 jdtls
 jellyfin-media-player
 jellyfish
-joplin
-joplin-desktop
 jre-lts
 jre11
 jre8
-kddockwidgets
 kddockwidgets-qt6
 kdocker
 kfilemetadata5
@@ -207,7 +194,6 @@ lib32-ncurses5-compat-libs
 libaal
 libcroco
 libcurl-impersonate-bin
-liberica-jdk-11-full-bin
 libgbinder
 libglibutil
 libinput-gestures
@@ -216,7 +202,6 @@ libowfat
 libpng15
 libstroke
 libtsm
-libui-ng-git
 libvisual
 libxcomp
 linux-wifi-hotspot
@@ -238,7 +223,6 @@ meta-rules-dat
 metacubexd
 metals
 metis
-midimsg-lv2
 mimeo
 mimetic
 mingw-w64-tools
@@ -292,7 +276,6 @@ patool
 payload-dumper-go
 peazip-gtk2-bin
 phpactor
-picgo-electron
 pix2tex
 pix2tex-desktop
 properties-cpp
@@ -394,7 +377,6 @@ qt5-lottie
 qt5-purchasing
 qt5-quicktimeline
 qt5-serialbus
-qt5-webengine-widevine
 qt5-webglplugin
 qt5-webview
 qtraw
@@ -416,10 +398,8 @@ rig
 rog-control-center
 ruby-backport
 ruby-e2mmap
-ruby-jaro_winkler
 ruffle-nightly-bin
 rustc-demangle
-sanguosha
 sdcardformatter
 secure-delete
 see-git
@@ -435,7 +415,6 @@ sing-geosite-rule-set
 skypeforlinux-bin
 smooth
 snapd-xdg-open-git
-snarf
 solfege
 sonic-pi
 spacecadetpinball-git
@@ -512,7 +491,6 @@ whitesur-cursor-theme-git
 whitesur-gtk-theme-git
 whitesur-icon-theme-git
 windows95-electron-bin
-windterm-bin
 wine-ge-custom-bin
 winetricks-git
 wlrctl
@@ -529,7 +507,6 @@ xbanish
 xbyak
 xcowsay
 xcp
-xf86-video-openchrome
 xivlauncher-cn-git
 xorgxrdp
 xray
