@@ -486,7 +486,6 @@ waydroid
 waydroid-image-gapps
 waypipe
 wd719x-firmware
-wechat-devtools
 wechat-universal-bwrap
 weka
 wemeet-bin

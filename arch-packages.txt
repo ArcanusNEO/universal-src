@@ -6238,7 +6238,6 @@ webp-pixbuf-loader
 webrtc-audio-processing
 webrtc-audio-processing-1
 websocat
-wechat-devtools
 wechat-universal-bwrap
 weka
 wemeet-bin
