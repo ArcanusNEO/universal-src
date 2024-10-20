@@ -483,6 +483,7 @@ cppcheck
 cppdap
 cppunit
 cpu-x
+cpuid
 cpupower
 cracklib
 crash
@@ -703,6 +704,7 @@ electron29
 electron30
 electron31
 electron32
+electron33
 electron9-bin
 element
 elementary-icon-theme
@@ -2038,6 +2040,7 @@ kcontacts
 kcontacts5
 kcoreaddons
 kcoreaddons5
+kcpuid
 kcrash
 kcrash5
 kcron
@@ -2305,6 +2308,7 @@ ktrip
 ktuberling
 kturtle
 kubrick
+kunifiedpush
 kunitconversion
 kunitconversion5
 kuserfeedback
@@ -4062,6 +4066,7 @@ pngquant
 pnpm
 po4a
 poco
+pod2man
 podman
 podman-compose
 podman-docker

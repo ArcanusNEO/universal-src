@@ -7,6 +7,9 @@ export GLFW_IM_MODULE=ibus
 export GTK_THEME=WhiteSur-Light
 export QT_STYLE_OVERRIDE=kvantum
 
+export MOZ_ENABLE_WAYLAND=0
+export MOZ_USE_XINPUT2=1
+
 export VKD3D_CONFIG=dxr11,dxr
 export VKD3D_DEBUG=none
 export VKD3D_SHADER_DEBUG=none
