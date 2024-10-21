@@ -314,7 +314,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=true
+track-changes=false
 track-extension-state=true
 upload=''
 
@@ -2514,7 +2514,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1729348408
+flatpak-purge-timestamp=int64 1729407558
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2606,7 +2606,7 @@ sort-column='modified'
 sort-directories-first=false
 sort-order='descending'
 type-format='category'
-window-position=(45, 29)
+window-position=(0, 28)
 window-size=(1920, 1004)
 
 [org/mate/caja/window-state]
