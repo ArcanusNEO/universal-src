@@ -3,30 +3,39 @@
 
 #include <X11/Xlib.h>
 
-void handle_key_event(XKeyEvent event) {
-  if (event.type == KeyPress) NULL;
+void
+handle_key_event (XKeyEvent event)
+{
+  if (event.type == KeyPress)
+    NULL;
 }
 
-signed main(int argc, char* argv[]) {
-  Display* display = XOpenDisplay(NULL);
-  Window root = DefaultRootWindow(display);
+int
+main (int argc, char *argv[])
+{
+  Display *display = XOpenDisplay (NULL);
+  Window root = DefaultRootWindow (display);
 
-  for (int i = 1; i < argc; ++i) {
-    KeySym keysym = XStringToKeysym(argv[i]);
-    if (keysym != NoSymbol) {
-      XGrabKey(display, XKeysymToKeycode(display, keysym), AnyModifier, root,
-        True, GrabModeAsync, GrabModeAsync);
+  for (int i = 1; i < argc; ++i)
+    {
+      KeySym keysym = XStringToKeysym (argv[i]);
+      if (keysym != NoSymbol)
+        {
+          XGrabKey (display, XKeysymToKeycode (display, keysym), AnyModifier,
+                    root, True, GrabModeAsync, GrabModeAsync);
+        }
     }
-  }
 
-  XSelectInput(display, root, KeyPressMask);
+  XSelectInput (display, root, KeyPressMask);
 
-  while (1) {
-    XEvent event;
-    XNextEvent(display, &event);
+  while (1)
+    {
+      XEvent event;
+      XNextEvent (display, &event);
 
-    if (event.type == KeyPress) handle_key_event(event.xkey);
-  }
+      if (event.type == KeyPress)
+        handle_key_event (event.xkey);
+    }
 
-  XCloseDisplay(display);
+  XCloseDisplay (display);
 }
