@@ -281,6 +281,7 @@ peazip
 phpactor
 pix2tex
 pix2tex-desktop
+pod2man
 properties-cpp
 proton
 proton-ge-custom-bin
@@ -474,7 +475,6 @@ ventoy-bin
 verilog-format-git
 vim-language-server
 virtio-win
-virtualbox-ext-oracle
 vkbasalt
 vkd3d-proton-bin
 vlmcsd

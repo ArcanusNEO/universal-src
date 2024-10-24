@@ -630,6 +630,7 @@ electron29
 electron30
 electron31
 electron32
+electron33
 element
 elementary-icon-theme
 elfutils
@@ -2141,6 +2142,7 @@ ktrip
 ktuberling
 kturtle
 kubrick
+kunifiedpush
 kunitconversion
 kunitconversion5
 kuserfeedback
