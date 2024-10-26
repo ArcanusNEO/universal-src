@@ -45,8 +45,6 @@ alias cls='printf "\033[2J\033[3J\033[1;1H"'
 alias pc='proxychains '
 alias time='/usr/bin/time'
 alias kill='/bin/kill'
-alias load.abflags='source <(grep -v ^# /etc/makepkg.conf | grep FLAGS | sed "s/^/export /")'
-alias unload.abflags=$'source <(grep -v ^# /etc/makepkg.conf | grep FLAGS | awk -F= \'{print "unset " $1}\')'
 alias load.aocc='module load aocc && module load aocl-aocc'
 alias unload.aocc='module unload aocc; module unload aocl-aocc'
 #alias update="sh -c 'apt update && apt upgrade -y'"

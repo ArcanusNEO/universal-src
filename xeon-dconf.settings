@@ -2899,7 +2899,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;file:///home/lucas/.local/share/Mousepad/autosave-1;+']
+session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
