@@ -314,7 +314,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
@@ -677,7 +677,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='display'
+last-panel='keyboard'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -2011,7 +2011,7 @@ name='ROG Control Center'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom6]
 binding='<Super>t'
-command='gnome-text-editor'
+command='mousepad'
 name='Text Editor'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7]
@@ -2514,7 +2514,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1729649879
+flatpak-purge-timestamp=int64 1729924233
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2899,7 +2899,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///home/lucas/Documents/private.yaml']
+session=['1;file:///home/lucas/.local/share/Mousepad/autosave-1;+']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
