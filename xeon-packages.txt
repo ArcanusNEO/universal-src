@@ -3557,6 +3557,7 @@ net-tools
 netavark
 netctl
 nethack
+nethogs
 netpbm
 netstandard-targeting-pack
 nettle

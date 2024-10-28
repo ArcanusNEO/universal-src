@@ -314,7 +314,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=true
+track-changes=false
 track-extension-state=true
 upload=''
 
@@ -1369,7 +1369,7 @@ show-sidebar=true
 sidebar-page='links'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(1.925719591457753, 1.2504708097928436)
+window-ratio=(1.9259259259259258, 1.25)
 zoom=0.60678856306507245
 
 [org/gnome/evolution-data-server]
@@ -1583,9 +1583,9 @@ last-save-directory='file:///home/lucas/Downloads'
 
 [org/gnome/gnome-system-monitor]
 cpu-colors=[(uint32 0, '#e01b24'), (1, '#ff7800'), (2, '#f6d32d'), (3, '#33d17a'), (4, '#26a269'), (5, '#62a0ea'), (6, '#1c71d8'), (7, '#613583'), (8, '#9141ac'), (9, '#c061cb'), (10, '#ffbe6f'), (11, '#f9f06b'), (12, '#8ff0a4'), (13, '#2ec27e'), (14, '#1a5fb4'), (15, '#c061cb'), (16, '#d851f3327999'), (17, '#ea977999f332'), (18, '#7999f332c71b'), (19, '#f332a3a07999'), (20, '#80257999f332'), (21, '#9688f3327999'), (22, '#f3327999ba03'), (23, '#7999dd7ff332'), (24, '#f332ad887999'), (25, '#8a0c7999f332'), (26, '#8ca0f3327999'), (27, '#f3327999b01c'), (28, '#7999d397f332'), (29, '#f332ef517999'), (30, '#cbd67999f332'), (31, '#7999f332a85a'), (32, '#f33284df7999'), (33, '#799991cef332'), (34, '#b549f3327999'), (35, '#f3327999d8c4')]
-current-tab='processes'
+current-tab='resources'
 logarithmic-scale=false
-maximized=false
+maximized=true
 network-total-in-bits=false
 process-memory-in-iec=true
 resources-memory-in-iec=true
@@ -2514,7 +2514,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1729924233
+flatpak-purge-timestamp=int64 1730079311
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
