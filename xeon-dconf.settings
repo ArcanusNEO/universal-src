@@ -314,7 +314,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
@@ -1368,7 +1368,7 @@ inverted-colors=false
 show-sidebar=true
 sidebar-page='links'
 sidebar-size=177
-sizing-mode='free'
+sizing-mode='fit-page'
 window-ratio=(1.9259259259259258, 1.25)
 zoom=0.60678856306507245
 
@@ -1912,12 +1912,12 @@ name='GNOME Screenshot'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
 binding='<Super>Return'
-command='kitty --single-instance --wait-for-single-instance-window-close'
+command='kitty --single-instance'
 name='Simple Terminal'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom10]
 binding='<Shift><Super>Return'
-command='kitty --single-instance --wait-for-single-instance-window-close tzsh'
+command='kitty --single-instance tzsh'
 name='Tmux Terminal'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom11]
@@ -2011,7 +2011,7 @@ name='ROG Control Center'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom6]
 binding='<Super>t'
-command='mousepad'
+command="kitty --single-instance --title emacs -d /tmp sh -c 'exec emacsclient -tc -a \"emacs -nw\" \"/tmp/$(head -c12 /dev/urandom | base64 | tr /+ _-)\"'"
 name='Text Editor'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7]
