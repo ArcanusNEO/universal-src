@@ -677,7 +677,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='sound'
+last-panel='keyboard'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -2006,7 +2006,7 @@ name='ROG Control Center'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom6]
 binding='<Super>t'
-command='gnome-text-editor'
+command="kitty --single-instance --title emacs -d /tmp sh -c 'exec emacsclient -tc -a \"emacs -nw\" \"/tmp/$(head -c12 /dev/urandom | base64 | tr /+ _-)\"'"
 name='Text Editor'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7]
@@ -2506,7 +2506,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1729736271
+flatpak-purge-timestamp=int64 1730043609
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

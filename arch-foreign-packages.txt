@@ -358,6 +358,7 @@ python-scikit-image
 python-screeninfo
 python-setoptconf
 python-simpleitk
+python-stringzilla
 python-tensorstore
 python-tifffile
 python-tifffile-doc

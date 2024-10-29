@@ -3338,6 +3338,7 @@ net-tools
 netavark
 netctl
 nethack
+nethogs
 netpbm
 netstandard-targeting-pack
 nettle
@@ -4060,6 +4061,7 @@ python-fontpens
 python-fonttools
 python-fpylll
 python-fqdn
+python-freezegun
 python-frozenlist
 python-fs
 python-fsspec
