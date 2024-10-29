@@ -51,7 +51,7 @@ dictionaries=''
 display-style=0
 double-pinyin=true
 double-pinyin-schema=5
-double-pinyin-show-raw=false
+double-pinyin-show-raw=true
 dynamic-adjust=true
 emoji-candidate=false
 enable-cloud-input=false
@@ -120,6 +120,7 @@ last-signer=''
 [desktop/ibus/general]
 embed-preedit-text=true
 switcher-delay-time=-1
+use-global-engine=false
 use-system-keyboard-layout=true
 
 [desktop/ibus/general/hotkey]
@@ -2514,7 +2515,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1730079311
+flatpak-purge-timestamp=int64 1730168367
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
