@@ -2069,6 +2069,7 @@ koko
 kolf
 kollision
 kolourpaint
+komikku
 kompare
 kongress
 konqueror
@@ -3974,6 +3975,7 @@ python-cloudpickle
 python-colorama
 python-colored-traceback
 python-colorlog
+python-colorthief
 python-comm
 python-commonmark
 python-configobj
@@ -3997,6 +3999,7 @@ python-cypari2
 python-cysignals
 python-daemonize
 python-dask
+python-dateparser
 python-dateutil
 python-dbfread
 python-dbus
@@ -4282,6 +4285,7 @@ python-pexpect
 python-pickleshare
 python-piexif
 python-pillow
+python-pillow-heif
 python-pip
 python-pipx
 python-pkgconfig
@@ -4421,6 +4425,7 @@ python-qtpy
 python-railroad-diagrams
 python-random2
 python-rapidfuzz
+python-rarfile
 python-rdflib
 python-readability-lxml
 python-redis

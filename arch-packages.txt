@@ -4621,7 +4621,7 @@ python-pexpect
 python-pickleshare
 python-piexif
 python-pillow
-python-pillow_heif
+python-pillow-heif
 python-pip
 python-pipx
 python-pkgconfig

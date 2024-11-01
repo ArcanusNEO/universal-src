@@ -181,7 +181,6 @@ kdocker
 kfilemetadata5
 kjs
 kmscon
-komikku
 komorebi
 kotlin-language-server
 kpeople5
@@ -301,10 +300,8 @@ python-bs4
 python-cached-property
 python-chex
 python-cloudscraper
-python-colorthief
 python-convertdate
 python-curl-cffi
-python-dateparser
 python-dm-tree
 python-dodgy
 python-dukpy
@@ -337,7 +334,6 @@ python-optax
 python-orbax-checkpoint
 python-pdm-pep517
 python-pep8-naming
-python-pillow_heif
 python-prospector
 python-pure-protobuf
 python-pylint-celery
@@ -351,7 +347,6 @@ python-pyrsistent
 python-pytest-runner
 python-pywavelets
 python-qudida
-python-rarfile
 python-requirements-detector
 python-safetensors
 python-scikit-image
