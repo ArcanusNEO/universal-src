@@ -53,7 +53,7 @@ double-pinyin=true
 double-pinyin-schema=5
 double-pinyin-show-raw=true
 dynamic-adjust=true
-emoji-candidate=false
+emoji-candidate=true
 enable-cloud-input=false
 english-candidate=false
 english-input-mode=false
@@ -315,7 +315,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=true
+track-changes=false
 track-extension-state=true
 upload=''
 
@@ -1904,7 +1904,7 @@ volume-mute=['<Super>m']
 volume-up=['<Super>Up']
 window-screenshot=['<Primary><Super>Print']
 window-screenshot-clip=['<Super>Print']
-www=@as []
+www=['<Super>e']
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
 binding='<Shift><Super>s'
@@ -1940,7 +1940,7 @@ command='fan.boostswitch'
 name='Fan Boost Switch'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom17]
-binding='<Super>e'
+binding=''
 command='firefox'
 name='Firefox'
 
@@ -2515,7 +2515,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1730427853
+flatpak-purge-timestamp=int64 1730684377
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
