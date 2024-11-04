@@ -67,11 +67,8 @@ cat >config.json <<EOF
       "decryption": "none"
     },
     "streamSettings": {
-      "network": "ws",
-      "security": "none",
-      "wsSettings": {
-        "path": "/admin"
-      }
+      "network": "httpupgrade",
+      "security": "none"
     }
   }],
   "outbounds": [{
