@@ -12,7 +12,6 @@ debconf-set-selections <<< 'iptables-persistent iptables-persistent/autosave_v6 
 apt install -y iptables-persistent
 
 bash <(curl -fsSL https://get.hy2.sh/)
-
 cd /etc/hysteria
 rm -rf -- hysteria*
 openssl ecparam -name prime256v1 -out hysteria.alg
@@ -20,9 +19,7 @@ openssl req -batch -x509 -sha256 -nodes -days 32767 -newkey ec:hysteria.alg -key
 rm -rf -- hysteria.alg
 chown root:hysteria *
 chmod 640 *
-
 HYPASSWORD=$(head -c12 /dev/urandom | base64 | tr /+ _-)
-
 cat <<EOF >config.yaml
 listen: :$1
 
@@ -40,17 +37,14 @@ masquerade:
     url: http://info.cern.ch
     rewriteHost: true
   listenHTTPS: :$1
-EOF
 
+EOF
 systemctl restart hysteria-server.service
 systemctl enable hysteria-server.service
 
 bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install -u root
-
 cd /usr/local/etc/xray
-
 VLSID=$(cat /proc/sys/kernel/random/uuid)
-
 cat >config.json <<EOF
 {
   "log": {
@@ -76,17 +70,19 @@ cat >config.json <<EOF
   }]
 }
 EOF
-
-apt clean all
+systemctl restart xray.service
+systemctl enable xray.service
 
 set +ex
 
+apt clean all
+
 cd /etc/hysteria
+systemctl status hysteria-server.service
 grep -F -- listen: config.yaml | sed -E 's/^\s*//'
 grep -F -- password: config.yaml | sed -E 's/^\s*//'
 openssl x509 -noout -fingerprint -sha256 -in hysteria.crt
-systemctl status hysteria-server.service
 
 cd /usr/local/etc/xray
-grep -F -- '"id":' config.json | sed -E 's/^\s*//'
 systemctl status xray.service
+grep -F -- '"id":' config.json | sed -E 's/^\s*//'
