@@ -78,11 +78,11 @@ set +ex
 apt clean all
 
 cd /etc/hysteria
-systemctl status hysteria-server.service
+systemctl --no-pager status hysteria-server.service
 grep -F -- listen: config.yaml | sed -E 's/^\s*//'
 grep -F -- password: config.yaml | sed -E 's/^\s*//'
 openssl x509 -noout -fingerprint -sha256 -in hysteria.crt
 
 cd /usr/local/etc/xray
-systemctl status xray.service
+systemctl --no-pager status xray.service
 grep -F -- '"id":' config.json | sed -E 's/^\s*//'
