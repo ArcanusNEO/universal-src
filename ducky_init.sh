@@ -61,7 +61,7 @@ cat >config.json <<EOF
       "decryption": "none"
     },
     "streamSettings": {
-      "network": "httpupgrade",
+      "network": "ws",
       "security": "none"
     }
   }],
