@@ -3258,7 +3258,7 @@ lmdb
 lmms
 lmod
 localsearch
-localsend
+localsend-bin
 lockdev
 lockfile-progs
 log4cplus
