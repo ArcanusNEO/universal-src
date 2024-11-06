@@ -22,6 +22,7 @@ acme.sh
 acorn
 acpi
 acpi_call-dkms
+acpica
 ada
 adljack
 adlplug-lv2
@@ -124,7 +125,6 @@ ant
 antiword
 aom
 apache
-apfs-fuse-git
 apparmor
 appimagetool-bin
 appmenu-gtk-module
@@ -240,6 +240,7 @@ babel-cli
 babel-core
 babl
 baidunetdisk-electron
+balena-etcher
 baloo
 baloo-widgets
 bamf
@@ -656,7 +657,6 @@ dub
 duf
 duktape
 dumb
-dummydroid-bin
 dump_syms
 duperemove
 dust
@@ -674,7 +674,6 @@ ebumeter-docs
 ecasound
 ecl
 eclib
-eclipse-java-bin
 ed
 edb-debugger
 editline
@@ -694,8 +693,6 @@ electron
 electron-netease-cloud-music
 electron11-bin
 electron12-bin
-electron13-bin
-electron16-bin
 electron21-bin
 electron22-bin
 electron27
@@ -705,7 +702,6 @@ electron30
 electron31
 electron32
 electron33
-electron9-bin
 element
 elementary-icon-theme
 elfutils
@@ -736,7 +732,6 @@ eslint
 eslint-language-server
 espeak-ng
 etc-update
-etcher-bin
 eteroj.lv2
 ethtool
 evemu
@@ -1896,6 +1891,7 @@ istyle-verilog-formatter-git
 itinerary
 itstool
 iucode-tool
+iverilog
 iw
 iwd
 jaaa
@@ -2679,7 +2675,6 @@ libcups
 libcupsfilters
 libcurl-compat
 libcurl-gnutls
-libcurl-impersonate-bin
 libdaemon
 libdatachannel
 libdatrie
@@ -2780,6 +2775,7 @@ libgsf
 libgssglue
 libgtop
 libgudev
+libguestfs
 libgusb
 libgweather-4
 libgxps
@@ -3361,7 +3357,6 @@ m4
 m4ri
 m4rie
 mac
-macintosh.js-bin
 maeparser
 mailcap
 mailcommon
@@ -3492,7 +3487,6 @@ mprime
 mpv
 mpv-mpris
 mpvqt
-msedgedriver-stable-bin
 msgpack-c
 msgpack-cxx
 msgraph
@@ -3582,7 +3576,7 @@ nmap
 nnn
 node-gyp
 nodejs-decktape
-nodejs-lts-hydrogen
+nodejs-lts-iron
 nodejs-nativefier
 nodejs-nopt
 nodejs-reveal.js
@@ -3788,7 +3782,6 @@ pari-galdata
 pari-seadata-small
 parley
 paros
-parsec-bin
 parted
 partitionmanager
 paru
@@ -4115,7 +4108,7 @@ properties-cpp
 protobuf
 protobuf-c
 proton
-proton-ge-custom-bin
+proton-ge-custom
 protondb-tags
 protonhax
 protonlaunch
@@ -4130,7 +4123,6 @@ psutils
 ptex
 publicsuffix-list
 pugixml
-pulsar-bin
 pulse-native-provider
 pulseaudio-qt
 pulsemixer
@@ -4258,7 +4250,6 @@ python-css-parser
 python-csscompressor
 python-cssselect
 python-cssselect2
-python-curl-cffi
 python-cvxopt
 python-cycler
 python-cypari2
@@ -5161,7 +5152,6 @@ qxmpp-qt6
 r
 r2ghidra
 rabbitmq
-raccoon-bin
 racket
 radare2
 radeontool
@@ -5176,7 +5166,6 @@ raptor
 rarian
 rasqal
 rav1e
-raven-reader-bin
 raylib
 rclone
 rcs
@@ -5532,7 +5521,6 @@ sshfs
 sshpass
 ssr
 sssd
-stacer-bin
 stardict
 stardict-langdao-ce-gb
 stardict-langdao-ec-gb
@@ -6086,7 +6074,7 @@ vcpkg
 vde2
 vdhcoapp
 vdpauinfo
-ventoy-bin
+ventoy
 verdict
 verilator
 verilog-format-git
@@ -6114,7 +6102,7 @@ visualvm
 vivaldi-ffmpeg-codecs
 vkbasalt
 vkd3d
-vkd3d-proton-bin
+vkd3d-proton-mingw
 vkmark
 vlc
 vlmcsd
@@ -6136,6 +6124,7 @@ vte-common
 vte3
 vte4
 vtk
+vtr
 vue-language-server
 vulkan-extra-layers
 vulkan-extra-tools
@@ -6195,9 +6184,8 @@ whois
 wiiuse
 wildmidi
 wimlib
-windows95-electron-bin
 wine
-wine-ge-custom-bin
+wine-ge-custom-opt
 wine-gecko
 wine-mono
 wine-nine
@@ -6237,7 +6225,6 @@ wqy-microhei
 wqy-microhei-lite
 wqy-zenhei
 wtype
-wudao-dict-git
 wvdial
 wvstreams
 wxwidgets-common
@@ -6424,19 +6411,16 @@ yara
 yarn
 yasm
 yass
-ydcv-rs-git
 ydotool
 yelp
 yelp-tools
 yelp-xsl
-yesplaymusic-electron
 yoshimi-data
 yoshimi-docs
 yoshimi-lv2
 yoshimi-standalone
 yosys
 you-get
-youku-bin
 yq
 yt-dlp
 ytfzf
