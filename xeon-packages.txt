@@ -3651,7 +3651,6 @@ opencl-clhpp
 opencl-clover-mesa
 opencl-headers
 opencl-rusticl-mesa
-opencollada
 opencolorio
 openconnect
 opencore-amr
@@ -4220,6 +4219,7 @@ python-cattrs
 python-cerberus
 python-certifi
 python-cffi
+python-cffsubr
 python-chardet
 python-charset-normalizer
 python-cheroot
@@ -4236,6 +4236,7 @@ python-colorlog
 python-colorthief
 python-comm
 python-commonmark
+python-compreffor
 python-configobj
 python-constantly
 python-contourpy
@@ -4250,6 +4251,7 @@ python-css-parser
 python-csscompressor
 python-cssselect
 python-cssselect2
+python-cu2qu
 python-cvxopt
 python-cycler
 python-cypari2
@@ -4777,6 +4779,7 @@ python-service-identity
 python-setoptconf
 python-setproctitle
 python-setuptools
+python-setuptools-git-ls-files
 python-setuptools-rust
 python-setuptools-scm
 python-sgmllib3k
@@ -4786,6 +4789,7 @@ python-shtab
 python-simpleitk
 python-simplejson
 python-six
+python-skia-pathops
 python-slugify
 python-smartypants
 python-smmap
@@ -4819,6 +4823,7 @@ python-stevedore
 python-stringzilla
 python-subprocess-tee
 python-sympy
+python-syrupy
 python-systemd
 python-tabulate
 python-tempora
@@ -4856,6 +4861,7 @@ python-trio
 python-trio-websocket
 python-trove-classifiers
 python-truststore
+python-ttfautohint-py
 python-twisted
 python-typed-ast
 python-typeguard
@@ -4864,6 +4870,7 @@ python-typogrify
 python-tzdata
 python-tzlocal
 python-uc-micro-py
+python-ufo2ft
 python-ufolib2
 python-ufonormalizer
 python-ufoprocessor
@@ -6295,6 +6302,7 @@ xivlauncher-cn-git
 xjadeo
 xkeyboard-config
 xl2tpd
+xmldiff
 xmlsec
 xmlstarlet
 xmlto
