@@ -4788,6 +4788,7 @@ python-shellingham
 python-shtab
 python-simpleitk
 python-simplejson
+python-simsimd
 python-six
 python-skia-pathops
 python-slugify
