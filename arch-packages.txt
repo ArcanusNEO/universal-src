@@ -3283,7 +3283,7 @@ lmdb
 lmms
 lmod
 localsearch
-localsend
+localsend-bin
 lockdev
 lockfile-progs
 log4cplus
@@ -4834,6 +4834,7 @@ python-shellingham
 python-shtab
 python-simpleitk
 python-simplejson
+python-simsimd
 python-six
 python-slugify
 python-smartypants
@@ -5297,6 +5298,7 @@ rocm-opencl-sdk
 rocm-smi-lib
 rocminfo
 rocprim
+rocprofiler-register
 rocrand
 rocs
 rocsolver

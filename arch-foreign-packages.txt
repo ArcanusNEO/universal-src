@@ -102,6 +102,7 @@ foxdot
 freac
 fsearch
 fswatch
+fvextra
 fvm
 fxload
 fzf-extras
@@ -211,7 +212,7 @@ linuxqq-nt-bwrap
 llvm15
 llvm15-libs
 lmod
-localsend
+localsend-bin
 lockdev
 lyx
 lzfse
@@ -228,6 +229,7 @@ metis
 mimeo
 mimetic
 mingw-w64-tools
+minted
 mkdocs-git-revision-date-localized-plugin
 mkdocs-material-extensions
 mkdocs-minify-plugin
@@ -261,6 +263,7 @@ nxagent
 oh-my-zsh-git
 omnisharp-roslyn
 onlyoffice-bin
+opencollada
 openssl-1.0
 opera-ffmpeg-codecs
 osl
@@ -339,7 +342,6 @@ python-pure-protobuf
 python-pylint-celery
 python-pylint-django
 python-pylint-flask
-python-pylint-plugin-utils
 python-pylsp-mypy
 python-pylsp-rope
 python-pynput
@@ -353,6 +355,7 @@ python-scikit-image
 python-screeninfo
 python-setoptconf
 python-simpleitk
+python-simsimd
 python-stringzilla
 python-tensorstore
 python-tifffile

@@ -776,7 +776,6 @@ fuse2fs
 fuse3
 fuseiso
 futuresql
-fvextra
 fwupd
 fwupd-efi
 fzf
@@ -3242,7 +3241,6 @@ mingw-w64-winpthreads
 miniupnpc
 minizip
 minizip-ng
-minted
 minuet
 miopen-hip
 misfortune
@@ -3432,7 +3430,6 @@ opencl-clover-mesa
 opencl-headers
 opencl-nvidia
 opencl-rusticl-mesa
-opencollada
 opencolorio
 openconnect
 opencore-amr
@@ -4360,6 +4357,7 @@ python-pyjwt
 python-pylev
 python-pyliblo
 python-pylint
+python-pylint-plugin-utils
 python-pylint-venv
 python-pylsqpack
 python-pymdown-extensions
@@ -4900,6 +4898,7 @@ rocm-opencl-sdk
 rocm-smi-lib
 rocminfo
 rocprim
+rocprofiler-register
 rocrand
 rocs
 rocsolver
