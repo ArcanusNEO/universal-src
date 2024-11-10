@@ -678,7 +678,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='bluetooth'
+last-panel='keyboard'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1369,9 +1369,9 @@ inverted-colors=false
 show-sidebar=true
 sidebar-page='links'
 sidebar-size=177
-sizing-mode='fit-page'
-window-ratio=(1.9259259259259258, 1.25)
-zoom=0.60678856306507245
+sizing-mode='free'
+window-ratio=(2.75, 1.6219135802469136)
+zoom=0.84833333333333338
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -2515,7 +2515,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1731115773
+flatpak-purge-timestamp=int64 1731201765
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

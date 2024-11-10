@@ -133,6 +133,7 @@ appstream-glib
 appstream-qt
 apr
 apr-util
+aquamarine
 arch-install-scripts
 arch-wiki-docs
 arch-wiki-lite
@@ -1263,6 +1264,7 @@ gtk-chtheme
 gtk-doc
 gtk-engine-murrine
 gtk-engines
+gtk-layer-shell
 gtk-sharp-2
 gtk-sharp-3
 gtk-theme-elementary
@@ -1821,6 +1823,13 @@ hydrogen
 hyperfine
 hyperv
 hyphen
+hyprcursor
+hyprland
+hyprlang
+hyprpaper
+hyprpicker
+hyprutils
+hyprwayland-scanner
 hysteria
 i2c-tools
 i4tools-bin
@@ -2716,6 +2725,7 @@ libesmtp
 libetebase
 libetonyek
 libetpan
+libeuicc
 libev
 libevdev
 libevent
@@ -2886,6 +2896,7 @@ libmp4v2
 libmpack
 libmpc
 libmpcdec
+libmpdclient
 libmpeg2
 libmspack
 libmspub
@@ -3266,6 +3277,7 @@ lolcat
 loupe
 love
 lowdown
+lpac
 lpsolve
 lrcalc
 lrzip
@@ -4359,6 +4371,7 @@ python-gpgme
 python-graphviz
 python-greenlet
 python-grpcio
+python-grpcio-tools
 python-gssapi
 python-h11
 python-h2
@@ -5390,6 +5403,7 @@ screengrab
 screenkey
 scrot
 sd
+sdbus-cpp
 sdcardformatter
 sdcv
 sdl12-compat
@@ -5835,6 +5849,7 @@ tmon
 tmux
 toilet
 tokodon
+tomlplusplus
 tor-browser-bin
 totem
 totem-pl-parser
@@ -6158,6 +6173,7 @@ wasi-libc++
 wasi-libc++abi
 wasm-component-ld
 wavpack
+waybar
 waydroid
 waydroid-image-gapps
 wayland
@@ -6213,6 +6229,7 @@ wlroots
 wmctrl
 woff2
 woff2-smiley-sans-bin
+wofi
 wolf-shaper-dssi
 wolf-shaper-lv2
 wolf-shaper-vst
@@ -6271,6 +6288,8 @@ xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-wlr
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
