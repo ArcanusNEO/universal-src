@@ -4159,6 +4159,7 @@ properties-cpp
 protobuf
 protobuf-c
 proton
+proton-ge-custom
 protondb-tags
 protonhax
 protonlaunch
@@ -6169,6 +6170,7 @@ vcpkg
 vde2
 vdhcoapp
 vdpauinfo
+ventoy
 verdict
 verilator
 verilog-format-git
@@ -6196,6 +6198,7 @@ visualvm
 vivaldi-ffmpeg-codecs
 vkbasalt
 vkd3d
+vkd3d-proton-mingw
 vkmark
 vlc
 vlmcsd
@@ -6279,6 +6282,7 @@ wiiuse
 wildmidi
 wimlib
 wine
+wine-ge-custom-opt
 wine-gecko
 wine-mono
 wine-nine

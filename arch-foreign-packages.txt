@@ -276,6 +276,7 @@ pix2tex-desktop
 pod2man
 properties-cpp
 proton
+proton-ge-custom
 protondb-tags
 protonhax
 protonlaunch
@@ -461,11 +462,13 @@ uudeck
 uxplay
 vala-language-server
 vdhcoapp
+ventoy
 verilog-format-git
 vim-language-server
 virtio-win
 virtualbox-ext-oracle
 vkbasalt
+vkd3d-proton-mingw
 vlmcsd
 vmware-keymaps
 vo-amrwbenc
@@ -482,6 +485,7 @@ whatweb
 whitesur-cursor-theme-git
 whitesur-gtk-theme-git
 whitesur-icon-theme-git
+wine-ge-custom-opt
 winetricks-git
 wlrctl
 woff2-smiley-sans-bin
