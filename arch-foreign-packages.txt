@@ -14,7 +14,6 @@ another-redis-desktop-manager-bin
 aocc
 aocl-aocc
 aocl-gcc
-apfs-fuse-git
 appimagetool-bin
 archlinux-java-run
 aria2-fast
@@ -25,6 +24,7 @@ asusctl
 aurutils
 automoc4
 baidunetdisk-electron
+balena-etcher
 bfg
 bilibili-bin
 boca
@@ -51,6 +51,7 @@ code-features
 code-marketplace
 compiler-rt15
 cpu-x
+cpuid
 crunch
 csharp-ls
 cubeb
@@ -68,22 +69,16 @@ dingtalk-bin
 dmg2img
 dockerfile-language-server
 downgrade
-dummydroid-bin
 dxvk-mingw
 dxvk-nvapi-mingw
-eclipse-java-bin
 edb-debugger
 electron-netease-cloud-music
 electron11-bin
 electron12-bin
-electron13-bin
-electron16-bin
 electron21-bin
 electron22-bin
-electron9-bin
 envycontrol
 erlang_ls
-etcher-bin
 evhz-git
 faudio
 feishu-bin
@@ -102,7 +97,6 @@ foxdot
 freac
 fsearch
 fswatch
-fvextra
 fvm
 fxload
 fzf-extras
@@ -196,7 +190,7 @@ lib32-lzo
 lib32-ncurses5-compat-libs
 libaal
 libcroco
-libcurl-impersonate-bin
+libeuicc
 libgbinder
 libglibutil
 libinput-gestures
@@ -214,9 +208,9 @@ llvm15-libs
 lmod
 localsend-bin
 lockdev
+lpac
 lyx
 lzfse
-macintosh.js-bin
 mailspring
 marsyas
 masterpdfeditor-free
@@ -229,7 +223,6 @@ metis
 mimeo
 mimetic
 mingw-w64-tools
-minted
 mkdocs-git-revision-date-localized-plugin
 mkdocs-material-extensions
 mkdocs-minify-plugin
@@ -237,7 +230,6 @@ mkinitcpio-firmware
 mma
 modemmanager-qt5
 mprime
-msedgedriver-stable-bin
 mutter-performance
 nautilus-sendto
 navicat16-premium-cs
@@ -263,7 +255,6 @@ nxagent
 oh-my-zsh-git
 omnisharp-roslyn
 onlyoffice-bin
-opencollada
 openssl-1.0
 opera-ffmpeg-codecs
 osl
@@ -275,7 +266,6 @@ otf-takaomj
 pacman-static
 pacroller
 paros
-parsec-bin
 paru
 patool
 payload-dumper-go
@@ -286,14 +276,12 @@ pix2tex-desktop
 pod2man
 properties-cpp
 proton
-proton-ge-custom-bin
 protondb-tags
 protonhax
 protonlaunch
 protontricks-git
 protonutils
 psautohint
-pulsar-bin
 purescript-language-server
 python-albucore
 python-albumentations
@@ -301,10 +289,12 @@ python-async_generator
 python-biscuits
 python-bs4
 python-cached-property
+python-cffsubr
 python-chex
 python-cloudscraper
+python-compreffor
 python-convertdate
-python-curl-cffi
+python-cu2qu
 python-dm-tree
 python-dodgy
 python-dukpy
@@ -354,8 +344,10 @@ python-safetensors
 python-scikit-image
 python-screeninfo
 python-setoptconf
+python-setuptools-git-ls-files
 python-simpleitk
 python-simsimd
+python-skia-pathops
 python-stringzilla
 python-tensorstore
 python-tifffile
@@ -363,6 +355,8 @@ python-tifffile-doc
 python-timm
 python-tokenizers
 python-transformers
+python-ttfautohint-py
+python-ufo2ft
 python-ufonormalizer
 python-vdf
 python-whatever
@@ -386,9 +380,7 @@ qtraw
 quad
 quickjs
 qv2ray
-raccoon-bin
 rarian
-raven-reader-bin
 rebar3
 reiser4progs
 remmina-plugin-folder
@@ -422,7 +414,6 @@ solfege
 sonic-pi
 spacecadetpinball-git
 spotify
-stacer-bin
 stardict-langdao-ce-gb
 stardict-langdao-ec-gb
 stardict-oald
@@ -470,12 +461,11 @@ uudeck
 uxplay
 vala-language-server
 vdhcoapp
-ventoy-bin
 verilog-format-git
 vim-language-server
 virtio-win
+virtualbox-ext-oracle
 vkbasalt
-vkd3d-proton-bin
 vlmcsd
 vmware-keymaps
 vo-amrwbenc
@@ -492,8 +482,6 @@ whatweb
 whitesur-cursor-theme-git
 whitesur-gtk-theme-git
 whitesur-icon-theme-git
-windows95-electron-bin
-wine-ge-custom-bin
 winetricks-git
 wlrctl
 woff2-smiley-sans-bin
@@ -503,7 +491,6 @@ wps-office
 wps-office-fonts
 wps-office-mime
 wps-office-mui-zh-cn
-wudao-dict-git
 x86info
 xavs2
 xbanish
@@ -519,10 +506,7 @@ xrdp
 xunlei-bin
 xwinwrap-git
 xz-static
-ydcv-rs-git
-yesplaymusic-electron
 you-get
-youku-bin
 zhcon
 zoom
 zotero

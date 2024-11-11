@@ -21,6 +21,7 @@ acme.sh
 acorn
 acpi
 acpi_call-dkms
+acpica
 ada
 adljack
 adlplug-lv2
@@ -119,6 +120,7 @@ appstream-glib
 appstream-qt
 apr
 apr-util
+aquamarine
 arch-install-scripts
 arch-wiki-docs
 arch-wiki-lite
@@ -322,6 +324,7 @@ cairo
 cairo-perl
 cairomm
 cairomm-1.16
+cairomm-docs
 calendarsupport
 calf
 calibre
@@ -483,6 +486,7 @@ dbus-broker-units
 dbus-c++
 dbus-docs
 dbus-glib
+dbus-units
 dcd
 dconf
 dconf-editor
@@ -961,6 +965,7 @@ glibc
 glibc-locales
 glibmm
 glibmm-2.68
+glibmm-docs
 glm
 glmark2
 global
@@ -1137,6 +1142,7 @@ gtk-chtheme
 gtk-doc
 gtk-engine-murrine
 gtk-engines
+gtk-layer-shell
 gtk-sharp-2
 gtk-sharp-3
 gtk-theme-elementary
@@ -1688,6 +1694,13 @@ hydrogen
 hyperfine
 hyperv
 hyphen
+hyprcursor
+hyprland
+hyprlang
+hyprpaper
+hyprpicker
+hyprutils
+hyprwayland-scanner
 i2c-tools
 iagno
 iaito
@@ -1721,18 +1734,12 @@ iniparser
 inkscape
 innoextract
 inotify-tools
+intel-compute-runtime
 intel-gmmlib
+intel-graphics-compiler
 intel-media-driver
 intel-media-sdk
-intel-oneapi-common
-intel-oneapi-compiler-dpcpp-cpp-runtime
-intel-oneapi-compiler-dpcpp-cpp-runtime-libs
-intel-oneapi-compiler-shared-runtime
-intel-oneapi-compiler-shared-runtime-libs
-intel-oneapi-mkl
-intel-oneapi-openmp
-intel-oneapi-tbb
-intel-oneapi-tcm
+intel-oneapi-basekit
 intellij-idea-community-edition
 inter-font
 intltool
@@ -1751,6 +1758,7 @@ isoimagewriter
 itinerary
 itstool
 iucode-tool
+iverilog
 iw
 iwd
 jaaa
@@ -1883,6 +1891,7 @@ kcontacts
 kcontacts5
 kcoreaddons
 kcoreaddons5
+kcpuid
 kcrash
 kcrash5
 kcron
@@ -2186,6 +2195,7 @@ lemon
 lensfun
 leptonica
 less
+level-zero-headers
 level-zero-loader
 leveldb
 lf
@@ -2603,6 +2613,7 @@ libgsf
 libgssglue
 libgtop
 libgudev
+libguestfs
 libgusb
 libgweather-4
 libgxps
@@ -2711,6 +2722,7 @@ libmp4v2
 libmpack
 libmpc
 libmpcdec
+libmpdclient
 libmpeg2
 libmspack
 libmspub
@@ -2872,6 +2884,7 @@ libshumate
 libsidplayfp
 libsigc++
 libsigc++-3.0
+libsigc++-docs
 libsigsegv
 libsixel
 libslirp
@@ -3255,6 +3268,7 @@ mkinitcpio-busybox
 mkinitcpio-nfs-utils
 mlite
 mlt
+mm-common
 mmdblookup
 mobile-broadband-provider-info
 mod_dnssd
@@ -3360,7 +3374,7 @@ nm-connection-editor
 nmap
 nnn
 node-gyp
-nodejs-lts-hydrogen
+nodejs-lts-iron
 nodejs-nopt
 nodejs-source-map
 nodejs-yaml
@@ -3450,6 +3464,8 @@ openjdk11-doc
 openjdk11-src
 openjdk17-doc
 openjdk17-src
+openjdk21-doc
+openjdk21-src
 openjdk8-doc
 openjdk8-src
 openjpeg2
@@ -3540,6 +3556,7 @@ pango
 pango-perl
 pangomm
 pangomm-2.48
+pangomm-docs
 pappl
 parallel
 pari
@@ -3556,6 +3573,7 @@ pasystray
 patch
 patchelf
 patchmatrix
+patchutils
 patroneo
 pavucontrol
 pavucontrol-qt
@@ -4087,6 +4105,7 @@ python-gpgme
 python-graphviz
 python-greenlet
 python-grpcio
+python-grpcio-tools
 python-gssapi
 python-h11
 python-h2
@@ -4510,6 +4529,7 @@ python-statsmodels
 python-stevedore
 python-subprocess-tee
 python-sympy
+python-syrupy
 python-systemd
 python-tabulate
 python-tempora
@@ -5057,6 +5077,7 @@ screengrab
 screenkey
 scrot
 sd
+sdbus-cpp
 sdcv
 sdl12-compat
 sdl2
@@ -5466,6 +5487,7 @@ tmon
 tmux
 toilet
 tokodon
+tomlplusplus
 torchvision-cuda
 totem
 totem-pl-parser
@@ -5636,6 +5658,7 @@ ugrep
 uhttpmock
 umbrello
 umockdev
+umu-launcher
 umurmur
 unace
 unarchiver
@@ -5722,6 +5745,7 @@ vte-common
 vte3
 vte4
 vtk
+vtr
 vue-language-server
 vulkan-extra-layers
 vulkan-extra-tools
@@ -5738,6 +5762,7 @@ vulkan-virtio
 vulscan
 vym
 w3m
+waf
 wah-plugins
 wasi-compiler-rt
 wasi-libc
@@ -5745,6 +5770,7 @@ wasi-libc++
 wasi-libc++abi
 wasm-component-ld
 wavpack
+waybar
 wayland
 wayland-protocols
 wayland-utils
@@ -5785,6 +5811,7 @@ wl-clipboard
 wlroots
 wmctrl
 woff2
+wofi
 wolf-shaper-dssi
 wolf-shaper-lv2
 wolf-shaper-vst
@@ -5831,6 +5858,8 @@ xdg-dbus-proxy
 xdg-desktop-portal
 xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-wlr
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
@@ -5862,6 +5891,7 @@ xh
 xjadeo
 xkeyboard-config
 xl2tpd
+xmldiff
 xmlsec
 xmlstarlet
 xmlto
