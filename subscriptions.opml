@@ -2,24 +2,21 @@
 <opml version="2.0">
   <body>
     <outline text="黑客社区">
-      <outline text="Phoronix" type="rss" xmlUrl="https://www.phoronix.com/phoronix-rss.php" />
+      <outline text="Phoronix" type="rss" xmlUrl="https://rsshub.transcliff.top/phoronix" />
       <outline text="Arch Linux" type="rss" xmlUrl="https://www.archlinuxcn.org/feed" />
-      <outline text="Linux中国◆开源社区" type="rss" xmlUrl="https://linux.cn/rss.xml" />
       <outline text="酷壳 陈皓" type="rss" xmlUrl="https://coolshell.cn/feed" />
       <outline text="云风的BLOG" type="rss" xmlUrl="https://blog.codingnow.com/atom.xml" />
       <outline text="风雪之隅" type="rss" xmlUrl="https://www.laruence.com/feed" />
       <outline text="阮一峰的网络日志" type="rss" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" />
       <outline text="大侠阿木博客" type="rss"
         xmlUrl="https://rsshub.transcliff.top/daxiaamu/home?mode=fulltext" />
-      <outline text="美团技术团队" type="rss" xmlUrl="https://rsshub.transcliff.top/meituan/tech/home" />
       <outline text="技术头条" type="rss"
         xmlUrl="https://rsshub.transcliff.top/blogread/newest?mode=fulltext" />
       <outline text="飞蚊话" type="rss" xmlUrl="https://www.bwsl.wang/feed" />
-      <outline text="IBM官方中国博客" type="rss" xmlUrl="https://www.ibm.com/blogs/china/feed" />
     </outline>
     <outline text="帖子杂谈">
       <outline text="Hacker News" type="rss"
-        xmlUrl="https://rsshub.transcliff.top/hackernews/index/new?limit=10?mode=fulltext" />
+        xmlUrl="https://rsshub.transcliff.top/hackernews/index/new?mode=fulltext" />
       <outline text="V2EX 最新主题" type="rss"
         xmlUrl="https://rsshub.transcliff.top/v2ex/topics/latest?mode=fulltext" />
       <outline text="酷安 今日热门" type="rss"
@@ -137,24 +134,6 @@
       <outline text="草榴社區 成人文學交流區 古典武俠" type="rss" xmlUrl="https://rsshub.transcliff.top/t66y/20/2" />
       <outline text="草榴社區 成人文學交流區 另類禁忌" type="rss" xmlUrl="https://rsshub.transcliff.top/t66y/20/3" />
       <outline text="草榴社區 成人文學交流區 性愛技巧" type="rss" xmlUrl="https://rsshub.transcliff.top/t66y/20/4" />
-      <outline text="色花图片 原创自拍区" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/yczp" />
-      <outline text="色花图片 转贴自拍" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/ztzp" />
-      <outline text="色花图片 华人街拍区" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/hrjp" />
-      <outline text="色花图片 亚洲性爱" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/yzxa" />
-      <outline text="色花图片 欧美性爱" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/omxa" />
-      <outline text="色花图片 卡通动漫" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/ktdm" />
-      <outline text="色花图片 套图下载" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/ttxz" />
-      <outline text="色花堂 国产原创" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/gcyc" />
-      <outline text="色花堂 亚洲无码原创" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/yzwmyc" />
-      <outline text="色花堂 亚洲有码原创" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/yzymyc" />
-      <outline text="色花堂 高清中文字幕" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/gqzwzm" />
-      <outline text="色花堂 三级写真" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/sjxz" />
-      <outline text="色花堂 VR视频区" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/vr" />
-      <outline text="色花堂 素人有码系列" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/srym" />
-      <outline text="色花堂 欧美无码" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/omwm" />
-      <outline text="色花堂 韩国主播" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/hgzb" />
-      <outline text="色花堂 动漫原创" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/dmyc" />
-      <outline text="色花堂 综合讨论区" type="rss" xmlUrl="https://rsshub.transcliff.top/sehuatang/zhtl" />
     </outline>
   </body>
 </opml>
