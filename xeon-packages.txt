@@ -6454,6 +6454,7 @@ zam-plugins-vst
 zam-plugins-vst3
 zanshin
 zbar
+zed
 zeitgeist
 zellij
 zenity
