@@ -2519,7 +2519,6 @@ lib32-libunwind
 lib32-libusb
 lib32-libva
 lib32-libva-intel-driver
-lib32-libva-mesa-driver
 lib32-libva-vdpau-driver
 lib32-libvdpau
 lib32-libvorbis
@@ -2559,7 +2558,6 @@ lib32-lm_sensors
 lib32-lzo
 lib32-mesa
 lib32-mesa-utils
-lib32-mesa-vdpau
 lib32-mpg123
 lib32-ncurses
 lib32-ncurses5-compat-libs
@@ -3145,7 +3143,6 @@ libutf8proc
 libuv
 libva
 libva-intel-driver
-libva-mesa-driver
 libva-nvidia-driver
 libva-utils
 libvarlink
@@ -3455,7 +3452,6 @@ merkuro
 mesa
 mesa-docs
 mesa-utils
-mesa-vdpau
 meson
 meson-python
 messagelib
@@ -4347,6 +4343,7 @@ python-dpkt
 python-dukpy
 python-dulwich
 python-dunamai
+python-durationpy
 python-e3-core
 python-e3-testsuite
 python-editables
@@ -6534,6 +6531,7 @@ zam-plugins-vst
 zam-plugins-vst3
 zanshin
 zbar
+zed
 zeitgeist
 zellij
 zenity
