@@ -2012,7 +2012,7 @@ name='ROG Control Center'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom6]
 binding='<Super>t'
-command="kitty --single-instance --title emacs -d /tmp sh -c 'exec emacsclient -tc -a \"emacs -nw\" \"/tmp/$(head -c12 /dev/urandom | base64 | tr /+ _-)\"'"
+command='leafpad'
 name='Text Editor'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7]
