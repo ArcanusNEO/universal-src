@@ -1,11 +1,10 @@
 [Unit]
-Description=locansend daemon
+Description=The localsend daemon
 BindsTo=graphical-session.target
-After=network-online.target nftables.service iptables.service xdg-desktop-autostart.target
+After=network-online.target nftables.service iptables.service graphical-session.target xdg-desktop-autostart.target
 
 [Service]
 Type=simple
-ExecStartPre=/bin/sleep 3
 ExecStart=/usr/bin/localsend --hidden
 Restart=on-abnormal
 RestartSec=3

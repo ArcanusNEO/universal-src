@@ -4298,6 +4298,7 @@ python-dpkt
 python-dukpy
 python-dulwich
 python-dunamai
+python-durationpy
 python-e3-core
 python-e3-testsuite
 python-editables

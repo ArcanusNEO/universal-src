@@ -1,5 +1,5 @@
 [Unit]
-Description=Terminal multiplexer daemon for %i
+Description=The terminal multiplexer daemon for %i
 Documentation=man:tmux(1)
 After=gpg-agent.service
 
