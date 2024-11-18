@@ -72,7 +72,6 @@
       <outline text="中国国家应急广播" type="rss" xmlUrl="https://rsshub.transcliff.top/cneb/yjxx?limit=10" />
       <outline text="中央气象台预警" type="rss"
         xmlUrl="https://rsshub.transcliff.top/weatheralarm?limit=10" />
-      <outline text="南开大学教务处" type="rss" xmlUrl="https://rsshub.transcliff.top/nku/jwc/1" />
     </outline>
     <outline text="微信号">
       <outline text="南方周末" type="rss"
