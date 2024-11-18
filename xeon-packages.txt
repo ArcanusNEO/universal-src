@@ -793,7 +793,6 @@ file
 file-roller
 filelight
 filesystem
-finalshell
 findutils
 firefox
 firefox-i18n-zh-cn
