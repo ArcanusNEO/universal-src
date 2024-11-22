@@ -2030,7 +2030,6 @@ kmailtransport
 kmbox
 kmidimon
 kmime
-kmime5
 kmines
 kmix
 kmod
@@ -3472,8 +3471,6 @@ openmp
 openmpi
 openpgl
 openpmix
-openrazer-daemon
-openrazer-driver-dkms
 opensc
 openshadinglanguage
 openslide
@@ -4263,7 +4260,6 @@ python-openbabel
 python-opencv
 python-opengl
 python-openpyxl
-python-openrazer
 python-openstacksdk
 python-opt_einsum
 python-optree
@@ -4559,7 +4555,6 @@ python-trio-websocket
 python-trove-classifiers
 python-truststore
 python-twisted
-python-typed-ast
 python-typeguard
 python-typing_extensions
 python-typogrify
@@ -4628,6 +4623,7 @@ qastools
 qca-qt5
 qca-qt6
 qcoro
+qcustomplot
 qd
 qemu-audio-alsa
 qemu-audio-dbus
@@ -5715,12 +5711,6 @@ virglrenderer
 virt-install
 virt-manager
 virtiofsd
-virtualbox
-virtualbox-ext-vnc
-virtualbox-guest-iso
-virtualbox-guest-utils
-virtualbox-host-dkms
-virtualbox-sdk
 virtualgl
 visualvm
 vivaldi-ffmpeg-codecs
