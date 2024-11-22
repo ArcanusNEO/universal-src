@@ -678,7 +678,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='keyboard'
+last-panel='network'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1586,7 +1586,7 @@ last-save-directory='file:///home/lucas/Downloads'
 cpu-colors=[(uint32 0, '#e01b24'), (1, '#ff7800'), (2, '#f6d32d'), (3, '#33d17a'), (4, '#26a269'), (5, '#62a0ea'), (6, '#1c71d8'), (7, '#613583'), (8, '#9141ac'), (9, '#c061cb'), (10, '#ffbe6f'), (11, '#f9f06b'), (12, '#8ff0a4'), (13, '#2ec27e'), (14, '#1a5fb4'), (15, '#c061cb'), (16, '#d851f3327999'), (17, '#ea977999f332'), (18, '#7999f332c71b'), (19, '#f332a3a07999'), (20, '#80257999f332'), (21, '#9688f3327999'), (22, '#f3327999ba03'), (23, '#7999dd7ff332'), (24, '#f332ad887999'), (25, '#8a0c7999f332'), (26, '#8ca0f3327999'), (27, '#f3327999b01c'), (28, '#7999d397f332'), (29, '#f332ef517999'), (30, '#cbd67999f332'), (31, '#7999f332a85a'), (32, '#f33284df7999'), (33, '#799991cef332'), (34, '#b549f3327999'), (35, '#f3327999d8c4')]
 current-tab='resources'
 logarithmic-scale=false
-maximized=true
+maximized=false
 network-total-in-bits=false
 process-memory-in-iec=true
 resources-memory-in-iec=true
@@ -2049,7 +2049,7 @@ app-picker-layout=[{'org.gnome.TwentyFortyEight.desktop': <{'position': <0>}>, '
 command-history=['echo Hello', 'rog-control-center', 'mumble', 'sdcv fortune', 'gedit', 'cmd', 'kgx', 'cfw', 'wechat', 'linuxqq', 'dconf-editor', 'gnome-session', 'gnome-tweaks', 'gnome-session-properties', 'gnome-extensions-app', 'reboot', 'xunmap', 'bash', 'newsflash', 'fsearch', 'qterminal', 'kdenlive', 'blender', 'feishu', 'steam', 'pavucontrol-qt', 'telegram-desktop', 'xunlei', 'baidunetdisk', 'localsend', 'finalshell', 'picgo', 'sdlpal', 'steam-native', 'raven-reader', 'nautilus', 'evince', 'calc', 'gnome-calculator', 'ribt=off', 'gnome-terminal', 'firefoxd', 'lg', 'r', 'gjs', 'poweroff', 'code']
 disable-extension-version-validation=true
 disable-user-extensions=false
-disabled-extensions=['better-osd@hllvc', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'netspeed@alynx.one', 'simplenetspeed@biji.extension', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'pixel-saver@deadalnix.me', 'status-area-horizontal-spacing@mathematical.coffee.gmail.com', 'dash-to-plank@hardpixel.eu', 'window-list@gnome-shell-extensions.gcampax.github.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'aztaskbar@aztaskbar.gitlab.com', 'tray-icons@nicovell3', 'rounded-window-corners@yilozt', 'dock-from-dash@fthx', 'no-overview@fthx', 'dash2dock-lite@icedman.github.com', 'dash-animator@icedman.github.com', 'fildemGMenu@gonza.com', 'dash-to-panel@jderose9.github.com', 'native-window-placement@gnome-shell-extensions.gcampax.github.com', 'just-perfection-desktop@just-perfection', 'trayIconsReloaded@selfmade.pl', 'activate_gnome@isjerryxiao', 'compiz-windows-effect@hermes83.github.com', 'Move_Clock@rmy.pobox.com', 'windowIsReady_Remover@nunofarruca@gmail.com', 'auto-move-windows@gnome-shell-extensions.gcampax.github.com', 'gsconnect@andyholmes.github.io', 'asusctl-gnome@asus-linux.org', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'accerciser@accerciser.gnome.org']
+disabled-extensions=['better-osd@hllvc', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'netspeed@alynx.one', 'simplenetspeed@biji.extension', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'pixel-saver@deadalnix.me', 'status-area-horizontal-spacing@mathematical.coffee.gmail.com', 'dash-to-plank@hardpixel.eu', 'window-list@gnome-shell-extensions.gcampax.github.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com', 'aztaskbar@aztaskbar.gitlab.com', 'tray-icons@nicovell3', 'rounded-window-corners@yilozt', 'dock-from-dash@fthx', 'no-overview@fthx', 'dash2dock-lite@icedman.github.com', 'dash-animator@icedman.github.com', 'fildemGMenu@gonza.com', 'dash-to-panel@jderose9.github.com', 'native-window-placement@gnome-shell-extensions.gcampax.github.com', 'just-perfection-desktop@just-perfection', 'trayIconsReloaded@selfmade.pl', 'activate_gnome@isjerryxiao', 'compiz-windows-effect@hermes83.github.com', 'Move_Clock@rmy.pobox.com', 'windowIsReady_Remover@nunofarruca@gmail.com', 'auto-move-windows@gnome-shell-extensions.gcampax.github.com', 'gsconnect@andyholmes.github.io', 'asusctl-gnome@asus-linux.org', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'accerciser@accerciser.gnome.org', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'input-source-manager@xpra_org', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'status-icons@gnome-shell-extensions.gcampax.github.com']
 enabled-extensions=['panel-osd@berend.de.schouwer.gmail.com', 'system-monitor@paradoxxx.zero.gmail.com', 'captivate@rensoliemans.nl', 'switchtwolayouts@qtmax.dev', 'ubuntu-dock@ubuntu.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'system-monitor-next@paradoxxx.zero.gmail.com', 'maximize-to-workspace@rliang.github.com', 'MaximizeToEmptyWorkspace-extension@kaisersite.de', 'gnome-optiprime@kalteseele', 'RadeonPRIME@xvexisu-gmail.com', 'gnome-optirun@TCG', 'GNOME_Run_With_PRIME@floturcocantsee.daguerro.net', 'custom-menu-panel@AndreaBenini', 'unite@hardpixel.eu', 'cpupower@mko-sl.de', 'impatience@gfxmonk.net', 'GPU_profile_selector@lorenzo9904.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'GPaste@gnome-shell-extensions.gnome.org', 'notification-timeout@chlumskyvaclav.gmail.com', 'ProxySwitcher@flannaghan.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'handy_extensions_collection@transcliff.eu.org', 'appindicatorsupport@rgcjonas.gmail.com', 'ibus-switcher@kevinhwang91.github.com', 'system-monitor@gnome-shell-extensions.gcampax.github.com', 'light-style@gnome-shell-extensions.gcampax.github.com', 'compiz-alike-magic-lamp-effect@hermes83.github.com', 'handy-extensions-collection@transcliff.eu.org', 'AlphabeticalAppGrid@stuarthayhurst']
 favorite-apps=['']
 had-bluetooth-devices-setup=true
@@ -2515,7 +2515,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1731891730
+flatpak-purge-timestamp=int64 1732241718
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

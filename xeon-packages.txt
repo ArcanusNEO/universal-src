@@ -2184,7 +2184,6 @@ kmailtransport
 kmbox
 kmidimon
 kmime
-kmime5
 kmines
 kmix
 kmod
@@ -3687,8 +3686,6 @@ openmp
 openmpi
 openpgl
 openpmix
-openrazer-daemon
-openrazer-driver-dkms
 opensc
 openshadinglanguage
 openslide
@@ -4542,7 +4539,6 @@ python-openbabel
 python-opencv
 python-opengl
 python-openpyxl
-python-openrazer
 python-openstacksdk
 python-opt_einsum
 python-optax
@@ -4947,6 +4943,8 @@ qastools
 qca-qt5
 qca-qt6
 qcoro
+qcustomplot
+qcustomplot-qt6
 qd
 qdl-git
 qemu-audio-alsa
@@ -6106,13 +6104,6 @@ virt-install
 virt-manager
 virtio-win
 virtiofsd
-virtualbox
-virtualbox-ext-oracle
-virtualbox-ext-vnc
-virtualbox-guest-iso
-virtualbox-guest-utils
-virtualbox-host-dkms
-virtualbox-sdk
 virtualgl
 visualvm
 vivaldi-ffmpeg-codecs
