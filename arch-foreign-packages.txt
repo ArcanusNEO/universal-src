@@ -174,7 +174,6 @@ kddockwidgets-qt6
 kdocker
 kfilemetadata5
 kjs
-kmime5
 kmscon
 komorebi
 kotlin-language-server
@@ -232,7 +231,6 @@ modemmanager-qt5
 mprime
 mutter-performance
 nautilus-sendto
-navicat16-premium-cs
 ncurses5-compat-libs
 neo-matrix
 ninjas2-lv2
@@ -393,6 +391,7 @@ remmina-plugin-url
 responder
 rest
 rig
+rmlint
 rog-control-center
 ruby-backport
 ruby-e2mmap

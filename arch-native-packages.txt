@@ -314,6 +314,7 @@ bubblewrap
 busybox
 byobu
 bzip2
+bzip3
 c-ares
 ca-certificates
 ca-certificates-mozilla
@@ -4886,7 +4887,6 @@ rime-terra-pinyin
 ripgrep
 ripgrep-all
 rlwrap
-rmlint
 rng-tools
 rnnoise
 robin-map
@@ -5069,6 +5069,7 @@ screenfetch
 screengrab
 screenkey
 scrot
+scx-scheds
 sd
 sdbus-cpp
 sdcv

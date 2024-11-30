@@ -348,6 +348,7 @@ burpsuite
 busybox
 byobu
 bzip2
+bzip3
 c-ares
 ca-certificates
 ca-certificates-mozilla
@@ -2206,7 +2207,6 @@ kmailtransport
 kmbox
 kmidimon
 kmime
-kmime5
 kmines
 kmix
 kmod
@@ -3553,7 +3553,6 @@ nautilus
 nautilus-sendto
 nauty
 navi
-navicat16-premium-cs
 nawk
 nbd
 nccl
@@ -5469,6 +5468,7 @@ screenfetch
 screengrab
 screenkey
 scrot
+scx-scheds
 sd
 sdbus-cpp
 sdcardformatter
