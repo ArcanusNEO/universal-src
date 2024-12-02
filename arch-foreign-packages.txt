@@ -67,6 +67,7 @@ dietlibc
 diffmerge
 dingtalk-bin
 dmg2img
+docker-scan
 dockerfile-language-server
 downgrade
 dxvk-mingw
@@ -185,10 +186,12 @@ lerc
 lib32-blas
 lib32-faudio
 lib32-lapack
+lib32-libva-vdpau-driver
 lib32-lzo
 lib32-ncurses5-compat-libs
 libaal
 libcroco
+liberica-jdk-11-full-bin
 libeuicc
 libgbinder
 libglibutil
@@ -202,8 +205,6 @@ libvisual
 libxcomp
 linux-wifi-hotspot
 linuxqq-nt-bwrap
-llvm15
-llvm15-libs
 lmod
 localsend-bin
 lockdev
@@ -314,9 +315,9 @@ python-imgaug
 python-imread
 python-jax
 python-jaxlib
+python-js2py
 python-jsmin
 python-langdetect
-python-lazy-loader
 python-lsp-isort
 python-lsp-ruff
 python-mitmproxy-wireguard

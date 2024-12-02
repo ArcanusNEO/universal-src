@@ -1312,6 +1312,7 @@ guile
 guile1.8
 guile2.2
 guitarix
+gum
 gumbo-parser
 gummi
 gupnp
@@ -2741,6 +2742,7 @@ libei
 libelf
 libepoxy
 libepubgen
+liberica-jdk-11-full-bin
 libesmtp
 libetebase
 libetonyek

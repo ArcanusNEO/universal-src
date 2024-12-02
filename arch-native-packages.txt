@@ -547,7 +547,6 @@ dnssec-anchors
 docbook-xml
 docbook-xsl
 docbook2x
-docker-scan
 dog
 dolphin
 dolphin-emu
@@ -1177,6 +1176,7 @@ gucharmap
 guile
 guile2.2
 guitarix
+gum
 gumbo-parser
 gummi
 gupnp
@@ -2331,7 +2331,6 @@ lib32-libunwind
 lib32-libusb
 lib32-libva
 lib32-libva-intel-driver
-lib32-libva-vdpau-driver
 lib32-libvdpau
 lib32-libvorbis
 lib32-libvpx
@@ -3075,6 +3074,8 @@ llvm-julia-libs
 llvm-libs
 llvm14
 llvm14-libs
+llvm15
+llvm15-libs
 lm_sensors
 lmdb
 lmms
@@ -4158,7 +4159,6 @@ python-jinja
 python-jmespath
 python-joblib
 python-jq
-python-js2py
 python-json-logger
 python-json5
 python-jsonpatch
@@ -4182,6 +4182,7 @@ python-kiwisolver
 python-krb5
 python-kubernetes
 python-lark-parser
+python-lazy-loader
 python-lazy-object-proxy
 python-ldap
 python-ldap3
