@@ -1468,6 +1468,8 @@ volume-size=104857
 [org/gnome/file-roller/file-selector]
 show-hidden=false
 sidebar-size=300
+sort-method='name'
+sort-type='ascending'
 window-size=(-1, -1)
 
 [org/gnome/file-roller/listing]
@@ -1786,6 +1788,9 @@ last-folder-path='/home/lucas/Downloads'
 
 [org/gnome/portal/filechooser/google-chrome-stable]
 last-folder-path='/home/lucas/Documents'
+
+[org/gnome/portal/filechooser/google-chrome]
+last-folder-path='/home/lucas/Downloads'
 
 [org/gnome/portal/filechooser/org.gnome.Settings]
 last-folder-path='/home/lucas/Pictures'
@@ -2517,7 +2522,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1733100546
+flatpak-purge-timestamp=int64 1733790955
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

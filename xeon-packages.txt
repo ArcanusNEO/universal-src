@@ -1299,6 +1299,7 @@ guile
 guile1.8
 guile2.2
 guitarix
+gum
 gumbo-parser
 gummi
 gupnp
