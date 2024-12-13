@@ -13,7 +13,7 @@ set completeopt=preview,menu
 set confirm
 set enc=utf-8
 set expandtab
-set fencs=ucs-bom,utf-8,chinese,gb18030,gbk,gb2312,cp936,big5,cp950,japanese,iso-2022-jp,euc-jp,sjis,korean,euc-kr,cp949,latin1
+set fencs=utf-8,ucs-bom,chinese,gb18030,gbk,gb2312,cp936,big5,cp950,japanese,iso-2022-jp,euc-jp,sjis,korean,euc-kr,cp949,latin1
 set fillchars=vert:\ ,stl:\ ,stlnc:\
 set gdefault
 set guioptions-=m
