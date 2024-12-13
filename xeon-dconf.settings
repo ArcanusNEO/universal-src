@@ -315,7 +315,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
