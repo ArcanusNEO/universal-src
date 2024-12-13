@@ -1,7 +1,3 @@
-autocmd FileType c,cpp map <buffer> <leader><space> :w<cr>:make<cr>
-autocmd Filetype cpp setlocal makeprg=g++\ -pthread\ -Wall\ -o%.exec\ %\ \&\&\ ./%.exec
-autocmd Filetype c setlocal makeprg=gcc\ -pthread\ -Wall\ -o%.exec\ %\ \&\&\ ./%.exec
-autocmd Filetype python setlocal makeprg=python\ %
 filetype indent on
 filetype on
 filetype plugin on
@@ -28,7 +24,6 @@ set hlsearch
 set ignorecase
 set incsearch
 set iskeyword+=_,$,@,%,#,-
-set langmenu=zh_CN.UTF-8
 set laststatus=2
 set linespace=0
 set magic
@@ -38,7 +33,6 @@ set nocompatible
 set noeb
 set noswapfile
 set noundofile
-"set number
 set report=0
 set ruler
 set scrolloff=3
