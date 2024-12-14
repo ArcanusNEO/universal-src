@@ -357,6 +357,7 @@ cajviewer
 calendarsupport
 calf
 calibre
+calligra
 cantarell-fonts
 cantor
 capnproto
@@ -2954,6 +2955,7 @@ libpcap
 libpciaccess
 libpeas
 libpeas-2
+libpfm
 libpgm
 libphobos
 libphonenumber
