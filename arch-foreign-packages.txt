@@ -2,6 +2,7 @@
 adspower-global
 afdko
 aic94xx-firmware
+akonadi-notes
 alist
 aliyun-adrive-bin
 amduprof
@@ -174,11 +175,13 @@ jre8
 kddockwidgets-qt6
 kdocker
 kfilemetadata5
+kjots
 kjs
 kmscon
 komorebi
 kotlin-language-server
 kpeople5
+ksanecore5
 kvantum-theme-whitesur-git
 latex2rtf
 lemminx
@@ -196,6 +199,7 @@ libeuicc
 libgbinder
 libglibutil
 libinput-gestures
+libksane5
 libldap24
 libowfat
 libpng15

@@ -64,7 +64,6 @@ akonadi-calendar-tools
 akonadi-contacts
 akonadi-import-wizard
 akonadi-mime
-akonadi-notes
 akonadi-search
 akonadiconsole
 akregator
@@ -329,6 +328,7 @@ cairomm-docs
 calendarsupport
 calf
 calibre
+calligra
 cantarell-fonts
 cantor
 capnproto
@@ -2015,7 +2015,6 @@ kitty-shell-integration
 kitty-terminfo
 kjobwidgets
 kjobwidgets5
-kjots
 kjournald
 kjumpingcube
 kldap
@@ -2121,7 +2120,6 @@ krita-plugin-gmic
 kruler
 krunner
 ksanecore
-ksanecore5
 kservice
 kservice5
 ksh
@@ -2670,7 +2668,6 @@ libkmahjongg
 libkolabxml
 libkomparediff2
 libksane
-libksane5
 libksba
 libkscreen
 libkscreen5
@@ -2782,6 +2779,7 @@ libpcap
 libpciaccess
 libpeas
 libpeas-2
+libpfm
 libpgm
 libphobos
 libphonenumber
