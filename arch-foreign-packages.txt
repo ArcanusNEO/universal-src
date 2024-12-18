@@ -2,7 +2,6 @@
 adspower-global
 afdko
 aic94xx-firmware
-akonadi-notes
 alist
 aliyun-adrive-bin
 amduprof
@@ -68,7 +67,6 @@ dietlibc
 diffmerge
 dingtalk-bin
 dmg2img
-docker-scan
 dockerfile-language-server
 downgrade
 dxvk-mingw
@@ -175,13 +173,11 @@ jre8
 kddockwidgets-qt6
 kdocker
 kfilemetadata5
-kjots
 kjs
 kmscon
 komorebi
 kotlin-language-server
 kpeople5
-ksanecore5
 kvantum-theme-whitesur-git
 latex2rtf
 lemminx
@@ -189,7 +185,6 @@ lerc
 lib32-blas
 lib32-faudio
 lib32-lapack
-lib32-libva-vdpau-driver
 lib32-lzo
 lib32-ncurses5-compat-libs
 libaal
@@ -199,7 +194,6 @@ libeuicc
 libgbinder
 libglibutil
 libinput-gestures
-libksane5
 libldap24
 libowfat
 libpng15
@@ -396,7 +390,6 @@ remmina-plugin-url
 responder
 rest
 rig
-rmlint
 rog-control-center
 ruby-backport
 ruby-e2mmap

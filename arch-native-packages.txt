@@ -625,6 +625,7 @@ efitools
 efivar
 egl-gbm
 egl-wayland
+egl-x11
 eglexternalplatform
 eigen
 electron
@@ -1696,6 +1697,7 @@ hyperfine
 hyperv
 hyphen
 hyprcursor
+hyprgraphics
 hyprland
 hyprlang
 hyprpaper
@@ -4144,6 +4146,7 @@ python-isodate
 python-isoduration
 python-isort
 python-itsdangerous
+python-jaconv
 python-janus
 python-jaraco.classes
 python-jaraco.collections
@@ -4366,6 +4369,7 @@ python-pyicu
 python-pyinotify
 python-pyjsparser
 python-pyjwt
+python-pykakasi
 python-pylev
 python-pyliblo
 python-pylint

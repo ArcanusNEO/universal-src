@@ -68,7 +68,6 @@ akonadi-calendar-tools
 akonadi-contacts
 akonadi-import-wizard
 akonadi-mime
-akonadi-notes
 akonadi-search
 akonadiconsole
 akregator
@@ -617,7 +616,6 @@ dnssec-anchors
 docbook-xml
 docbook-xsl
 docbook2x
-docker-scan
 dockerfile-language-server
 dog
 dolphin
@@ -701,6 +699,7 @@ efitools
 efivar
 egl-gbm
 egl-wayland
+egl-x11
 eglexternalplatform
 eigen
 electron
@@ -1847,6 +1846,7 @@ hyperfine
 hyperv
 hyphen
 hyprcursor
+hyprgraphics
 hyprland
 hyprlang
 hyprpaper
@@ -2192,7 +2192,6 @@ kitty-shell-integration
 kitty-terminfo
 kjobwidgets
 kjobwidgets5
-kjots
 kjournald
 kjs
 kjumpingcube
@@ -2303,7 +2302,6 @@ krita-plugin-gmic
 kruler
 krunner
 ksanecore
-ksanecore5
 kservice
 kservice5
 ksh
@@ -2520,7 +2518,6 @@ lib32-libunwind
 lib32-libusb
 lib32-libva
 lib32-libva-intel-driver
-lib32-libva-vdpau-driver
 lib32-libvdpau
 lib32-libvorbis
 lib32-libvpx
@@ -2869,7 +2866,6 @@ libkmahjongg
 libkolabxml
 libkomparediff2
 libksane
-libksane5
 libksba
 libkscreen
 libkscreen5
@@ -4463,6 +4459,7 @@ python-isodate
 python-isoduration
 python-isort
 python-itsdangerous
+python-jaconv
 python-janus
 python-jaraco.classes
 python-jaraco.collections
@@ -4701,6 +4698,7 @@ python-pyicu
 python-pyinotify
 python-pyjsparser
 python-pyjwt
+python-pykakasi
 python-pylev
 python-pyliblo
 python-pylint
@@ -5284,7 +5282,6 @@ rime-terra-pinyin
 ripgrep
 ripgrep-all
 rlwrap
-rmlint
 rng-tools
 rnnoise
 robin-map
