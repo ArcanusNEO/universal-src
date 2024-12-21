@@ -160,6 +160,83 @@ show-playlist=false
 volume=1.0
 width=639
 
+[io/github/realmazharhussain/GdmSettings]
+donation-dialog-shown=true
+never-applied=false
+
+[io/github/realmazharhussain/GdmSettings/accessibility]
+always-show-accessibility-menu=true
+
+[io/github/realmazharhussain/GdmSettings/appearance]
+accent-color='blue'
+background-type='default'
+cursor-theme='WhiteSur-cursors'
+icon-theme='WhiteSur'
+shell-theme='WhiteSur-Light'
+
+[io/github/realmazharhussain/GdmSettings/fonts]
+antialiasing='grayscale'
+font='sans-serif 11'
+hinting='slight'
+scaling-factor=1.0
+
+[io/github/realmazharhussain/GdmSettings/misc]
+disable-restart-buttons=false
+disable-user-list=false
+enable-logo=false
+enable-welcome-message=false
+logo=''
+welcome-message=''
+
+[io/github/realmazharhussain/GdmSettings/mouse]
+natural-scrolling=true
+pointer-acceleration='flat'
+speed=0.0
+
+[io/github/realmazharhussain/GdmSettings/night-light]
+enabled=false
+end-hour=6
+end-minute=0
+schedule-automatic=false
+start-hour=20
+start-minute=0
+temperature=uint32 2700
+
+[io/github/realmazharhussain/GdmSettings/pointing]
+cursor-size=24
+
+[io/github/realmazharhussain/GdmSettings/power]
+auto-power-saver=true
+blank-screen=false
+dim-screen=false
+power-button-action='interactive'
+suspend-on-ac=false
+suspend-on-ac-delay=60.0
+suspend-on-battery=false
+suspend-on-battery-delay=30.0
+
+[io/github/realmazharhussain/GdmSettings/sound]
+event-sounds=true
+feedback-sounds=false
+over-amplification=false
+theme='freedesktop'
+
+[io/github/realmazharhussain/GdmSettings/top-bar]
+show-battery-percentage=false
+show-date=true
+show-seconds=true
+show-weekday=true
+time-format='24h'
+
+[io/github/realmazharhussain/GdmSettings/touchpad]
+disable-on-external-mouse=false
+disable-while-typing=true
+enable=true
+natural-scrolling=true
+speed=0.0
+tap-to-click=true
+two-finger-scrolling=true
+
 [io/github/realmazharhussain/GdmSettings/window-state]
 last-visited-page='tools'
 
@@ -315,7 +392,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
@@ -678,7 +755,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='universal-access'
+last-panel='background'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -743,6 +820,7 @@ sources=[('ibus', 'libpinyin')]
 xkb-options=['terminate:ctrl_alt_bksp', 'lv3:ralt_switch', 'compose:menu']
 
 [org/gnome/desktop/interface]
+accent-color='blue'
 clock-show-seconds=true
 clock-show-weekday=true
 color-scheme='default'
@@ -1367,11 +1445,11 @@ enable-spellchecking=true
 fullscreen=false
 inverted-colors=false
 show-sidebar=true
-sidebar-page='links'
+sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(2.75, 1.6219135802469136)
-zoom=0.84833333333333338
+window-ratio=(2.7495798319327731, 1.2826603325415677)
+zoom=0.49093364197530864
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -1635,6 +1713,9 @@ sort-order=0
 window-maximized=false
 window-position=(45, 29)
 window-size=(360, 391)
+
+[org/gnome/login-screen]
+logo=''
 
 [org/gnome/meld]
 enable-space-drawer=true
@@ -2522,7 +2603,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1734482761
+flatpak-purge-timestamp=int64 1734746088
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2660,7 +2741,7 @@ search-reverse-sort=false
 search-sort-column='date_modified'
 
 [org/nemo/window-state]
-geometry='1258x888+393+39'
+geometry='1258x888+45+29'
 maximized=true
 side-pane-view='places'
 sidebar-bookmark-breakpoint=7
