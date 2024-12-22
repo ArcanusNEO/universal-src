@@ -112,6 +112,7 @@ ant
 antiword
 aom
 apache
+apache-orc
 apparmor
 appmenu-gtk-module
 appstream
@@ -147,6 +148,7 @@ arm-none-eabi-gdb
 arm-none-eabi-newlib
 arp-scan
 arpack
+arrow
 artikulate
 artyfx
 asar
@@ -630,8 +632,6 @@ eglexternalplatform
 eigen
 electron
 electron27
-electron28
-electron29
 electron30
 electron31
 electron32
@@ -4332,6 +4332,7 @@ python-py
 python-py-cpuinfo
 python-py7zr
 python-pyaml
+python-pyarrow
 python-pyasn1
 python-pyasn1-modules
 python-pybcj
@@ -5470,6 +5471,7 @@ thin-provisioning-tools
 threadweaver
 threadweaver5
 threejs-sage
+thrift
 tidy
 tigervnc
 time

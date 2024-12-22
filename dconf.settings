@@ -16,8 +16,8 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/desktop/interface/monospace-font-name'
-saved-view='/org/gnome/desktop/interface/'
+saved-pathbar-path='/org/gnome/shell/keybindings/toggle-application-view'
+saved-view='/org/gnome/shell/keybindings/toggle-application-view'
 show-warning=false
 window-height=818
 window-is-maximized=false
@@ -393,7 +393,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
@@ -1736,6 +1736,7 @@ attach-modal-dialogs=false
 center-new-windows=false
 dynamic-workspaces=true
 experimental-features=@as []
+overlay-key=''
 
 [org/gnome/mutter/keybindings]
 switch-monitor=['XF86Display']
@@ -2581,9 +2582,9 @@ switch-to-application-6=@as []
 switch-to-application-7=@as []
 switch-to-application-8=@as []
 switch-to-application-9=@as []
-toggle-application-view=@as []
+toggle-application-view=['<Shift><Super>space']
 toggle-message-tray=@as []
-toggle-overview=@as []
+toggle-overview=['<Super>space']
 toggle-quick-settings=@as []
 
 [org/gnome/shell/world-clocks]
@@ -2593,7 +2594,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1734740157
+flatpak-purge-timestamp=int64 1734828532
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

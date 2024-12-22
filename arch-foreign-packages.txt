@@ -77,6 +77,8 @@ electron11-bin
 electron12-bin
 electron21-bin
 electron22-bin
+electron28
+electron29
 envycontrol
 erlang_ls
 evhz-git
@@ -293,6 +295,7 @@ python-cloudscraper
 python-compreffor
 python-convertdate
 python-cu2qu
+python-datasets
 python-dm-tree
 python-dodgy
 python-dukpy
@@ -320,6 +323,7 @@ python-lsp-isort
 python-lsp-ruff
 python-mitmproxy-wireguard
 python-mock
+python-multiprocess
 python-mutf8
 python-optax
 python-orbax-checkpoint
