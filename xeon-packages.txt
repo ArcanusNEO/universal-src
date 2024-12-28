@@ -1,4 +1,4 @@
-7-zip
+7zip
 a2jmidid
 a52dec
 aalib
@@ -75,7 +75,6 @@ alacritty
 alembic
 aliki
 alist
-aliyun-adrive-bin
 allegro
 alligator
 alltray
@@ -1826,6 +1825,7 @@ hyphen
 hyprcursor
 hyprgraphics
 hyprland
+hyprland-qtutils
 hyprlang
 hyprpaper
 hyprpicker
@@ -3169,6 +3169,7 @@ libxdp
 libxext
 libxfce4ui
 libxfce4util
+libxfce4windowing
 libxfixes
 libxfont2
 libxft
@@ -3751,7 +3752,6 @@ otf-takaoex
 otf-takaomj
 p11-kit
 p11-kit-docs
-p7zip
 p8-platform
 packagekit
 packagekit-qt6
@@ -4221,6 +4221,7 @@ python-cerberus
 python-certifi
 python-cffi
 python-cffsubr
+python-cgi
 python-chardet
 python-charset-normalizer
 python-cheroot
@@ -4318,6 +4319,7 @@ python-fastjsonschema
 python-faust-cchardet
 python-feedparser
 python-filelock
+python-filetype
 python-findpython
 python-fixtures
 python-flake8-isort
@@ -4461,6 +4463,7 @@ python-lazy-object-proxy
 python-ldap
 python-ldap3
 python-leather
+python-legacy-cgi
 python-lexicon
 python-libcst
 python-libevdev
@@ -4873,6 +4876,7 @@ python-ttfautohint-py
 python-twisted
 python-typed-ast
 python-typeguard
+python-types-python-dateutil
 python-typing_extensions
 python-typogrify
 python-tzdata
@@ -4994,7 +4998,6 @@ qemu-system-alpha-firmware
 qemu-system-arm
 qemu-system-arm-firmware
 qemu-system-avr
-qemu-system-cris
 qemu-system-hppa
 qemu-system-hppa-firmware
 qemu-system-loongarch64
@@ -6415,7 +6418,6 @@ xvidcore
 xwinwrap-git
 xxhash
 xz
-xz-static
 yabridge
 yabridgectl
 yad

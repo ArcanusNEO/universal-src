@@ -162,6 +162,7 @@ width=639
 
 [io/github/realmazharhussain/GdmSettings]
 donation-dialog-shown=true
+initial-warning=false
 never-applied=false
 
 [io/github/realmazharhussain/GdmSettings/accessibility]
@@ -238,7 +239,7 @@ tap-to-click=true
 two-finger-scrolling=true
 
 [io/github/realmazharhussain/GdmSettings/window-state]
-last-visited-page='tools'
+last-visited-page='appearance'
 
 [nemo/apps/glacier-calc/size]
 h=1080
@@ -813,7 +814,7 @@ automatic-timezone=false
 require-password='always'
 
 [org/gnome/desktop/input-sources]
-mru-sources=[('ibus', 'libpinyin')]
+mru-sources=[('ibus', 'libpinyin'), ('xkb', 'us')]
 per-window=false
 show-all-sources=true
 sources=[('ibus', 'libpinyin')]
@@ -1869,7 +1870,7 @@ window-size=[846, 551]
 last-folder-path='/home/lucas/Downloads'
 
 [org/gnome/portal/filechooser/google-chrome-stable]
-last-folder-path='/home/lucas/Documents'
+last-folder-path='/home/lucas/Pictures'
 
 [org/gnome/portal/filechooser/google-chrome]
 last-folder-path='/home/lucas/Downloads'
@@ -1884,7 +1885,7 @@ last-folder-path='/home/lucas/Games/Palworld.v0.2.3.0-0xdeadcode'
 last-folder-path='/home/lucas/src/universal-src'
 
 [org/gnome/portal/filechooser/start.sh]
-last-folder-path='/home/lucas/Downloads'
+last-folder-path='/home/lucas/Pictures'
 
 [org/gnome/power-manager]
 info-history-type='rate'
@@ -2604,7 +2605,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1734825750
+flatpak-purge-timestamp=int64 1735344330
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2743,9 +2744,9 @@ search-sort-column='date_modified'
 
 [org/nemo/window-state]
 geometry='1258x888+45+29'
-maximized=true
-side-pane-view='places'
-sidebar-bookmark-breakpoint=7
+maximized=false
+side-pane-view='tree'
+sidebar-bookmark-breakpoint=6
 sidebar-width=209
 start-with-sidebar=true
 
