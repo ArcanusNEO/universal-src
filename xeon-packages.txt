@@ -495,7 +495,6 @@ crun
 crunch
 crypto++
 cryptsetup
-csharp-ls
 csound
 csound-doc
 csound-plugins
@@ -1166,6 +1165,7 @@ gnome-weather
 gnu-free-fonts
 gnuchess
 gnugo
+gnulib-l10n
 gnupg
 gnuplot
 gnuplot-demos
@@ -3637,7 +3637,6 @@ odt2txt
 oh-my-zsh-git
 okteta
 okular
-omnisharp-roslyn
 onednn
 onetbb
 oniguruma
@@ -4321,6 +4320,7 @@ python-feedparser
 python-filelock
 python-filetype
 python-findpython
+python-fissix
 python-fixtures
 python-flake8-isort
 python-flask
@@ -4341,7 +4341,6 @@ python-frozenlist
 python-fs
 python-fsspec
 python-funcy
-python-future
 python-gast
 python-gbinder
 python-geoipsets
@@ -4882,7 +4881,6 @@ python-typogrify
 python-tzdata
 python-tzlocal
 python-uc-micro-py
-python-ufo2ft
 python-ufolib2
 python-ufonormalizer
 python-ufoprocessor
@@ -6483,7 +6481,6 @@ zlib-ng
 zls
 zoom
 zopfli
-zotero
 zoxide
 zram-generator
 zsh

@@ -1449,8 +1449,8 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(2.7495798319327731, 1.2826603325415677)
-zoom=0.49093364197530864
+window-ratio=(2.7484311449928636, 1.2828947368421053)
+zoom=0.49093364197530859
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -2605,7 +2605,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1735344330
+flatpak-purge-timestamp=int64 1735867702
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2744,7 +2744,7 @@ search-sort-column='date_modified'
 
 [org/nemo/window-state]
 geometry='1258x888+45+29'
-maximized=false
+maximized=true
 side-pane-view='tree'
 sidebar-bookmark-breakpoint=6
 sidebar-width=209
