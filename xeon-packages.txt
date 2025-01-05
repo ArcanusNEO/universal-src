@@ -2699,6 +2699,7 @@ libdispatch
 libdisplay-info
 libdmapsharing
 libdmtx
+libdnet
 libdom
 libdovi
 libdrm
@@ -3643,6 +3644,7 @@ oniguruma
 onlyoffice-bin
 open-iscsi
 open-isns
+open-vm-tools
 openal
 openal-examples
 openbabel
@@ -5165,7 +5167,7 @@ quickjs
 quilt
 qv2ray
 qxgedit
-qxlsx-qt6
+qxlsx
 qxmpp-qt6
 r
 r2ghidra
@@ -6124,6 +6126,7 @@ vm.lv2
 vmaf
 vmpk
 vmware-keymaps
+vmware-workstation
 vo-amrwbenc
 volume_key
 vorbis-tools
