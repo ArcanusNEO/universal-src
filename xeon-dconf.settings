@@ -1870,7 +1870,7 @@ window-size=[846, 551]
 last-folder-path='/home/lucas/Downloads'
 
 [org/gnome/portal/filechooser/google-chrome-stable]
-last-folder-path='/home/lucas/Pictures'
+last-folder-path='/home/lucas/Downloads'
 
 [org/gnome/portal/filechooser/google-chrome]
 last-folder-path='/home/lucas/Downloads'
@@ -2605,7 +2605,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1736037173
+flatpak-purge-timestamp=int64 1736296483
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

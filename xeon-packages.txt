@@ -231,6 +231,12 @@ aws-c-sdkutils
 aws-checksums
 aws-crt-cpp
 aws-sdk-cpp
+aws-sdk-cpp-core
+aws-sdk-cpp-ec2
+aws-sdk-cpp-firehose
+aws-sdk-cpp-iam
+aws-sdk-cpp-kinesis
+aws-sdk-cpp-s3
 axel
 ayatana-ido
 b3sum
@@ -3433,6 +3439,7 @@ metalog
 metals
 metasploit
 metis
+mg
 midi_matrix.lv2
 mimalloc
 mimeo
@@ -6039,6 +6046,7 @@ udisks2
 udisks2-docs
 ueberzug
 uefitool
+uemacs-git
 ugrep
 uhttpmock
 umbrello
