@@ -1,3 +1,4 @@
+7zip
 a2jmidid
 a52dec
 aalib
@@ -213,6 +214,12 @@ aws-c-sdkutils
 aws-checksums
 aws-crt-cpp
 aws-sdk-cpp
+aws-sdk-cpp-core
+aws-sdk-cpp-ec2
+aws-sdk-cpp-firehose
+aws-sdk-cpp-iam
+aws-sdk-cpp-kinesis
+aws-sdk-cpp-s3
 axel
 ayatana-ido
 b3sum
@@ -680,7 +687,6 @@ expac
 expat
 expect
 exploitdb
-ext4magic
 extra-cmake-modules
 eza
 f2fs-tools
@@ -1053,6 +1059,7 @@ gnome-weather
 gnu-free-fonts
 gnuchess
 gnugo
+gnulib-l10n
 gnupg
 gnuplot
 gnuplot-demos
@@ -1699,6 +1706,7 @@ hyphen
 hyprcursor
 hyprgraphics
 hyprland
+hyprland-qtutils
 hyprlang
 hyprpaper
 hyprpicker
@@ -2533,6 +2541,7 @@ libdispatch
 libdisplay-info
 libdmapsharing
 libdmtx
+libdnet
 libdom
 libdovi
 libdrm
@@ -2994,6 +3003,7 @@ libxdp
 libxext
 libxfce4ui
 libxfce4util
+libxfce4windowing
 libxfixes
 libxfont2
 libxft
@@ -3240,6 +3250,7 @@ meson-python
 messagelib
 metalog
 metasploit
+mg
 midi_matrix.lv2
 mimalloc
 mimetreeparser
@@ -3429,6 +3440,7 @@ onetbb
 oniguruma
 open-iscsi
 open-isns
+open-vm-tools
 openal
 openal-examples
 openbabel
@@ -3530,7 +3542,6 @@ otf-overpass
 otf-overpass-nerd
 p11-kit
 p11-kit-docs
-p7zip
 p8-platform
 packagekit
 packagekit-qt6
@@ -3974,6 +3985,7 @@ python-cattrs
 python-cerberus
 python-certifi
 python-cffi
+python-cgi
 python-chardet
 python-charset-normalizer
 python-cheroot
@@ -4060,7 +4072,9 @@ python-fastjsonschema
 python-faust-cchardet
 python-feedparser
 python-filelock
+python-filetype
 python-findpython
+python-fissix
 python-fixtures
 python-flake8-isort
 python-flask
@@ -4079,7 +4093,6 @@ python-freezegun
 python-frozenlist
 python-fs
 python-fsspec
-python-future
 python-gast
 python-geoipsets
 python-gevent
@@ -4188,6 +4201,7 @@ python-lazy-object-proxy
 python-ldap
 python-ldap3
 python-leather
+python-legacy-cgi
 python-lexicon
 python-libcst
 python-libevdev
@@ -4438,7 +4452,6 @@ python-pyzstd
 python-qasync
 python-qtpy
 python-railroad-diagrams
-python-random2
 python-rapidfuzz
 python-rarfile
 python-rdflib
@@ -4561,6 +4574,7 @@ python-trove-classifiers
 python-truststore
 python-twisted
 python-typeguard
+python-types-python-dateutil
 python-typing_extensions
 python-typogrify
 python-tzdata
@@ -4672,7 +4686,6 @@ qemu-system-alpha-firmware
 qemu-system-arm
 qemu-system-arm-firmware
 qemu-system-avr
-qemu-system-cris
 qemu-system-hppa
 qemu-system-hppa-firmware
 qemu-system-loongarch64
@@ -4827,7 +4840,7 @@ quazip-qt5
 quazip-qt6
 quilt
 qxgedit
-qxlsx-qt6
+qxlsx
 qxmpp-qt6
 r
 r2ghidra

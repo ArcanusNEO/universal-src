@@ -1,4 +1,4 @@
-7-zip
+7zip
 a2jmidid
 a52dec
 aalib
@@ -75,7 +75,6 @@ alacritty
 alembic
 aliki
 alist
-aliyun-adrive-bin
 allegro
 alligator
 alltray
@@ -238,6 +237,12 @@ aws-c-sdkutils
 aws-checksums
 aws-crt-cpp
 aws-sdk-cpp
+aws-sdk-cpp-core
+aws-sdk-cpp-ec2
+aws-sdk-cpp-firehose
+aws-sdk-cpp-iam
+aws-sdk-cpp-kinesis
+aws-sdk-cpp-s3
 axel
 ayatana-ido
 b3sum
@@ -505,7 +510,6 @@ crun
 crunch
 crypto++
 cryptsetup
-csharp-ls
 csound
 csound-doc
 csound-plugins
@@ -1181,6 +1185,7 @@ gnome-weather
 gnu-free-fonts
 gnuchess
 gnugo
+gnulib-l10n
 gnupg
 gnuplot
 gnuplot-demos
@@ -1850,6 +1855,7 @@ hyphen
 hyprcursor
 hyprgraphics
 hyprland
+hyprland-qtutils
 hyprlang
 hyprpaper
 hyprpicker
@@ -2726,6 +2732,7 @@ libdispatch
 libdisplay-info
 libdmapsharing
 libdmtx
+libdnet
 libdom
 libdovi
 libdrm
@@ -2742,7 +2749,6 @@ libei
 libelf
 libepoxy
 libepubgen
-liberica-jdk-11-full-bin
 libesmtp
 libetebase
 libetonyek
@@ -3199,6 +3205,7 @@ libxdp
 libxext
 libxfce4ui
 libxfce4util
+libxfce4windowing
 libxfixes
 libxfont2
 libxft
@@ -3462,6 +3469,7 @@ metalog
 metals
 metasploit
 metis
+mg
 midi_matrix.lv2
 mimalloc
 mimeo
@@ -3678,13 +3686,13 @@ odt2txt
 oh-my-zsh-git
 okteta
 okular
-omnisharp-roslyn
 onednn
 onetbb
 oniguruma
 onlyoffice-bin
 open-iscsi
 open-isns
+open-vm-tools
 openal
 openal-examples
 openbabel
@@ -3794,7 +3802,6 @@ otf-takaoex
 otf-takaomj
 p11-kit
 p11-kit-docs
-p7zip
 p8-platform
 packagekit
 packagekit-qt6
@@ -4266,6 +4273,7 @@ python-cerberus
 python-certifi
 python-cffi
 python-cffsubr
+python-cgi
 python-chardet
 python-charset-normalizer
 python-cheroot
@@ -4366,7 +4374,9 @@ python-fastjsonschema
 python-faust-cchardet
 python-feedparser
 python-filelock
+python-filetype
 python-findpython
+python-fissix
 python-fixtures
 python-flake8-isort
 python-flask
@@ -4387,7 +4397,6 @@ python-frozenlist
 python-fs
 python-fsspec
 python-funcy
-python-future
 python-gast
 python-gbinder
 python-geoipsets
@@ -4509,6 +4518,7 @@ python-lazy-object-proxy
 python-ldap
 python-ldap3
 python-leather
+python-legacy-cgi
 python-lexicon
 python-libcst
 python-libevdev
@@ -4922,12 +4932,12 @@ python-ttfautohint-py
 python-twisted
 python-typed-ast
 python-typeguard
+python-types-python-dateutil
 python-typing_extensions
 python-typogrify
 python-tzdata
 python-tzlocal
 python-uc-micro-py
-python-ufo2ft
 python-ufolib2
 python-ufonormalizer
 python-ufoprocessor
@@ -5043,7 +5053,6 @@ qemu-system-alpha-firmware
 qemu-system-arm
 qemu-system-arm-firmware
 qemu-system-avr
-qemu-system-cris
 qemu-system-hppa
 qemu-system-hppa-firmware
 qemu-system-loongarch64
@@ -5213,7 +5222,7 @@ quickjs
 quilt
 qv2ray
 qxgedit
-qxlsx-qt6
+qxlsx
 qxmpp-qt6
 r
 r2ghidra
@@ -6201,6 +6210,7 @@ vm.lv2
 vmaf
 vmpk
 vmware-keymaps
+vmware-workstation
 vo-amrwbenc
 volume_key
 vorbis-tools
@@ -6493,7 +6503,6 @@ xvidcore
 xwinwrap-git
 xxhash
 xz
-xz-static
 yabridge
 yabridgectl
 yad
@@ -6559,7 +6568,6 @@ zlib-ng
 zls
 zoom
 zopfli
-zotero
 zoxide
 zram-generator
 zsh
