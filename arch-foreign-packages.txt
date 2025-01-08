@@ -455,6 +455,7 @@ ttf-wps-fonts
 typora-electron
 ubuntu-themes
 uefitool
+uemacs-git
 unityhub
 upd72020x-fw
 uudeck

@@ -6123,6 +6123,7 @@ udisks2
 udisks2-docs
 ueberzug
 uefitool
+uemacs-git
 ugrep
 uhttpmock
 umbrello
