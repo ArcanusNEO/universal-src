@@ -24,6 +24,7 @@ alias mkddir='mkdir Comics Desktop Documents Downloads Games Library Music Pictu
 alias sudo='sudo '
 alias nvrun='nvrun '
 alias brun='brun '
+alias srun='run0 '
 alias cls='printf "\033[2J\033[3J\033[1;1H"'
 alias pc='proxychains '
 #alias update="sh -c 'apt update && apt upgrade -y'"
