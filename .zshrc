@@ -46,7 +46,7 @@ alias cls='printf "\033[2J\033[3J\033[1;1H"'
 alias pc='proxychains '
 alias load.aocc='module load aocc && module load aocl-aocc'
 alias unload.aocc='module unload aocc; module unload aocl-aocc'
-alias paru='run0 --user=system -- paru'
+alias yay='run0 --background="" --user=system -- /usr/bin/paru'
 #alias update="sh -c 'apt update && apt upgrade -y'"
 #alias update='yum update -y'
 #alias pon='export all_proxy=socks://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 https_proxy=http://127.0.0.1:7890'
