@@ -894,6 +894,8 @@ gambas3-gb-db-mysql
 gambas3-gb-db-odbc
 gambas3-gb-db-postgresql
 gambas3-gb-db-sqlite3
+gambas3-gb-db2
+gambas3-gb-db2-form
 gambas3-gb-dbus
 gambas3-gb-desktop
 gambas3-gb-desktop-gnome
