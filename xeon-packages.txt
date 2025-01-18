@@ -419,6 +419,7 @@ cinnamon-translations
 cjs
 cjson
 clang
+clang18
 clash-geoip
 clash-meta
 clash-meta-is-mihomo
@@ -474,6 +475,7 @@ colorgcc
 compface
 compiler-rt
 compiler-rt15
+compiler-rt18
 composefs
 composer
 confuse
@@ -707,6 +709,7 @@ electron30
 electron31
 electron32
 electron33
+electron34
 element
 elementary-icon-theme
 elfutils
@@ -754,7 +757,6 @@ expac
 expat
 expect
 exploitdb
-ext4magic
 extra-cmake-modules
 eza
 f2fs-tools
@@ -1833,6 +1835,7 @@ hyphen
 hyprcursor
 hyprgraphics
 hyprland
+hyprland-qt-support
 hyprland-qtutils
 hyprlang
 hyprpaper
@@ -3253,6 +3256,7 @@ litehtml
 live-media
 lksctp-tools
 lld
+lld18
 lldb
 lldb-mi
 llhttp
@@ -3263,6 +3267,7 @@ llvm14
 llvm14-libs
 llvm15
 llvm15-libs
+llvm18-libs
 lm_sensors
 lmdb
 lmms
@@ -3590,7 +3595,7 @@ nmap
 nnn
 node-gyp
 nodejs-decktape
-nodejs-lts-iron
+nodejs-lts-jod
 nodejs-nativefier
 nodejs-nopt
 nodejs-reveal.js
@@ -4745,7 +4750,6 @@ python-qasync
 python-qtpy
 python-qudida
 python-railroad-diagrams
-python-random2
 python-rapidfuzz
 python-rarfile
 python-rdflib
