@@ -385,6 +385,7 @@ cinnamon-translations
 cjs
 cjson
 clang
+clang18
 clazy
 clblast
 clevis
@@ -432,6 +433,7 @@ colorgcc
 comgr
 compface
 compiler-rt
+compiler-rt18
 composable-kernel
 composefs
 composer
@@ -449,6 +451,7 @@ cpio
 cppcheck
 cppdap
 cppunit
+cpu-x
 cpupower
 cracklib
 crash
@@ -643,6 +646,7 @@ electron30
 electron31
 electron32
 electron33
+electron34
 element
 elementary-icon-theme
 elfutils
@@ -807,6 +811,8 @@ gambas3-gb-db-mysql
 gambas3-gb-db-odbc
 gambas3-gb-db-postgresql
 gambas3-gb-db-sqlite3
+gambas3-gb-db2
+gambas3-gb-db2-form
 gambas3-gb-dbus
 gambas3-gb-desktop
 gambas3-gb-desktop-gnome
@@ -1706,6 +1712,7 @@ hyphen
 hyprcursor
 hyprgraphics
 hyprland
+hyprland-qt-support
 hyprland-qtutils
 hyprlang
 hyprpaper
@@ -3076,6 +3083,7 @@ litehtml
 live-media
 lksctp-tools
 lld
+lld18
 lldb
 lldb-mi
 llhttp
@@ -3086,6 +3094,7 @@ llvm14
 llvm14-libs
 llvm15
 llvm15-libs
+llvm18-libs
 lm_sensors
 lmdb
 lmms

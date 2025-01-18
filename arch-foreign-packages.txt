@@ -48,7 +48,6 @@ cmake-language-server
 code-features
 code-marketplace
 compiler-rt15
-cpu-x
 cpuid
 crunch
 cubeb
@@ -79,7 +78,6 @@ electron29
 envycontrol
 erlang_ls
 evhz-git
-ext4magic
 faudio
 feishu-bin
 firefox-vaapi
@@ -337,7 +335,6 @@ python-pyrsistent
 python-pytest-runner
 python-pywavelets
 python-qudida
-python-random2
 python-requirements-detector
 python-safetensors
 python-scikit-image
