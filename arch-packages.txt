@@ -177,6 +177,7 @@ aspell
 aspnet-runtime
 aspnet-runtime-6.0
 aspnet-runtime-7.0
+aspnet-runtime-8.0
 aspnet-targeting-pack
 aspnet-targeting-pack-6.0
 aspnet-targeting-pack-7.0
@@ -338,7 +339,7 @@ brial
 bridge-utils
 brltty
 brltty-udev-generic
-broadcom-wl
+broadcom-wl-dkms
 broot
 brother-cups-wrapper-common
 brother-lpr-drivers-common
@@ -638,6 +639,7 @@ dotnet-host
 dotnet-runtime
 dotnet-runtime-6.0
 dotnet-runtime-7.0
+dotnet-runtime-8.0
 dotnet-sdk
 dotnet-sdk-6.0
 dotnet-sdk-7.0
@@ -1447,6 +1449,7 @@ haskell-digest
 haskell-digits
 haskell-direct-sqlite
 haskell-distributive
+haskell-djot
 haskell-dlist
 haskell-doclayout
 haskell-doctemplates
@@ -1886,6 +1889,7 @@ icu69
 icu70
 id3lib
 ida-free
+idevicerestore-git
 iempluginsuite-standalone
 iempluginsuite-vst3
 ifplugd
@@ -2602,10 +2606,11 @@ lib32-readline
 lib32-renderdoc
 lib32-rust-libs
 lib32-sdl12-compat
-lib32-sdl2
+lib32-sdl2-compat
 lib32-sdl2_image
 lib32-sdl2_mixer
 lib32-sdl2_ttf
+lib32-sdl3
 lib32-sdl_image
 lib32-sdl_mixer
 lib32-sdl_ttf
@@ -2665,6 +2670,7 @@ libayatana-appindicator
 libayatana-indicator
 libb2
 libb64
+libblake3
 libblastrampoline
 libblockdev
 libblockdev-crypto
@@ -2840,8 +2846,8 @@ libiec61883
 libieee1284
 libilbc
 libimagequant
-libimobiledevice
-libimobiledevice-glue
+libimobiledevice-git
+libimobiledevice-glue-git
 libindicator-gtk2
 libindicator-gtk3
 libinih
@@ -2849,6 +2855,7 @@ libinput
 libinput-gestures
 libinstpatch
 libiptcdata
+libirecovery-git
 libiscsi
 libisl
 libisoburn
@@ -3001,7 +3008,7 @@ libpipeline
 libpipewire
 libplacebo
 libplasma
-libplist
+libplist-git
 libpng
 libpng12
 libpng15
@@ -3046,7 +3053,6 @@ libretro-blastem
 libretro-bsnes
 libretro-bsnes-hd
 libretro-bsnes2014
-libretro-citra
 libretro-core-info
 libretro-desmume
 libretro-dolphin
@@ -3125,6 +3131,7 @@ libsynctex
 libsysprof-capture
 libtar
 libtasn1
+libtatsu-git
 libteam
 libthai
 libtheora
@@ -3149,7 +3156,7 @@ liburcu
 liburing
 libusb
 libusb-compat
-libusbmuxd
+libusbmuxd-git
 libutempter
 libutf8proc
 libuv
@@ -3626,7 +3633,7 @@ nmap
 nnn
 node-gyp
 nodejs-decktape
-nodejs-lts-iron
+nodejs-lts-jod
 nodejs-nativefier
 nodejs-nopt
 nodejs-reveal.js
@@ -3822,6 +3829,7 @@ padthv1-lv2
 padthv1-standalone
 pahole
 palapeli
+palera1n
 palp
 pam
 pambase
@@ -4219,12 +4227,14 @@ python-ansible-compat
 python-anyio
 python-apipkg
 python-appdirs
+python-apple-compress
 python-apsw
 python-argcomplete
 python-argon2-cffi
 python-argon2-cffi-bindings
 python-arrow
 python-asgiref
+python-asn1
 python-astor
 python-astroid
 python-astropy
@@ -4537,6 +4547,7 @@ python-llfuse
 python-llvmlite
 python-locket
 python-lockfile
+python-loguru
 python-logutils
 python-lsp-black
 python-lsp-isort
@@ -4548,6 +4559,7 @@ python-lxc
 python-lxml
 python-lxml-html-clean
 python-lz4
+python-lzfse
 python-magic
 python-mako
 python-markdown
@@ -4717,6 +4729,7 @@ python-pygls
 python-pygments
 python-pygraphviz
 python-pyicu
+python-pyimg4
 python-pyinotify
 python-pyjsparser
 python-pyjwt
@@ -4732,6 +4745,7 @@ python-pylint-venv
 python-pylsp-mypy
 python-pylsp-rope
 python-pylsqpack
+python-pylzss
 python-pymdown-extensions
 python-pymongo
 python-pynacl
@@ -4805,11 +4819,13 @@ python-readability-lxml
 python-redis
 python-referencing
 python-regex
+python-remotezip
 python-rencode
 python-repoze.lru
 python-requests
 python-requests-credssp
 python-requests-kerberos
+python-requests-mock
 python-requests-ntlm
 python-requests-oauthlib
 python-requests-toolbelt
@@ -5441,6 +5457,8 @@ ruby-treetop
 ruby-typeprof
 ruby-tzinfo
 ruby-unicode-display_width
+ruby-unicode-emoji
+ruby-unicode-version
 ruby-webrick
 ruby-yard
 ruby-zeitwerk
@@ -5495,10 +5513,11 @@ sdbus-cpp
 sdcardformatter
 sdcv
 sdl12-compat
-sdl2
+sdl2-compat
 sdl2_image
 sdl2_mixer
 sdl2_ttf
+sdl3
 sdl_gfx
 sdl_image
 sdl_mixer
@@ -5529,7 +5548,6 @@ shaderc
 shadow
 shadowsocks-rust
 shadowsocks-v2ray-plugin
-shairplay
 shapelib
 shared-color-targets
 shared-mime-info
@@ -6273,7 +6291,7 @@ webkit2gtk
 webkit2gtk-4.1
 webkitgtk-6.0
 webp-pixbuf-loader
-webrtc-audio-processing
+webrtc-audio-processing-0.3
 webrtc-audio-processing-1
 websocat
 wechat-universal-bwrap

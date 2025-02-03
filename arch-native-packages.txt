@@ -158,6 +158,7 @@ aspell
 aspnet-runtime
 aspnet-runtime-6.0
 aspnet-runtime-7.0
+aspnet-runtime-8.0
 aspnet-targeting-pack
 aspnet-targeting-pack-6.0
 aspnet-targeting-pack-7.0
@@ -310,7 +311,7 @@ brial
 bridge-utils
 brltty
 brltty-udev-generic
-broadcom-wl
+broadcom-wl-dkms
 broot
 brotli
 brotli-testdata
@@ -572,6 +573,7 @@ dotnet-host
 dotnet-runtime
 dotnet-runtime-6.0
 dotnet-runtime-7.0
+dotnet-runtime-8.0
 dotnet-sdk
 dotnet-sdk-6.0
 dotnet-sdk-7.0
@@ -1312,6 +1314,7 @@ haskell-digest
 haskell-digits
 haskell-direct-sqlite
 haskell-distributive
+haskell-djot
 haskell-dlist
 haskell-doclayout
 haskell-doctemplates
@@ -2415,10 +2418,11 @@ lib32-readline
 lib32-renderdoc
 lib32-rust-libs
 lib32-sdl12-compat
-lib32-sdl2
+lib32-sdl2-compat
 lib32-sdl2_image
 lib32-sdl2_mixer
 lib32-sdl2_ttf
+lib32-sdl3
 lib32-sdl_image
 lib32-sdl_mixer
 lib32-sdl_ttf
@@ -2477,6 +2481,7 @@ libayatana-appindicator
 libayatana-indicator
 libb2
 libb64
+libblake3
 libblastrampoline
 libblockdev
 libblockdev-crypto
@@ -2648,8 +2653,6 @@ libiec61883
 libieee1284
 libilbc
 libimagequant
-libimobiledevice
-libimobiledevice-glue
 libindicator-gtk2
 libindicator-gtk3
 libinih
@@ -2806,7 +2809,6 @@ libpipeline
 libpipewire
 libplacebo
 libplasma
-libplist
 libpng
 libpng12
 libportal
@@ -2850,7 +2852,6 @@ libretro-blastem
 libretro-bsnes
 libretro-bsnes-hd
 libretro-bsnes2014
-libretro-citra
 libretro-core-info
 libretro-desmume
 libretro-dolphin
@@ -2951,7 +2952,6 @@ liburcu
 liburing
 libusb
 libusb-compat
-libusbmuxd
 libutempter
 libutf8proc
 libuv
@@ -3391,7 +3391,7 @@ nm-connection-editor
 nmap
 nnn
 node-gyp
-nodejs-lts-iron
+nodejs-lts-jod
 nodejs-nopt
 nodejs-source-map
 nodejs-yaml
@@ -4030,6 +4030,7 @@ python-cypari2
 python-cysignals
 python-daemonize
 python-dask
+python-datasets
 python-dateparser
 python-dateutil
 python-dbfread
@@ -4142,6 +4143,7 @@ python-httpcore
 python-httplib2
 python-httptools
 python-httpx
+python-huggingface-hub
 python-humanfriendly
 python-humanize
 python-hyperframe
@@ -4222,6 +4224,7 @@ python-llfuse
 python-llvmlite
 python-locket
 python-lockfile
+python-loguru
 python-logutils
 python-lsp-black
 python-lsp-jsonrpc
@@ -4258,6 +4261,7 @@ python-mpmath
 python-msgpack
 python-mulpyplexer
 python-multidict
+python-multiprocess
 python-multivolumefile
 python-munch
 python-mutagen
@@ -4473,6 +4477,7 @@ python-repoze.lru
 python-requests
 python-requests-credssp
 python-requests-kerberos
+python-requests-mock
 python-requests-ntlm
 python-requests-oauthlib
 python-requests-toolbelt
@@ -5049,6 +5054,8 @@ ruby-treetop
 ruby-typeprof
 ruby-tzinfo
 ruby-unicode-display_width
+ruby-unicode-emoji
+ruby-unicode-version
 ruby-webrick
 ruby-yard
 ruby-zeitwerk
@@ -5100,10 +5107,11 @@ sd
 sdbus-cpp
 sdcv
 sdl12-compat
-sdl2
+sdl2-compat
 sdl2_image
 sdl2_mixer
 sdl2_ttf
+sdl3
 sdl_gfx
 sdl_image
 sdl_mixer
@@ -5131,7 +5139,6 @@ shaderc
 shadow
 shadowsocks-rust
 shadowsocks-v2ray-plugin
-shairplay
 shapelib
 shared-color-targets
 shared-mime-info
@@ -5796,7 +5803,7 @@ webkit2gtk
 webkit2gtk-4.1
 webkitgtk-6.0
 webp-pixbuf-loader
-webrtc-audio-processing
+webrtc-audio-processing-0.3
 webrtc-audio-processing-1
 websocat
 weston
