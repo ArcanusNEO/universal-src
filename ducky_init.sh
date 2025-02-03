@@ -6,7 +6,7 @@ apt install -y coreutils moreutils man-db openssl apt-transport-https ca-certifi
 apt install --no-install-recommends -y wireguard-tools
 
 #iptables -t nat -A PREROUTING -i eth+ -p udp --dport "$2" -j DNAT --to-destination ":$1"
-ip6tables -t nat -A PREROUTING -i eth+ -p udp --dport "$2" -j DNAT --to-destination ":$1"
+ip6tables -t nat -A PREROUTING -i v6net+ -p udp --dport "$2" -j DNAT --to-destination ":$1"
 debconf-set-selections <<< 'iptables-persistent iptables-persistent/autosave_v4 boolean true'
 debconf-set-selections <<< 'iptables-persistent iptables-persistent/autosave_v6 boolean true'
 apt install -y iptables-persistent
