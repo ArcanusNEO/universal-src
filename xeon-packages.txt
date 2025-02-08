@@ -5910,6 +5910,7 @@ toilet
 tokodon
 tomlplusplus
 tor-browser-bin
+torchvision
 totem
 totem-pl-parser
 tpm2-abrmd
