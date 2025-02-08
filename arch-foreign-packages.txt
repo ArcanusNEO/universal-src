@@ -76,8 +76,8 @@ electron22-bin
 electron28
 electron29
 envycontrol
-erlang_ls
 evhz-git
+execstack
 faudio
 feishu-bin
 firefox-vaapi
@@ -276,8 +276,6 @@ pix2tex
 pix2tex-desktop
 pod2man
 properties-cpp
-proton
-proton-ge-custom
 protondb-tags
 protonhax
 protonlaunch
@@ -389,7 +387,6 @@ quad
 quickjs
 qv2ray
 rarian
-rebar3
 reiser4progs
 remmina-plugin-folder
 remmina-plugin-open
@@ -493,7 +490,7 @@ whatweb
 whitesur-cursor-theme-git
 whitesur-gtk-theme-git
 whitesur-icon-theme-git
-wine-ge-custom-opt
+wine-cachyos-opt
 winetricks-git
 wlrctl
 woff2-smiley-sans-bin

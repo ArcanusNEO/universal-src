@@ -757,8 +757,8 @@ size=(850, 695)
 state=87168
 
 [org/gnome/control-center]
-last-panel='keyboard'
-window-state=(1104, 853, false)
+last-panel='display'
+window-state=(1104, 720, false)
 
 [org/gnome/desktop/a11y]
 always-show-universal-access-status=true
@@ -1994,7 +1994,7 @@ name='GNOME Screenshot'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
 binding='<Super>Return'
-command="kitty --single-instance -- sh -c 'run0 --background=\"\" --setenv=DISPLAY=:1 -u$USER'"
+command='kitty --single-instance'
 name='Simple Terminal'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom10]
@@ -2137,7 +2137,7 @@ disabled-extensions=['better-osd@hllvc', 'launch-new-instance@gnome-shell-extens
 enabled-extensions=['panel-osd@berend.de.schouwer.gmail.com', 'system-monitor@paradoxxx.zero.gmail.com', 'captivate@rensoliemans.nl', 'switchtwolayouts@qtmax.dev', 'ubuntu-dock@ubuntu.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'system-monitor-next@paradoxxx.zero.gmail.com', 'maximize-to-workspace@rliang.github.com', 'MaximizeToEmptyWorkspace-extension@kaisersite.de', 'gnome-optiprime@kalteseele', 'RadeonPRIME@xvexisu-gmail.com', 'gnome-optirun@TCG', 'GNOME_Run_With_PRIME@floturcocantsee.daguerro.net', 'custom-menu-panel@AndreaBenini', 'unite@hardpixel.eu', 'cpupower@mko-sl.de', 'impatience@gfxmonk.net', 'GPU_profile_selector@lorenzo9904.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'GPaste@gnome-shell-extensions.gnome.org', 'notification-timeout@chlumskyvaclav.gmail.com', 'ProxySwitcher@flannaghan.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'handy_extensions_collection@transcliff.eu.org', 'appindicatorsupport@rgcjonas.gmail.com', 'ibus-switcher@kevinhwang91.github.com', 'system-monitor@gnome-shell-extensions.gcampax.github.com', 'light-style@gnome-shell-extensions.gcampax.github.com', 'handy-extensions-collection@transcliff.eu.org', 'compiz-alike-magic-lamp-effect@hermes83.github.com', 'AlphabeticalAppGrid@stuarthayhurst']
 favorite-apps=['']
 had-bluetooth-devices-setup=true
-last-selected-power-profile='power-saver'
+last-selected-power-profile='performance'
 looking-glass-history=['1+1']
 remember-mount-password=true
 welcome-dialog-last-shown-version='41.2'
@@ -2602,7 +2602,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1738569992
+flatpak-purge-timestamp=int64 1738977025
 install-timestamp=int64 1737735210
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1737740246
