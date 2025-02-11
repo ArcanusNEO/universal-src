@@ -2398,6 +2398,7 @@ ldb
 ldc
 ldns
 leafpad
+leancrypto
 lemminx
 lemon
 lensfun
