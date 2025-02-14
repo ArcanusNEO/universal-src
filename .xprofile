@@ -18,3 +18,4 @@ export CSMT=enabled
 export DXVK_ASYNC=1
 export DXVK_GPLASYNCCACHE=1
 export vblank_mode=0
+export __GL_SYNC_TO_VBLANK=0
