@@ -2241,6 +2241,7 @@ ldb
 ldc
 ldns
 leafpad
+leancrypto
 lemon
 lensfun
 leptonica
@@ -4599,7 +4600,6 @@ python-tabulate
 python-tempora
 python-tenacity
 python-tensorboard_plugin_wit
-python-tensorflow-estimator
 python-tensorflow-opt-cuda
 python-termcolor
 python-terminado
