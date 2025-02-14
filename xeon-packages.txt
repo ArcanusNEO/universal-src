@@ -4908,7 +4908,6 @@ python-tabulate
 python-tempora
 python-tenacity
 python-tensorboard_plugin_wit
-python-tensorflow-estimator
 python-tensorflow-opt
 python-tensorstore
 python-termcolor
