@@ -3453,6 +3453,7 @@ mailimporter
 mailspring
 make
 makedumpfile
+makepasswd
 malcontent
 mallard-ducktype
 man-db
@@ -3928,6 +3929,7 @@ perl-business-isbn
 perl-business-isbn-data
 perl-business-ismn
 perl-business-issn
+perl-bytes-random-secure
 perl-cairo-gobject
 perl-capture-tiny
 perl-carp-clan
@@ -3940,6 +3942,9 @@ perl-class-singleton
 perl-clone
 perl-common-sense
 perl-config-general
+perl-crypt-openssl-random
+perl-crypt-passwdmd5
+perl-crypt-random-seed
 perl-data-compare
 perl-data-dump
 perl-data-optlist
@@ -4023,6 +4028,7 @@ perl-log-log4perl
 perl-lwp-mediatypes
 perl-lwp-protocol-https
 perl-mailtools
+perl-math-random-isaac
 perl-math-round
 perl-memory-process
 perl-memory-usage
@@ -4227,6 +4233,7 @@ purescript-language-server
 purpose
 purpose5
 pvoc
+pwgen
 pwru
 pybind11
 pypy
