@@ -4,6 +4,7 @@
     <outline text="黑客社区">
       <outline text="Phoronix" type="rss" xmlUrl="https://rsshub.transcliff.top/phoronix" />
       <outline text="Arch Linux" type="rss" xmlUrl="https://www.archlinuxcn.org/feed" />
+      <outline text="The Lucumr Blog" type="rss" xmlUrl="https://lucumr.pocoo.org/feed.atom" />
       <outline text="酷壳 陈皓" type="rss" xmlUrl="https://coolshell.cn/feed" />
       <outline text="云风的BLOG" type="rss" xmlUrl="https://blog.codingnow.com/atom.xml" />
       <outline text="风雪之隅" type="rss" xmlUrl="https://www.laruence.com/feed" />
