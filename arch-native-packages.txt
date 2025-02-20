@@ -1258,6 +1258,7 @@ haskell-aeson-yaml
 haskell-algebraic-graphs
 haskell-ansi-terminal
 haskell-ansi-terminal-types
+haskell-ansi-terminal0.11
 haskell-ansi-wl-pprint
 haskell-appar
 haskell-apply-refact
@@ -1865,7 +1866,6 @@ jre8-openjdk
 jre8-openjdk-headless
 js115
 js128
-js91
 jsampler
 json-c
 json-glib
@@ -2052,7 +2052,6 @@ kio5
 kio5-extras
 kirigami
 kirigami-addons
-kirigami-addons5
 kirigami-gallery
 kirigami2
 kiriki
@@ -4030,6 +4029,7 @@ python-cairosvg
 python-capng
 python-capstone
 python-cattrs
+python-cbor2
 python-cerberus
 python-certifi
 python-cffi
@@ -4790,7 +4790,6 @@ qpdf
 qperf
 qpwgraph
 qqc2-desktop-style
-qqc2-desktop-style5
 qqwing
 qrencode
 qrupdate
@@ -4894,7 +4893,7 @@ quazip-qt6
 quilt
 qxgedit
 qxlsx
-qxmpp-qt6
+qxmpp
 r
 r2ghidra
 rabbitmq

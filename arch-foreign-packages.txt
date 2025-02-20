@@ -73,8 +73,6 @@ electron11-bin
 electron12-bin
 electron21-bin
 electron22-bin
-electron28
-electron29
 envycontrol
 evhz-git
 execstack
@@ -277,6 +275,7 @@ pix2tex
 pix2tex-desktop
 pod2man
 properties-cpp
+proton-cachyos
 protondb-tags
 protonhax
 protonlaunch
