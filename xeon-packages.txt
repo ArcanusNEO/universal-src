@@ -5017,7 +5017,6 @@ python-zopfli
 python-zstandard
 python2
 python311
-python312
 qastools
 qca-qt5
 qca-qt6
