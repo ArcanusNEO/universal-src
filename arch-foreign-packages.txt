@@ -164,7 +164,6 @@ jdk8
 jdtls
 jellyfin-media-player
 jellyfish
-jre-lts
 jre11
 jre8
 kddockwidgets-qt6

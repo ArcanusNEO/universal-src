@@ -719,7 +719,6 @@ electron12-bin
 electron21-bin
 electron22-bin
 electron27
-electron30
 electron31
 electron32
 electron33
@@ -2028,7 +2027,6 @@ john
 jose
 joyutils
 jq
-jre-lts
 jre11
 jre8
 jre8-openjdk
