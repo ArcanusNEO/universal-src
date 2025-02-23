@@ -560,6 +560,7 @@ debuginfod
 default-cursors
 dejagnu
 densify
+describeimage
 desktop-file-utils
 devhelp
 device-mapper
@@ -704,7 +705,6 @@ electron12-bin
 electron21-bin
 electron22-bin
 electron27
-electron30
 electron31
 electron32
 electron33
@@ -867,6 +867,7 @@ fortune-mod
 fortune-mod-archlinux
 fortune-mod-matrix
 fortune-mod-zh
+fortunecraft
 fossil
 four-in-a-row
 foxdot
@@ -2004,7 +2005,6 @@ john
 jose
 joyutils
 jq
-jre-lts
 jre11
 jre8
 jre8-openjdk
@@ -3296,6 +3296,7 @@ lld18
 lldb
 lldb-mi
 llhttp
+llm-manager
 llvm
 llvm-julia-libs
 llvm-libs
@@ -3689,6 +3690,8 @@ odt2txt
 oh-my-zsh-git
 okteta
 okular
+ollama
+ollama-docs
 onednn
 onetbb
 oniguruma
@@ -4363,6 +4366,7 @@ python-e3-testsuite
 python-editables
 python-editorconfig
 python-einops
+python-einx
 python-elastic-transport
 python-elasticsearch
 python-emoji
@@ -4399,6 +4403,7 @@ python-fonttools
 python-fpylll
 python-fqdn
 python-freezegun
+python-frozendict
 python-frozenlist
 python-fs
 python-fsspec
@@ -5012,6 +5017,7 @@ python-zopfli
 python-zstandard
 python2
 python311
+python312
 qastools
 qca-qt5
 qca-qt6
