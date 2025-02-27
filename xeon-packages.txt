@@ -200,7 +200,6 @@ augeas
 aurutils
 autoconf
 autoconf-archive
-autoconf2.13
 automake
 automoc4
 autopep8
@@ -850,7 +849,6 @@ flint
 flite
 fltk
 fluidsynth
-flutter-engine
 fmt
 fmt9
 folks
@@ -3139,6 +3137,7 @@ libtheora
 libtiff
 libtiff4
 libtirpc
+libtlsrpt
 libtommath
 libtool
 libtpms
@@ -4833,6 +4832,7 @@ python-rfc3986
 python-rfc3986-validator
 python-rfc3987
 python-rich
+python-roman-numerals-py
 python-rope
 python-routes
 python-rpds-py
@@ -4938,6 +4938,7 @@ python-tornado
 python-tqdm
 python-traitlets
 python-transformers
+python-treescope
 python-trio
 python-trio-websocket
 python-trove-classifiers
@@ -5345,6 +5346,7 @@ ruby-builder
 ruby-bundled-gems
 ruby-bundler
 ruby-concurrent
+ruby-connection_pool
 ruby-dbus
 ruby-debug
 ruby-default-gems
