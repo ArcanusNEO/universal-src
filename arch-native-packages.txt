@@ -90,7 +90,6 @@ ambix-lv2
 ambix-standalone
 ambix-vst
 amd-ucode
-amdvlk
 amf-headers
 ams
 amsynth
@@ -185,7 +184,6 @@ audit
 augeas
 autoconf
 autoconf-archive
-autoconf2.13
 automake
 autopep8
 autossh
@@ -370,6 +368,7 @@ cfitsio
 cfr
 cgdb
 chafa
+charls
 check
 check-docs
 cheese
@@ -502,6 +501,7 @@ dbus-docs
 dbus-glib
 dbus-units
 dcd
+dcmtk
 dconf
 dconf-editor
 ddcutil
@@ -513,6 +513,7 @@ debugedit
 debuginfod
 default-cursors
 dejagnu
+describeimage
 desktop-file-utils
 devhelp
 device-mapper
@@ -791,6 +792,7 @@ foomatic-db-engine
 foremost
 forge
 fortune-mod
+fortunecraft
 fossil
 four-in-a-row
 fpc
@@ -941,6 +943,7 @@ gd
 gdb
 gdb-common
 gdbm
+gdcm
 gdk-pixbuf2
 gdm
 geary
@@ -1679,6 +1682,8 @@ highlight
 highway
 hip-runtime-amd
 hipblas
+hipblas-common
+hipblaslt
 hipcub
 hipfft
 hipify-clang
@@ -1694,7 +1699,6 @@ hm
 hostapd
 hplip
 hsa-rocr
-hsakmt-roct
 hslua-cli
 hspell
 htop
@@ -1809,6 +1813,7 @@ ipython
 iso-codes
 isoimagewriter
 itinerary
+itk
 itstool
 iucode-tool
 iverilog
@@ -2254,7 +2259,6 @@ lib32-aalib
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
-lib32-amdvlk
 lib32-at-spi2-core
 lib32-attr
 lib32-brotli
@@ -2966,6 +2970,7 @@ libtheora
 libtiff
 libtiff4
 libtirpc
+libtlsrpt
 libtommath
 libtool
 libtpms
@@ -3118,6 +3123,7 @@ lld18
 lldb
 lldb-mi
 llhttp
+llm-manager
 llvm
 llvm-julia-libs
 llvm-libs
@@ -3475,6 +3481,10 @@ odin2-synthesizer-vst3
 odt2txt
 okteta
 okular
+ollama
+ollama-cuda
+ollama-docs
+ollama-rocm
 onednn
 onetbb
 oniguruma
@@ -4139,6 +4149,7 @@ python-fonttools
 python-fpylll
 python-fqdn
 python-freezegun
+python-frozendict
 python-frozenlist
 python-fs
 python-fsspec
@@ -4530,6 +4541,7 @@ python-rfc3986
 python-rfc3986-validator
 python-rfc3987
 python-rich
+python-roman-numerals-py
 python-rope
 python-routes
 python-rpds-py
@@ -4559,6 +4571,7 @@ python-sgmllib3k
 python-shapely
 python-shellingham
 python-shtab
+python-simpleitk
 python-simplejson
 python-six
 python-slugify
@@ -5019,6 +5032,7 @@ ruby-builder
 ruby-bundled-gems
 ruby-bundler
 ruby-concurrent
+ruby-connection_pool
 ruby-dbus
 ruby-debug
 ruby-default-gems
@@ -5113,7 +5127,6 @@ rygel
 s-nail
 s-tui
 s2n-tls
-sage-data-combinatorial_designs
 sage-data-elliptic_curves
 sage-data-graphs
 sage-data-polytopes_db
@@ -5189,6 +5202,7 @@ signon-plugin-oauth2
 signon-ui
 signond
 simple-scan
+simpleitk
 singular
 skanlite
 skanpage
@@ -5571,10 +5585,13 @@ tree
 tree-sitter
 tree-sitter-bash
 tree-sitter-c
+tree-sitter-javascript
 tree-sitter-lua
 tree-sitter-markdown
 tree-sitter-python
 tree-sitter-query
+tree-sitter-rust
+tree-sitter-vim
 tree-sitter-vimdoc
 ts-node
 tslib
@@ -5834,6 +5851,7 @@ wayland
 wayland-protocols
 wayland-utils
 waylandpp
+waypipe
 wcslib
 wdiff
 webkit2gtk

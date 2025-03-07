@@ -95,7 +95,6 @@ ambix-standalone
 ambix-vst
 amd-ucode
 amduprof
-amdvlk
 amf-headers
 ams
 amsynth
@@ -207,7 +206,6 @@ augeas
 aurutils
 autoconf
 autoconf-archive
-autoconf2.13
 automake
 automoc4
 autopep8
@@ -559,6 +557,7 @@ dbus-sharp
 dbus-sharp-glib
 dbus-units
 dcd
+dcmtk
 dconf
 dconf-editor
 ddcutil
@@ -573,6 +572,7 @@ debuginfod
 default-cursors
 dejagnu
 densify
+describeimage
 desktop-file-utils
 devhelp
 device-mapper
@@ -864,7 +864,6 @@ flint
 flite
 fltk
 fluidsynth
-flutter-engine
 fmt
 fmt9
 folks
@@ -881,6 +880,7 @@ fortune-mod
 fortune-mod-archlinux
 fortune-mod-matrix
 fortune-mod-zh
+fortunecraft
 fossil
 four-in-a-row
 foxdot
@@ -1819,6 +1819,8 @@ highlight
 highway
 hip-runtime-amd
 hipblas
+hipblas-common
+hipblaslt
 hipcub
 hipfft
 hipify-clang
@@ -1836,7 +1838,6 @@ hostapd
 hotspot
 hplip
 hsa-rocr
-hsakmt-roct
 hslua-cli
 hspell
 htop
@@ -1942,7 +1943,6 @@ iniparser
 inkscape
 innoextract
 inotify-tools
-insight-toolkit
 intel-compute-runtime
 intel-gmmlib
 intel-graphics-compiler
@@ -1967,6 +1967,7 @@ iso-codes
 isoimagewriter
 istyle-verilog-formatter-git
 itinerary
+itk
 itstool
 iucode-tool
 iverilog
@@ -2434,7 +2435,6 @@ lib32-aalib
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
-lib32-amdvlk
 lib32-at-spi2-core
 lib32-attr
 lib32-blas
@@ -3166,6 +3166,7 @@ libtheora
 libtiff
 libtiff4
 libtirpc
+libtlsrpt
 libtommath
 libtool
 libtpms
@@ -3310,7 +3311,7 @@ linux-wifi-hotspot
 linux-zen
 linux-zen-docs
 linux-zen-headers
-linuxqq-nt-bwrap
+linuxqq
 linuxsampler
 liquidsfz-lv2
 liquidsfz-standalone
@@ -3324,6 +3325,7 @@ lld18
 lldb
 lldb-mi
 llhttp
+llm-manager
 llvm
 llvm-julia-libs
 llvm-libs
@@ -3729,6 +3731,10 @@ odt2txt
 oh-my-zsh-git
 okteta
 okular
+ollama
+ollama-cuda
+ollama-docs
+ollama-rocm
 onednn
 onetbb
 oniguruma
@@ -4177,6 +4183,7 @@ poppler-glib
 poppler-qt5
 poppler-qt6
 popt
+portable
 portaudio
 portmidi
 portsmf
@@ -4409,6 +4416,7 @@ python-e3-testsuite
 python-editables
 python-editorconfig
 python-einops
+python-einx
 python-elastic-transport
 python-elasticsearch
 python-emoji
@@ -4446,6 +4454,7 @@ python-fonttools
 python-fpylll
 python-fqdn
 python-freezegun
+python-frozendict
 python-frozenlist
 python-fs
 python-fsspec
@@ -4876,6 +4885,7 @@ python-rfc3986
 python-rfc3986-validator
 python-rfc3987
 python-rich
+python-roman-numerals-py
 python-rope
 python-routes
 python-rpds-py
@@ -4981,6 +4991,7 @@ python-tornado
 python-tqdm
 python-traitlets
 python-transformers
+python-treescope
 python-trio
 python-trio-websocket
 python-trove-classifiers
@@ -5417,6 +5428,7 @@ ruby-builder
 ruby-bundled-gems
 ruby-bundler
 ruby-concurrent
+ruby-connection_pool
 ruby-dbus
 ruby-debug
 ruby-default-gems
@@ -6009,10 +6021,13 @@ tree
 tree-sitter
 tree-sitter-bash
 tree-sitter-c
+tree-sitter-javascript
 tree-sitter-lua
 tree-sitter-markdown
 tree-sitter-python
 tree-sitter-query
+tree-sitter-rust
+tree-sitter-vim
 tree-sitter-vimdoc
 treeline
 ts-node
@@ -6157,6 +6172,7 @@ ttf-space-mono-nerd
 ttf-terminus-nerd
 ttf-tibetan-machine
 ttf-tinos-nerd
+ttf-twemoji
 ttf-ubuntu-font-family
 ttf-ubuntu-mono-nerd
 ttf-ubuntu-nerd
@@ -6327,7 +6343,8 @@ webp-pixbuf-loader
 webrtc-audio-processing-0.3
 webrtc-audio-processing-1
 websocat
-wechat-universal-bwrap
+wechat
+wechat-bin
 weka
 wemeet-bin
 weston

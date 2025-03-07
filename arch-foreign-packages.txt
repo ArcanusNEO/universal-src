@@ -35,7 +35,6 @@ carbonyl-bin
 celt
 cf-tool
 charles
-charls
 checkra1n-cli
 chromedriver
 chromium-widevine
@@ -80,7 +79,6 @@ faudio
 feishu-bin
 firefox-vaapi
 flashplayer-standalone
-flutter-engine
 fmt9
 foobar2000
 foobar2000-encoders-bin
@@ -99,7 +97,6 @@ ganache-cli
 gatling
 gcc49
 gconf
-gdcm
 gdm-settings
 gdm-tools
 geekbench
@@ -153,7 +150,6 @@ ida-free
 idevicerestore-git
 imewlconverter
 imgcat
-insight-toolkit
 ir.lv2
 istyle-verilog-formatter-git
 jdk-doc
@@ -203,7 +199,7 @@ libusbmuxd-git
 libvisual
 libxcomp
 linux-wifi-hotspot
-linuxqq-nt-bwrap
+linuxqq
 lmod
 localsend-bin
 lockdev
@@ -273,6 +269,7 @@ phpactor
 pix2tex
 pix2tex-desktop
 pod2man
+portable
 properties-cpp
 proton-cachyos
 protondb-tags
@@ -302,6 +299,7 @@ python-dukpy
 python-e3-core
 python-e3-testsuite
 python-einops
+python-einx
 python-entmax
 python-etils
 python-flax
@@ -349,7 +347,6 @@ python-scikit-image
 python-screeninfo
 python-setoptconf
 python-setuptools-git-ls-files
-python-simpleitk
 python-simsimd
 python-skia-pathops
 python-stringzilla
@@ -359,6 +356,7 @@ python-tifffile-doc
 python-timm
 python-tokenizers
 python-transformers
+python-treescope
 python-ttfautohint-py
 python-typed-ast
 python-ufonormalizer
@@ -399,13 +397,13 @@ ruby-backport
 ruby-e2mmap
 ruffle-nightly-bin
 rustc-demangle
+sage-data-combinatorial_designs
 sdcardformatter
 secure-delete
 see-git
 seer-gdb
 shine
 showmethekey
-simpleitk
 sing-box
 sing-geoip-db
 sing-geoip-rule-set
@@ -455,6 +453,7 @@ ttf-ms-win10-auto-thai
 ttf-ms-win10-auto-zh_cn
 ttf-ms-win10-auto-zh_tw
 ttf-smiley-sans-bin
+ttf-twemoji
 ttf-wps-fonts
 typora-electron
 ubuntu-themes
@@ -480,9 +479,9 @@ vrrtest-git
 vulkan-memory-allocator
 waydroid
 waydroid-image-gapps
-waypipe
 wd719x-firmware
-wechat-universal-bwrap
+wechat
+wechat-bin
 weka
 wemeet-bin
 whatweb
