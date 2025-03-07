@@ -6,7 +6,7 @@ Type=Package
 Target=nvidia*-dkms
 
 [Action]
-Description=Update Nvidia module in initcpio
+Description=Updating Nvidia module in initcpio
 Depends=mkinitcpio
 When=PostTransaction
 Exec=/usr/bin/mkinitcpio -P
