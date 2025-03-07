@@ -161,6 +161,8 @@ volume=1.0
 width=639
 
 [io/github/realmazharhussain/GdmSettings]
+donation-dialog-shown=true
+initial-warning=false
 never-applied=false
 
 [io/github/realmazharhussain/GdmSettings/accessibility]
@@ -390,7 +392,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
@@ -753,7 +755,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='mouse'
+last-panel='display'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -2605,7 +2607,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1740616963
+flatpak-purge-timestamp=int64 1741315584
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988

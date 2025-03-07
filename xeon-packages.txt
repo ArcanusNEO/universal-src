@@ -545,6 +545,7 @@ dbus-sharp
 dbus-sharp-glib
 dbus-units
 dcd
+dcmtk
 dconf
 dconf-editor
 ddcutil
@@ -1917,7 +1918,6 @@ iniparser
 inkscape
 innoextract
 inotify-tools
-insight-toolkit
 intel-compute-runtime
 intel-gmmlib
 intel-graphics-compiler
@@ -1943,6 +1943,7 @@ iso-codes
 isoimagewriter
 istyle-verilog-formatter-git
 itinerary
+itk
 itstool
 iucode-tool
 iverilog
@@ -3281,7 +3282,7 @@ linux-wifi-hotspot
 linux-zen
 linux-zen-docs
 linux-zen-headers
-linuxqq-nt-bwrap
+linuxqq
 linuxsampler
 liquidsfz-lv2
 liquidsfz-standalone
@@ -4136,6 +4137,7 @@ poppler-glib
 poppler-qt5
 poppler-qt6
 popt
+portable
 portaudio
 portmidi
 portsmf
@@ -5939,10 +5941,13 @@ tree
 tree-sitter
 tree-sitter-bash
 tree-sitter-c
+tree-sitter-javascript
 tree-sitter-lua
 tree-sitter-markdown
 tree-sitter-python
 tree-sitter-query
+tree-sitter-rust
+tree-sitter-vim
 tree-sitter-vimdoc
 treeline
 ts-node
@@ -6087,6 +6092,7 @@ ttf-space-mono-nerd
 ttf-terminus-nerd
 ttf-tibetan-machine
 ttf-tinos-nerd
+ttf-twemoji
 ttf-ubuntu-font-family
 ttf-ubuntu-mono-nerd
 ttf-ubuntu-nerd
@@ -6257,7 +6263,8 @@ webp-pixbuf-loader
 webrtc-audio-processing-0.3
 webrtc-audio-processing-1
 websocat
-wechat-universal-bwrap
+wechat
+wechat-bin
 weka
 wemeet-bin
 weston
