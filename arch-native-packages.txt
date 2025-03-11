@@ -513,6 +513,7 @@ debugedit
 debuginfod
 default-cursors
 dejagnu
+deno
 describeimage
 desktop-file-utils
 devhelp
@@ -740,6 +741,7 @@ fastjar
 fatresize
 faust
 fcgi
+fcgiwrap
 fcrackzip
 fd
 fdupes
@@ -2261,6 +2263,7 @@ lib32-alsa-lib
 lib32-alsa-plugins
 lib32-at-spi2-core
 lib32-attr
+lib32-audit
 lib32-brotli
 lib32-bzip2
 lib32-cairo
@@ -4214,6 +4217,7 @@ python-intervaltree
 python-invoke
 python-ipykernel
 python-ipython-genutils
+python-ipython-pygments-lexers
 python-ipywidgets
 python-iso8601
 python-isodate
@@ -4231,6 +4235,7 @@ python-jedi
 python-jeepney
 python-jellyfish
 python-jinja
+python-jiter
 python-jmespath
 python-joblib
 python-jq
@@ -4335,6 +4340,7 @@ python-oauth2client
 python-oauthlib
 python-objgraph
 python-olefile
+python-openai
 python-openai-whisper
 python-openbabel
 python-opencv
@@ -5242,6 +5248,7 @@ soundtouch
 source-highlight
 sox
 spandsp
+spawn-fcgi
 spdlog
 spectacle
 spectmorph-clap
@@ -5585,6 +5592,7 @@ tree
 tree-sitter
 tree-sitter-bash
 tree-sitter-c
+tree-sitter-cli
 tree-sitter-javascript
 tree-sitter-lua
 tree-sitter-markdown

@@ -397,7 +397,6 @@ ruby-backport
 ruby-e2mmap
 ruffle-nightly-bin
 rustc-demangle
-sage-data-combinatorial_designs
 sdcardformatter
 secure-delete
 see-git
@@ -434,6 +433,7 @@ tencent-docs-bin
 terminus-font-ttf
 texmacs
 tor-browser-bin
+tree-sitter-typescript-git
 treeline
 ttf-apple-emoji
 ttf-arphic-extra
