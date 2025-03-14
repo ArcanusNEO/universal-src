@@ -172,7 +172,7 @@ always-show-accessibility-menu=true
 accent-color='blue'
 cursor-theme='WhiteSur-cursors'
 icon-theme='WhiteSur'
-shell-theme='WhiteSur-Light'
+shell-theme='WhiteSur-Dark'
 
 [io/github/realmazharhussain/GdmSettings/fonts]
 antialiasing='grayscale'
@@ -385,14 +385,14 @@ element-size=uint64 80
 launch-ui='<Super>y'
 make-password='<Super>z'
 max-displayed-history-size=uint64 20
-max-memory-usage=uint64 64
+max-memory-usage=uint64 512
 open-centered=true
 pop='<Shift><Super>z'
 save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
@@ -755,7 +755,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='display'
+last-panel='background'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1877,6 +1877,9 @@ last-folder-path='/home/lucas/Downloads'
 [org/gnome/portal/filechooser/google-chrome]
 last-folder-path='/home/lucas/Downloads'
 
+[org/gnome/portal/filechooser/lm-studio]
+last-folder-path='/home/lucas/Library/lmstudio'
+
 [org/gnome/portal/filechooser/org.gnome.Settings]
 last-folder-path='/home/lucas/Pictures'
 
@@ -2049,7 +2052,7 @@ name='GNOME Calculator'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom20]
 binding='<Shift><Super>w'
-command='/usr/lib/wechat-universal/start.sh'
+command='/opt/wechat/wechat'
 name='WeChat'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom21]
@@ -2226,7 +2229,7 @@ apply-custom-theme=false
 apply-glossy-effect=false
 autohide=true
 autohide-in-fullscreen=false
-background-color='rgb(192,191,188)'
+background-color='rgb(154,153,150)'
 background-opacity=0.25
 click-action='focus-minimize-or-appspread'
 custom-background-color=false
@@ -2607,7 +2610,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1741654828
+flatpak-purge-timestamp=int64 1741970366
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2668,7 +2671,7 @@ show-extensions-notice=false
 
 [org/gtk/gtk4/settings/color-chooser]
 custom-colors=[(1.0, 1.0, 1.0, 0.0), (0.0, 0.0, 0.0, 0.0), (0.0, 0.0, 0.0, 0.25)]
-selected-color=(true, 0.75294119119644165, 0.74901962280273438, 0.73725491762161255, 1.0)
+selected-color=(true, 0.60392159223556519, 0.60000002384185791, 0.58823531866073608, 1.0)
 
 [org/gtk/gtk4/settings/file-chooser]
 date-format='regular'

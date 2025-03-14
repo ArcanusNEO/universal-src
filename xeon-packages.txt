@@ -1922,6 +1922,7 @@ innoextract
 inotify-tools
 intel-compute-runtime
 intel-gmmlib
+intel-gpu-tools
 intel-graphics-compiler
 intel-media-driver
 intel-media-sdk
@@ -3022,6 +3023,7 @@ libportal-gtk4
 libportal-qt5
 libportal-qt6
 libppd
+libprocps
 libproxy
 libpsl
 libpst
@@ -3312,6 +3314,7 @@ lm_sensors
 lmdb
 lmms
 lmod
+lmstudio
 localsearch
 localsend-bin
 lockdev
@@ -3878,6 +3881,7 @@ pdftricks
 peazip
 peda
 peek
+peg
 perf
 perl
 perl-alien-build
