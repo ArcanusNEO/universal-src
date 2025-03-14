@@ -201,6 +201,7 @@ libxcomp
 linux-wifi-hotspot
 linuxqq
 lmod
+lmstudio
 localsend-bin
 lockdev
 lpac

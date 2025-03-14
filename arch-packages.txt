@@ -3341,6 +3341,7 @@ lm_sensors
 lmdb
 lmms
 lmod
+lmstudio
 localsearch
 localsend-bin
 lockdev

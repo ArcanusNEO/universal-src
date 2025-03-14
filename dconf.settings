@@ -172,7 +172,7 @@ accent-color='blue'
 background-type='default'
 cursor-theme='WhiteSur-cursors'
 icon-theme='WhiteSur'
-shell-theme='WhiteSur-Light'
+shell-theme='WhiteSur-Dark'
 
 [io/github/realmazharhussain/GdmSettings/fonts]
 antialiasing='grayscale'
@@ -240,7 +240,7 @@ tap-to-click=true
 two-finger-scrolling=true
 
 [io/github/realmazharhussain/GdmSettings/window-state]
-last-visited-page='sound'
+last-visited-page='appearance'
 
 [nemo/apps/glacier-calc/size]
 h=1080
@@ -757,7 +757,7 @@ size=(850, 695)
 state=87168
 
 [org/gnome/control-center]
-last-panel='display'
+last-panel='keyboard'
 window-state=(1104, 720, false)
 
 [org/gnome/desktop/a11y]
@@ -2042,7 +2042,7 @@ name='GNOME Calculator'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom20]
 binding='<Shift><Super>w'
-command='/usr/lib/wechat-universal/start.sh'
+command='/opt/wechat/wechat'
 name='WeChat'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom21]
@@ -2602,7 +2602,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1741654781
+flatpak-purge-timestamp=int64 1741916990
 install-timestamp=int64 1737735210
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1737740246
