@@ -2856,6 +2856,7 @@ libportal-gtk4
 libportal-qt5
 libportal-qt6
 libppd
+libprocps
 libproxy
 libpsl
 libpst
@@ -3655,6 +3656,7 @@ pdfgrep
 pdftricks
 peda
 peek
+peg
 perf
 perl
 perl-alien-build
