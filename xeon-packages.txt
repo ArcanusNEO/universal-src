@@ -2006,6 +2006,7 @@ jnoisemeter
 john
 jose
 joyutils
+jp2a
 jq
 jre11
 jre8
@@ -5038,6 +5039,7 @@ qcustomplot
 qcustomplot-qt6
 qd
 qdl-git
+qemacs-git
 qemu-audio-alsa
 qemu-audio-dbus
 qemu-audio-jack
@@ -5862,6 +5864,7 @@ tesseract-data-yor
 testdisk
 tevent
 tex-gyre-fonts
+texi2html
 texinfo
 texlab
 texlive-basic
