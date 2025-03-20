@@ -1182,13 +1182,14 @@ gnome-screenshot
 gnome-session
 gnome-session-properties
 gnome-settings-daemon
+gnome-shell
+gnome-shell-docs
 gnome-shell-extension-alphabetical-grid-extension-git
 gnome-shell-extension-appindicator-git
 gnome-shell-extension-compiz-alike-magic-lamp-effect-git
 gnome-shell-extension-dash-to-dock-git
 gnome-shell-extension-notification-timeout-git
 gnome-shell-extensions
-gnome-shell-performance
 gnome-software
 gnome-sound-recorder
 gnome-sudoku
@@ -1352,6 +1353,7 @@ gupnp-igd
 gv
 gvfs
 gvfs-afc
+gvfs-dnssd
 gvfs-goa
 gvfs-google
 gvfs-gphoto2
@@ -1359,6 +1361,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-onedrive
 gvfs-smb
+gvfs-wsdd
 gvim
 gwenview
 gzip
@@ -3572,7 +3575,8 @@ mupdf-tools
 muse
 musescore
 musl
-mutter-performance
+mutter
+mutter-docs
 mxml
 mxml-docs
 mypaint-brushes1
@@ -6337,6 +6341,7 @@ wqy-bitmapfont
 wqy-microhei
 wqy-microhei-lite
 wqy-zenhei
+wsdd
 wtype
 wvdial
 wvstreams
