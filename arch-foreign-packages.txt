@@ -115,8 +115,8 @@ gnome-shell-extension-alphabetical-grid-extension-git
 gnome-shell-extension-appindicator-git
 gnome-shell-extension-compiz-alike-magic-lamp-effect-git
 gnome-shell-extension-dash-to-dock-git
+gnome-shell-extension-ibus-switcher-git
 gnome-shell-extension-notification-timeout-git
-gnome-shell-performance
 gomatrix-git
 google-chrome
 googler
@@ -227,7 +227,6 @@ mkinitcpio-firmware
 mma
 modemmanager-qt5
 mprime
-mutter-performance
 nautilus-sendto
 ncurses5-compat-libs
 neo-matrix
@@ -245,7 +244,6 @@ ntfsprogs-ntfs3
 nvclock
 nvflash
 nvidia-prime-rtd3pm
-nvm
 nx-x11
 nxagent
 oh-my-zsh-git
@@ -284,6 +282,7 @@ python-albucore
 python-albumentations
 python-apple-compress
 python-asn1
+python-async-timeout
 python-async_generator
 python-biscuits
 python-bs4
@@ -369,6 +368,7 @@ python2
 python311
 qcustomplot-qt6
 qdl-git
+qemacs-git
 qimgv
 qqmusic-electron
 qt4

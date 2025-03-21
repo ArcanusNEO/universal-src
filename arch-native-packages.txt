@@ -1083,6 +1083,8 @@ gnome-robots
 gnome-screenshot
 gnome-session
 gnome-settings-daemon
+gnome-shell
+gnome-shell-docs
 gnome-shell-extensions
 gnome-software
 gnome-sound-recorder
@@ -1237,6 +1239,7 @@ gupnp-dlna
 gupnp-igd
 gvfs
 gvfs-afc
+gvfs-dnssd
 gvfs-goa
 gvfs-google
 gvfs-gphoto2
@@ -1244,6 +1247,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-onedrive
 gvfs-smb
+gvfs-wsdd
 gvim
 gwenview
 gzip
@@ -1867,6 +1871,7 @@ jnoisemeter
 john
 jose
 joyutils
+jp2a
 jq
 jre8-openjdk
 jre8-openjdk-headless
@@ -3372,6 +3377,8 @@ mupdf-tools
 muse
 musescore
 musl
+mutter
+mutter-docs
 mxml
 mxml-docs
 mypaint-brushes1
@@ -3462,6 +3469,7 @@ nvidia-open-dkms
 nvidia-prime
 nvidia-settings
 nvidia-utils
+nvm
 nvme-cli
 nvtop
 nyancat
@@ -3784,6 +3792,7 @@ perl-namespace-autoclean
 perl-namespace-clean
 perl-net-http
 perl-net-ssleay
+perl-nix
 perl-number-compare
 perl-package-deprecationmanager
 perl-package-stash
@@ -4003,7 +4012,6 @@ python-astropy-iers-data
 python-asttokens
 python-astunparse
 python-async-lru
-python-async-timeout
 python-atspi
 python-attrs
 python-audit
@@ -5507,6 +5515,7 @@ tesseract-data-yor
 testdisk
 tevent
 tex-gyre-fonts
+texi2html
 texinfo
 texlab
 texlive-basic
@@ -5912,6 +5921,7 @@ wqy-bitmapfont
 wqy-microhei
 wqy-microhei-lite
 wqy-zenhei
+wsdd
 wtype
 wvdial
 wvstreams

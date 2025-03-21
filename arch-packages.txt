@@ -1196,13 +1196,15 @@ gnome-screenshot
 gnome-session
 gnome-session-properties
 gnome-settings-daemon
+gnome-shell
+gnome-shell-docs
 gnome-shell-extension-alphabetical-grid-extension-git
 gnome-shell-extension-appindicator-git
 gnome-shell-extension-compiz-alike-magic-lamp-effect-git
 gnome-shell-extension-dash-to-dock-git
+gnome-shell-extension-ibus-switcher-git
 gnome-shell-extension-notification-timeout-git
 gnome-shell-extensions
-gnome-shell-performance
 gnome-software
 gnome-sound-recorder
 gnome-sudoku
@@ -1366,6 +1368,7 @@ gupnp-igd
 gv
 gvfs
 gvfs-afc
+gvfs-dnssd
 gvfs-goa
 gvfs-google
 gvfs-gphoto2
@@ -1373,6 +1376,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-onedrive
 gvfs-smb
+gvfs-wsdd
 gvim
 gwenview
 gzip
@@ -2029,6 +2033,7 @@ jnoisemeter
 john
 jose
 joyutils
+jp2a
 jq
 jre11
 jre8
@@ -3601,7 +3606,8 @@ mupdf-tools
 muse
 musescore
 musl
-mutter-performance
+mutter
+mutter-docs
 mxml
 mxml-docs
 mypaint-brushes1
@@ -4052,6 +4058,7 @@ perl-namespace-autoclean
 perl-namespace-clean
 perl-net-http
 perl-net-ssleay
+perl-nix
 perl-number-compare
 perl-package-deprecationmanager
 perl-package-stash
@@ -5088,6 +5095,7 @@ qcustomplot
 qcustomplot-qt6
 qd
 qdl-git
+qemacs-git
 qemu-audio-alsa
 qemu-audio-dbus
 qemu-audio-jack
@@ -5941,6 +5949,7 @@ tesseract-data-yor
 testdisk
 tevent
 tex-gyre-fonts
+texi2html
 texinfo
 texlab
 texlive-basic
@@ -6413,6 +6422,7 @@ wqy-bitmapfont
 wqy-microhei
 wqy-microhei-lite
 wqy-zenhei
+wsdd
 wtype
 wvdial
 wvstreams
