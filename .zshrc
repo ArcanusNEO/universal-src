@@ -1,6 +1,7 @@
 export ZSH=/usr/share/oh-my-zsh
 export ZSH_THEME=simple
 export DISABLE_AUTO_UPDATE=true
+export DISABLE_MAGIC_FUNCTIONS=true
 export ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
 if [[ ! -d $ZSH_CACHE_DIR ]]; then
   mkdir -p $ZSH_CACHE_DIR
