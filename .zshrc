@@ -65,7 +65,7 @@ alias wget.win="wget -U'$WINDOWS_UA'"
 alias aget="aria2c -x128 -U'$MACOS_UA'"
 alias aget.win="aria2c -x128 -U'$WINDOWS_UA'"
 alias baiduget="aria2c -x4 -s4 -j4 -U'$BAIDU_UA'"
-export EDITOR=vim
+export EDITOR=qe
 export VISUAL='emacsclient -tc -a "emacs -nw"'
 alias wineinit='winetricks -q vcrun6 vcrun6sp6 gdiplus riched20 riched30 richtx32 msctf msftedit autostart_winedbg=disabled'
 export WINEPREFIX="$HOME/wine/64/default"
