@@ -46,6 +46,7 @@ adobe-source-serif-fonts
 adriconf
 adspower-global
 adwaita-cursors
+adwaita-fonts
 adwaita-icon-theme
 adwaita-icon-theme-legacy
 aeolus
@@ -569,6 +570,7 @@ debootstrap
 debtap
 debugedit
 debuginfod
+decibels
 default-cursors
 dejagnu
 deno
@@ -873,7 +875,7 @@ fomp.lv2
 fontconfig
 fontforge
 foobar2000
-foobar2000-encoders-bin
+foobar2000-encoders
 foomatic-db-engine
 foremost
 forge
@@ -4845,6 +4847,7 @@ python-pystache
 python-pyte
 python-pytesseract
 python-pytest
+python-pytest-asyncio
 python-pytest-benchmark
 python-pytest-cov
 python-pytest-isort

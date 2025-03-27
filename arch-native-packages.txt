@@ -45,6 +45,7 @@ adobe-source-sans-fonts
 adobe-source-serif-fonts
 adriconf
 adwaita-cursors
+adwaita-fonts
 adwaita-icon-theme
 adwaita-icon-theme-legacy
 aeolus
@@ -511,6 +512,7 @@ debian-ports-archive-keyring
 debootstrap
 debugedit
 debuginfod
+decibels
 default-cursors
 dejagnu
 deno
@@ -4506,6 +4508,7 @@ python-pystache
 python-pyte
 python-pytesseract
 python-pytest
+python-pytest-asyncio
 python-pytest-benchmark
 python-pytest-cov
 python-pytest-isort

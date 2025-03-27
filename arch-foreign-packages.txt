@@ -81,7 +81,7 @@ firefox-vaapi
 flashplayer-standalone
 fmt9
 foobar2000
-foobar2000-encoders-bin
+foobar2000-encoders
 fortls
 fortune-mod-archlinux
 fortune-mod-matrix
