@@ -4796,6 +4796,7 @@ python-pystache
 python-pyte
 python-pytesseract
 python-pytest
+python-pytest-asyncio
 python-pytest-benchmark
 python-pytest-cov
 python-pytest-isort
