@@ -2772,6 +2772,7 @@ libei
 libelf
 libepoxy
 libepubgen
+liberica-jdk-11-full-bin
 libesmtp
 libetebase
 libetonyek
@@ -6286,7 +6287,6 @@ webp-pixbuf-loader
 webrtc-audio-processing-0.3
 webrtc-audio-processing-1
 websocat
-wechat
 wechat-bin
 weka
 wemeet-bin

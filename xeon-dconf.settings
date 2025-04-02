@@ -727,7 +727,7 @@ target-currency='DZD'
 target-units='radian'
 window-maximized=false
 window-position=(1198, 241)
-window-size=(680, 834)
+window-size=(700, 834)
 word-size=64
 
 [org/gnome/calendar]
@@ -1981,7 +1981,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.955804405546168, -116.419389)
+night-light-last-coordinates=(34.964758952727472, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2631,7 +2631,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1743035473
+flatpak-purge-timestamp=int64 1743561785
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
@@ -2772,7 +2772,7 @@ search-sort-column='date_modified'
 geometry='1258x888+45+29'
 maximized=true
 side-pane-view='places'
-sidebar-bookmark-breakpoint=6
+sidebar-bookmark-breakpoint=5
 sidebar-width=209
 start-with-sidebar=true
 
@@ -3016,7 +3016,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///home/lucas/Documents/router.yaml']
+session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
@@ -3029,7 +3029,7 @@ replace-all=true
 [org/xfce/mousepad/state/window]
 fullscreen=false
 height=uint32 796
-maximized=false
+maximized=true
 width=uint32 1113
 
 [system/locale]
