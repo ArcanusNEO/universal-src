@@ -5,18 +5,25 @@ CompileFlags:
 Diagnostics:
   ClangTidy:
     Add: "*"
+    FastCheckFilter: Strict
 
 ---
 If:
   PathMatch: [.*\.c$]
 CompileFlags:
   Add: -xc
+Diagnostics:
+  ClangTidy:
+    Remove: "*cpp*"
 
 ---
 If:
   PathMatch: [.*\.h$]
 CompileFlags:
   Add: -xc-header
+Diagnostics:
+  ClangTidy:
+    Remove: "*cpp*"
 
 ---
 If:
