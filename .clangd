@@ -1,10 +1,10 @@
 Index:
   StandardLibrary: Yes
 CompileFlags:
-  Add: [-Wall, -Wvla, -Wno-deprecated-non-prototype]
+  Add: [-Wall, -Wvla]
 Diagnostics:
   ClangTidy:
-    Add: *
+    Add: "*"
 
 ---
 If:
