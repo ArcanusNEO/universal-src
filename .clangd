@@ -4,7 +4,7 @@ CompileFlags:
   Add: [-Wall, -Wvla]
 Diagnostics:
   ClangTidy:
-    Add: "*"
+    Add: [bugprone*, cert*, concurrency*, cppcoreguidelines*, misc*, modernize*, performance*]
     FastCheckFilter: Strict
 
 ---
