@@ -1,11 +1,10 @@
 Index:
   StandardLibrary: Yes
 CompileFlags:
-  Add: [-Wall, -Wvla, -Wno-deprecated-non-prototype, -Wno-c2x-extensions]
+  Add: [-Wall, -Wvla, -Wno-deprecated-non-prototype]
 Diagnostics:
   ClangTidy:
-    Add: [bugprone*, modernize*, openmp*, performance*, portability*]
-    Remove: modernize-use-trailing-return-type
+    Add: *
 
 ---
 If:
