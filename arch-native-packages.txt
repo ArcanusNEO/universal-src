@@ -14,7 +14,6 @@ accerciser
 accessibility-inspector
 accounts-qml-module
 accountsservice
-ack
 acl
 acme-tiny
 acme-user
@@ -128,10 +127,7 @@ arch-wiki-lite
 archivetools
 archlinux-keyring
 ardour
-arduino-avr-core
-arduino-builder
 arduino-cli
-arduino-ctags
 arduino-fwuploader
 arduino-ide
 arduino-language-server
@@ -652,6 +648,7 @@ electron31
 electron32
 electron33
 electron34
+electron35
 element
 elementary-icon-theme
 elfutils
@@ -668,7 +665,6 @@ enca
 enchant
 endeavour
 enet
-enter-tex
 entr
 eog
 epiphany
@@ -1227,7 +1223,6 @@ gtkspell3
 gtkspellmm
 gtop
 gts
-gtuber
 gucharmap
 guile
 guile2.2
@@ -1699,7 +1694,6 @@ hiprand
 hipsolver
 hipsparse
 hiredis
-hitch
 hitori
 hivex
 hlint
@@ -3149,7 +3143,6 @@ lmms
 localsearch
 lockfile-progs
 log4cplus
-log4cpp
 log4cxx
 logrotate
 lokalize
@@ -3728,7 +3721,6 @@ perl-file-find-rule
 perl-file-homedir
 perl-file-listing
 perl-file-mimeinfo
-perl-file-next
 perl-file-sharedir
 perl-file-sharedir-install
 perl-file-slurp-tiny
@@ -3763,6 +3755,7 @@ perl-io-tty
 perl-ipc-run
 perl-ipc-run3
 perl-ipc-system-simple
+perl-json
 perl-json-xs
 perl-libintl-perl
 perl-libwww
@@ -3875,7 +3868,6 @@ pim-data-exporter
 pim-sieve-editor
 pimcommon
 pinentry
-pinta
 piper
 pipewire
 pipewire-alsa
@@ -4175,7 +4167,6 @@ python-ghp-import
 python-gitdb
 python-github3py
 python-gitpython
-python-glfw
 python-gmpy2
 python-gnupg
 python-gobject
@@ -4659,6 +4650,7 @@ python-truststore
 python-twisted
 python-typeguard
 python-types-python-dateutil
+python-typing-inspection
 python-typing_extensions
 python-typogrify
 python-tzdata
@@ -5336,7 +5328,6 @@ swh-plugins
 swig
 switcheroo-control
 swtpm
-sx
 symmetrica
 sympow
 syncplay
@@ -5952,7 +5943,6 @@ xcb-util-image
 xcb-util-keysyms
 xcb-util-renderutil
 xcb-util-wm
-xcftools
 xclip
 xdg-dbus-proxy
 xdg-desktop-portal
@@ -6077,7 +6067,6 @@ xorg-xwininfo
 xorg-xwud
 xorgproto
 xpdf
-xplc
 xpra
 xreader
 xscreensaver

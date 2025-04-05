@@ -1,3 +1,4 @@
+ack
 adspower-global
 afdko
 aic94xx-firmware
@@ -14,6 +15,9 @@ aocl-aocc
 aocl-gcc
 appimagetool-bin
 archlinux-java-run
+arduino-avr-core
+arduino-builder
+arduino-ctags
 aria2-fast
 aria2c-daemon
 asp
@@ -72,6 +76,7 @@ electron11-bin
 electron12-bin
 electron21-bin
 electron22-bin
+enter-tex
 envycontrol
 evhz-git
 execstack
@@ -125,6 +130,7 @@ gpu-viewer
 gputest
 gtk-theme-numix-solarized
 gtkglext
+gtuber
 guile1.8
 gv
 hashdeep
@@ -135,6 +141,7 @@ helm-synth-standalone
 helm-synth-vst
 hfsprogs
 hfsutils
+hitch
 hmcl
 hotspot
 httpdirfs
@@ -181,6 +188,7 @@ lib32-lzo
 lib32-ncurses5-compat-libs
 libaal
 libcroco
+liberica-jdk-11-full-bin
 libeuicc
 libgbinder
 libglibutil
@@ -204,6 +212,7 @@ lmod
 lmstudio
 localsend-bin
 lockdev
+log4cpp
 lpac
 lyx
 lzfse
@@ -264,7 +273,9 @@ paru
 patool
 payload-dumper-go
 peazip
+perl-file-next
 phpactor
+pinta
 pix2tex
 pix2tex-desktop
 pod2man
@@ -305,6 +316,7 @@ python-etils
 python-flax
 python-funcy
 python-gbinder
+python-glfw
 python-hijri-converter
 python-htmlmin2
 python-imagecodecs
@@ -424,8 +436,10 @@ stardict-web1913
 stardict-wikt-en-all
 stardict-wordnet
 steamcmd
+sublime-text-4
 sunloginclient
 sunloginremote
+sx
 systemd-boot-pacman-hook
 tap-plugins
 tcping-go
@@ -436,6 +450,7 @@ texmacs
 tor-browser-bin
 tree-sitter-typescript-git
 treeline
+tsukimi-bin
 ttf-apple-emoji
 ttf-arphic-extra
 ttf-dingtalk-sans
@@ -503,10 +518,12 @@ x86info
 xavs2
 xbanish
 xbyak
+xcftools
 xcowsay
 xcp
 xivlauncher-cn-git
 xorgxrdp
+xplc
 xray
 xray-domain-list-community
 xray-geoip
