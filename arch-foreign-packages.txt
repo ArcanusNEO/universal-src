@@ -496,7 +496,6 @@ vulkan-memory-allocator
 waydroid
 waydroid-image-gapps
 wd719x-firmware
-wechat
 wechat-bin
 weka
 wemeet-bin
