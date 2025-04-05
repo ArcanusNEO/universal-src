@@ -4020,6 +4020,7 @@ perl-namespace-autoclean
 perl-namespace-clean
 perl-net-http
 perl-net-ssleay
+perl-nix
 perl-number-compare
 perl-package-deprecationmanager
 perl-package-stash
@@ -5980,6 +5981,7 @@ tree-sitter-vimdoc
 treeline
 ts-node
 tslib
+tsukimi-bin
 ttc-iosevka
 ttc-iosevka-aile
 ttc-iosevka-curly
