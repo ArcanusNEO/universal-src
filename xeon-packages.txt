@@ -712,6 +712,7 @@ electron31
 electron32
 electron33
 electron34
+electron35
 element
 elementary-icon-theme
 elfutils
@@ -3987,6 +3988,7 @@ perl-io-tty
 perl-ipc-run
 perl-ipc-run3
 perl-ipc-system-simple
+perl-json
 perl-json-xs
 perl-libintl-perl
 perl-libwww
@@ -4970,6 +4972,7 @@ python-twisted
 python-typed-ast
 python-typeguard
 python-types-python-dateutil
+python-typing-inspection
 python-typing_extensions
 python-typogrify
 python-tzdata
