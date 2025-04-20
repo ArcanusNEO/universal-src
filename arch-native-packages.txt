@@ -665,6 +665,7 @@ enca
 enchant
 endeavour
 enet
+enter-tex
 entr
 eog
 epiphany
@@ -1066,6 +1067,7 @@ gnome-logs
 gnome-mahjongg
 gnome-maps
 gnome-menus
+gnome-mimeapps
 gnome-mines
 gnome-multi-writer
 gnome-music
@@ -1263,7 +1265,6 @@ haskell-aeson-yaml
 haskell-algebraic-graphs
 haskell-ansi-terminal
 haskell-ansi-terminal-types
-haskell-ansi-terminal0.11
 haskell-ansi-wl-pprint
 haskell-appar
 haskell-apply-refact
@@ -1332,7 +1333,6 @@ haskell-crypton-x509-system
 haskell-crypton-x509-validation
 haskell-cryptonite
 haskell-czipwith
-haskell-data-array-byte
 haskell-data-binary-ieee754
 haskell-data-default
 haskell-data-default-class
@@ -1617,6 +1617,7 @@ haskell-text-rope
 haskell-text-short
 haskell-th-abstraction
 haskell-th-compat
+haskell-th-env
 haskell-th-lift
 haskell-th-lift-instances
 haskell-these
@@ -2232,6 +2233,7 @@ kxmlgui5
 kyotocabinet
 l-smash
 laborejo
+lact
 ladspa
 lame
 languagetool
@@ -3382,6 +3384,7 @@ nano
 nanobind
 nasm
 nautilus
+nautilus-python
 nauty
 navi
 nawk
@@ -4205,6 +4208,7 @@ python-humanize
 python-hyperframe
 python-hyperlink
 python-hypothesis
+python-id
 python-idna
 python-ifaddr
 python-imagesize
@@ -4257,7 +4261,6 @@ python-jupyterlab-server
 python-jwcrypto
 python-kaitaistruct
 python-keras
-python-keras-applications
 python-keyring
 python-keystoneauth1
 python-kivy
@@ -4948,7 +4951,6 @@ rebar3
 recastnavigation
 recode
 recordmydesktop
-redis
 redland
 refind
 refind-docs
@@ -5791,6 +5793,7 @@ v4l2loopback-dkms
 v4l2loopback-utils
 vala
 valgrind
+valkey
 vamp-aubio-plugins
 vamp-plugin-sdk
 vapoursynth

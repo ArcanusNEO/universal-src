@@ -76,7 +76,6 @@ electron11-bin
 electron12-bin
 electron21-bin
 electron22-bin
-enter-tex
 envycontrol
 evhz-git
 execstack
@@ -134,6 +133,8 @@ gtuber
 guile1.8
 gv
 hashdeep
+haskell-ansi-terminal0.11
+haskell-data-array-byte
 hello
 helm-synth-common
 helm-synth-lv2
@@ -159,7 +160,6 @@ imewlconverter
 imgcat
 ir.lv2
 istyle-verilog-formatter-git
-jdk-doc
 jdk-lts
 jdk-lts-doc
 jdk11
@@ -188,7 +188,6 @@ lib32-lzo
 lib32-ncurses5-compat-libs
 libaal
 libcroco
-liberica-jdk-11-full-bin
 libeuicc
 libgbinder
 libglibutil
@@ -236,6 +235,7 @@ mkinitcpio-firmware
 mma
 modemmanager-qt5
 mprime
+nautilus-open-any-terminal
 nautilus-sendto
 ncurses5-compat-libs
 neo-matrix
@@ -278,7 +278,6 @@ phpactor
 pinta
 pix2tex
 pix2tex-desktop
-pod2man
 portable
 properties-cpp
 proton-cachyos
