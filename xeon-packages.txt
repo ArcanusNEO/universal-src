@@ -1169,6 +1169,7 @@ gnome-maps
 gnome-menus
 gnome-meta
 gnome-mime-data
+gnome-mimeapps
 gnome-mines
 gnome-multi-writer
 gnome-music
@@ -1739,6 +1740,7 @@ haskell-text-rope
 haskell-text-short
 haskell-th-abstraction
 haskell-th-compat
+haskell-th-env
 haskell-th-lift
 haskell-th-lift-instances
 haskell-these
@@ -1988,7 +1990,6 @@ java-runtime-common
 jbig2dec
 jbigkit
 jconvolver
-jdk-doc
 jdk-lts
 jdk-lts-doc
 jdk-openjdk
@@ -2389,6 +2390,7 @@ kxmlgui5
 kyotocabinet
 l-smash
 laborejo
+lact
 ladspa
 lame
 languagetool
@@ -2773,7 +2775,6 @@ libei
 libelf
 libepoxy
 libepubgen
-liberica-jdk-11-full-bin
 libesmtp
 libetebase
 libetonyek
@@ -3590,6 +3591,8 @@ nano
 nanobind
 nasm
 nautilus
+nautilus-open-any-terminal
+nautilus-python
 nautilus-sendto
 nauty
 navi
@@ -4138,7 +4141,6 @@ pngquant
 pnpm
 po4a
 poco
-pod2man
 podman
 podman-compose
 podman-docker
@@ -4477,6 +4479,7 @@ python-humanize
 python-hyperframe
 python-hyperlink
 python-hypothesis
+python-id
 python-idna
 python-ifaddr
 python-imagecodecs
@@ -4537,7 +4540,6 @@ python-jupyterlab-server
 python-jwcrypto
 python-kaitaistruct
 python-keras
-python-keras-applications
 python-keyring
 python-keystoneauth1
 python-kivy
@@ -5296,7 +5298,6 @@ rebar3
 recastnavigation
 recode
 recordmydesktop
-redis
 redland
 refind
 refind-docs
@@ -6194,6 +6195,7 @@ v4l2loopback-utils
 vala
 vala-language-server
 valgrind
+valkey
 vamp-aubio-plugins
 vamp-plugin-sdk
 vapoursynth
