@@ -421,8 +421,6 @@ cjson
 clang
 clang18
 clash-geoip
-clash-meta
-clash-meta-is-mihomo
 clazy
 clblast
 clevis
@@ -843,7 +841,6 @@ firefox-vaapi
 fish
 five-or-more
 flac
-flake8
 flameshot
 flashplayer-standalone
 flashrom
@@ -2900,6 +2897,7 @@ libkleo
 libkmahjongg
 libkolabxml
 libkomparediff2
+libkqueue
 libksane
 libksba
 libkscreen
@@ -3502,6 +3500,7 @@ metasploit
 metis
 mg
 midi_matrix.lv2
+mihomo
 mimalloc
 mimeo
 mimetic
@@ -4410,6 +4409,7 @@ python-filetype
 python-findpython
 python-fissix
 python-fixtures
+python-flake8
 python-flake8-isort
 python-flask
 python-flask-restful
@@ -4698,6 +4698,7 @@ python-primecountpy
 python-progressbar
 python-prometheus_client
 python-prompt_toolkit
+python-propcache
 python-prospector
 python-protobuf
 python-proxmoxer
@@ -5151,6 +5152,7 @@ qpwgraph
 qqc2-desktop-style
 qqmusic-electron
 qqwing
+qrca
 qrencode
 qrupdate
 qsampler

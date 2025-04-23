@@ -16,8 +16,8 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/com/github/stunkymonkey/nautilus-open-any-terminal/keybindings'
-saved-view='/com/github/stunkymonkey/nautilus-open-any-terminal/keybindings'
+saved-pathbar-path='/org/gnome/desktop/peripherals/touchpad/'
+saved-view='/org/gnome/desktop/peripherals/touchpad/'
 show-warning=false
 window-height=819
 window-is-maximized=false
@@ -775,7 +775,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='sound'
+last-panel='privacy'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1325,6 +1325,10 @@ tls-cert='/home/lucas/.local/share/gnome-remote-desktop/rdp-tls.crt'
 tls-key='/home/lucas/.local/share/gnome-remote-desktop/rdp-tls.key'
 view-only=false
 
+[org/gnome/desktop/screen-time-limits]
+daily-limit-enabled=false
+history-enabled=false
+
 [org/gnome/desktop/screensaver]
 color-shading-type='solid'
 picture-options='zoom'
@@ -1476,10 +1480,10 @@ enable-spellchecking=true
 fullscreen=false
 inverted-colors=false
 show-sidebar=true
-sidebar-page='links'
-sidebar-size=278
+sidebar-page='thumbnails'
+sidebar-size=144
 sizing-mode='free'
-window-ratio=(2.7462962962962965, 1.25)
+window-ratio=(2.7466066388926214, 1.24956942118329)
 zoom=1.0179999999999998
 
 [org/gnome/evolution-data-server]
@@ -2004,7 +2008,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.967594389677622, -116.419389)
+night-light-last-coordinates=(34.960973142594973, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2655,7 +2659,7 @@ check-timestamp=int64 1744000533
 download-updates=false
 download-updates-notify=true
 first-run=false
-flatpak-purge-timestamp=int64 1745110362
+flatpak-purge-timestamp=int64 1745367446
 install-timestamp=int64 1697444851
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1697444988
