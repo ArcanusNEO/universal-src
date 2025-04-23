@@ -773,7 +773,6 @@ firefox-i18n-zh-cn
 fish
 five-or-more
 flac
-flake8
 flameshot
 flashrom
 flatpak
@@ -2911,7 +2910,6 @@ libretro-mupen64plus-next
 libretro-nestopia
 libretro-overlays
 libretro-parallel-n64
-libretro-pcsx2
 libretro-picodrive
 libretro-play
 libretro-ppsspp
@@ -4145,6 +4143,7 @@ python-filetype
 python-findpython
 python-fissix
 python-fixtures
+python-flake8
 python-flake8-isort
 python-flask
 python-flask-restful
@@ -4408,6 +4407,7 @@ python-primecountpy
 python-progressbar
 python-prometheus_client
 python-prompt_toolkit
+python-propcache
 python-protobuf
 python-proxmoxer
 python-psutil
@@ -4817,6 +4817,7 @@ qperf
 qpwgraph
 qqc2-desktop-style
 qqwing
+qrca
 qrencode
 qrupdate
 qsampler

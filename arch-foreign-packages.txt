@@ -43,8 +43,6 @@ checkra1n-cli
 chromedriver
 chromium-widevine
 clash-geoip
-clash-meta
-clash-meta-is-mihomo
 cloog
 cmake-format
 cmake-language-server
@@ -195,10 +193,12 @@ libimobiledevice-git
 libimobiledevice-glue-git
 libinput-gestures
 libirecovery-git
+libkqueue
 libldap24
 libowfat
 libplist-git
 libpng15
+libretro-pcsx2
 libstroke
 libtatsu-git
 libtsm
@@ -225,6 +225,7 @@ meta-rules-dat
 metacubexd
 metals
 metis
+mihomo
 mimeo
 mimetic
 mingw-w64-tools
