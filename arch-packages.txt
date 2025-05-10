@@ -720,7 +720,6 @@ electron12-bin
 electron21-bin
 electron22-bin
 electron27
-electron31
 electron32-bin
 electron33
 electron34
@@ -5004,7 +5003,6 @@ python-text-unidecode
 python-texttable
 python-threadpoolctl
 python-tifffile
-python-tifffile-doc
 python-tiktoken
 python-timm
 python-tinycss2

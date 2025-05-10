@@ -361,7 +361,6 @@ python-simsimd
 python-skia-pathops
 python-stringzilla
 python-tensorstore
-python-tifffile-doc
 python-timm
 python-tokenizers
 python-transformers

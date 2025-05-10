@@ -644,7 +644,6 @@ eglexternalplatform
 eigen
 electron
 electron27
-electron31
 electron34
 electron35
 electron36
