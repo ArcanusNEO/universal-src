@@ -711,6 +711,7 @@ electron32
 electron33
 electron34
 electron35
+electron36
 element
 elementary-icon-theme
 elfutils
@@ -1229,6 +1230,7 @@ google-chrome
 google-glog
 googler
 gopls
+gotz
 gpart
 gparted
 gpaste
@@ -1383,7 +1385,6 @@ haskell-aeson-yaml
 haskell-algebraic-graphs
 haskell-ansi-terminal
 haskell-ansi-terminal-types
-haskell-ansi-terminal0.11
 haskell-ansi-wl-pprint
 haskell-appar
 haskell-apply-refact
@@ -1452,7 +1453,6 @@ haskell-crypton-x509-system
 haskell-crypton-x509-validation
 haskell-cryptonite
 haskell-czipwith
-haskell-data-array-byte
 haskell-data-binary-ieee754
 haskell-data-default
 haskell-data-default-class
@@ -1804,6 +1804,7 @@ helm-synth-vst
 help2man
 helvum
 hevea
+hevi
 hexter
 hfsprogs
 hfsutils
@@ -2909,7 +2910,6 @@ liblangtag
 liblc3
 libldac
 libldap
-libldap24
 libldm
 libliftoff
 libliquidsfz
@@ -3083,7 +3083,6 @@ libretro-mupen64plus-next
 libretro-nestopia
 libretro-overlays
 libretro-parallel-n64
-libretro-pcsx2
 libretro-picodrive
 libretro-play
 libretro-ppsspp
@@ -3243,8 +3242,10 @@ libxklavier
 libxml++
 libxml2
 libxml2-docs
+libxml2-legacy
 libxmlb
 libxmlbird
+libxmp
 libxmu
 libxnvctrl
 libxp
@@ -3676,7 +3677,7 @@ npm-check-updates
 npth
 nspr
 nss
-ntfsprogs-ntfs3
+ntfs-3g
 ntk
 ntl
 ntp
@@ -4889,6 +4890,7 @@ python-setoptconf
 python-setproctitle
 python-setuptools
 python-setuptools-git-ls-files
+python-setuptools-reproducible
 python-setuptools-rust
 python-setuptools-scm
 python-sgmllib3k
@@ -4950,7 +4952,6 @@ python-text-unidecode
 python-texttable
 python-threadpoolctl
 python-tifffile
-python-tifffile-doc
 python-tiktoken
 python-timm
 python-tinycss2
@@ -5087,6 +5088,7 @@ qemu-hw-display-virtio-gpu-pci-gl
 qemu-hw-display-virtio-vga
 qemu-hw-display-virtio-vga-gl
 qemu-hw-s390x-virtio-gpu-ccw
+qemu-hw-uefi-vars
 qemu-hw-usb-host
 qemu-hw-usb-redirect
 qemu-hw-usb-smartcard
@@ -5312,7 +5314,6 @@ remmina-plugin-url
 renderdoc
 repgrep
 responder
-rest
 retro-gtk
 retroarch
 retroarch-assets-glui
@@ -5368,30 +5369,38 @@ rubberband-lv2
 rubberband-vamp
 rubocop
 ruby
+ruby-abbrev
 ruby-activesupport
 ruby-addressable
 ruby-ast
 ruby-backport
+ruby-base64
+ruby-bigdecimal
 ruby-builder
 ruby-bundled-gems
 ruby-bundler
 ruby-concurrent
 ruby-connection_pool
+ruby-csv
 ruby-dbus
 ruby-debug
 ruby-default-gems
 ruby-diff-lcs
 ruby-docs
+ruby-drb
 ruby-e2mmap
 ruby-erb
 ruby-erubi
 ruby-ffi
+ruby-getoptlong
 ruby-gettext
 ruby-httpclient
 ruby-i18n
 ruby-irb
 ruby-kramdown
 ruby-kramdown-parser-gfm
+ruby-language_server-protocol
+ruby-lint_roller
 ruby-locale
 ruby-manpages
 ruby-maruku
@@ -5401,11 +5410,14 @@ ruby-mini_portile2
 ruby-minitest
 ruby-mocha
 ruby-multi_json
+ruby-mutex_m
 ruby-net-ftp
 ruby-net-imap
 ruby-net-pop
 ruby-net-smtp
+ruby-nkf
 ruby-nokogiri
+ruby-observer
 ruby-optimist
 ruby-paint
 ruby-parallel
@@ -5423,7 +5435,10 @@ ruby-rb-inotify
 ruby-rbs
 ruby-rdoc
 ruby-regexp_parser
+ruby-repl_type_completor
+ruby-resolv-replace
 ruby-rexml
+ruby-rinda
 ruby-rouge
 ruby-rr
 ruby-rspec
@@ -5440,6 +5455,7 @@ ruby-sass-listen
 ruby-stdlib
 ruby-sync
 ruby-sys-proctable
+ruby-syslog
 ruby-term-ansicolor
 ruby-test-unit
 ruby-text
@@ -5664,6 +5680,7 @@ stochas-vst3
 stoken
 strace
 stress
+sttr
 stylish-haskell
 sublime-text-4
 subversion
@@ -6150,6 +6167,7 @@ udisks2-docs
 ueberzug
 uefitool
 uemacs-git
+ugm
 ugrep
 uhttpmock
 umbrello

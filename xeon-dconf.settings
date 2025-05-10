@@ -16,8 +16,8 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/desktop/peripherals/touchpad/'
-saved-view='/org/gnome/desktop/peripherals/touchpad/'
+saved-pathbar-path='/org/gnome/software/'
+saved-view='/org/gnome/software/'
 show-warning=false
 window-height=819
 window-is-maximized=false
@@ -775,7 +775,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='privacy'
+last-panel='bluetooth'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1456,9 +1456,9 @@ search-engine-providers=[{'url': <'https://duckduckgo.com/?q=%s&t=epiphany'>, 'b
 use-google-search-suggestions=true
 
 [org/gnome/epiphany/state]
-is-maximized=false
+is-maximized=true
 window-position=(0, 0)
-window-size=(1024, 768)
+window-size=(1920, 1052)
 
 [org/gnome/epiphany/sync]
 sync-device-id='5ae271437cf42aac51ea6b6d33098b63'
@@ -1481,10 +1481,10 @@ fullscreen=false
 inverted-colors=false
 show-sidebar=true
 sidebar-page='thumbnails'
-sidebar-size=144
+sidebar-size=177
 sizing-mode='free'
 window-ratio=(2.7466066388926214, 1.24956942118329)
-zoom=1.0179999999999998
+zoom=0.49093364197530859
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -2008,7 +2008,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.960973142594973, -116.419389)
+night-light-last-coordinates=(34.963903433661557, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2655,14 +2655,9 @@ toggle-quick-settings=@as []
 locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.0295270260429752)], [(0.69689057971334611, 2.0313596217575696)])>)>]
 
 [org/gnome/software]
-check-timestamp=int64 1744000533
 download-updates=false
-download-updates-notify=true
 first-run=false
-flatpak-purge-timestamp=int64 1745367446
-install-timestamp=int64 1697444851
-online-updates-timestamp=int64 1664501401
-update-notification-timestamp=int64 1697444988
+flatpak-purge-timestamp=int64 1746751760
 
 [org/gnome/swell-foop]
 colors=3
@@ -3044,7 +3039,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///home/lucas/Downloads/cpptorture.c']
+session=['1;;+file:///home/lucas/src/httpcomponents-client/httpclient5/src/main/java/org/apache/hc/client5/http/AbstractClientContextBuilder.java']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
