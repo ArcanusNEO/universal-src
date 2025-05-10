@@ -74,6 +74,8 @@ electron11-bin
 electron12-bin
 electron21-bin
 electron22-bin
+electron32-bin
+electron33
 envycontrol
 evhz-git
 execstack
@@ -122,6 +124,7 @@ gnome-shell-extension-notification-timeout-git
 gomatrix-git
 google-chrome
 googler
+gotz
 gpt4all-chat
 gpu-viewer
 gputest
@@ -131,13 +134,12 @@ gtuber
 guile1.8
 gv
 hashdeep
-haskell-ansi-terminal0.11
-haskell-data-array-byte
 hello
 helm-synth-common
 helm-synth-lv2
 helm-synth-standalone
 helm-synth-vst
+hevi
 hfsprogs
 hfsutils
 hitch
@@ -194,11 +196,9 @@ libimobiledevice-glue-git
 libinput-gestures
 libirecovery-git
 libkqueue
-libldap24
 libowfat
 libplist-git
 libpng15
-libretro-pcsx2
 libstroke
 libtatsu-git
 libtsm
@@ -250,7 +250,6 @@ nodejs-unblockneteasemusic
 non-mixer
 non-sequencer
 non-timeline
-ntfsprogs-ntfs3
 nvclock
 nvflash
 nvidia-prime-rtd3pm
@@ -320,7 +319,6 @@ python-glfw
 python-hijri-converter
 python-htmlmin2
 python-imagecodecs
-python-imageio
 python-imgaug
 python-imread
 python-jax
@@ -355,15 +353,14 @@ python-qudida
 python-remotezip
 python-requirements-detector
 python-safetensors
-python-scikit-image
 python-screeninfo
 python-setoptconf
 python-setuptools-git-ls-files
+python-setuptools-reproducible
 python-simsimd
 python-skia-pathops
 python-stringzilla
 python-tensorstore
-python-tifffile
 python-tifffile-doc
 python-timm
 python-tokenizers
@@ -403,7 +400,6 @@ remmina-plugin-open
 remmina-plugin-teamviewer
 remmina-plugin-url
 responder
-rest
 rig
 rog-control-center
 ruby-backport
@@ -436,6 +432,7 @@ stardict-web1913
 stardict-wikt-en-all
 stardict-wordnet
 steamcmd
+sttr
 sublime-text-4
 sunloginclient
 sunloginremote
@@ -475,6 +472,7 @@ typora-electron
 ubuntu-themes
 uefitool
 uemacs-git
+ugm
 unityhub
 upd72020x-fw
 uudeck
