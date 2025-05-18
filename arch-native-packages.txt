@@ -3407,7 +3407,6 @@ nemo-seahorse
 nemo-share
 nemo-theme-glacier
 neochat
-neofetch
 neon
 net-snmp
 net-tools
@@ -5375,7 +5374,6 @@ systemd-libs
 systemd-resolvconf
 systemd-sysvcompat
 systemd-ukify
-t1lib
 t1utils
 tachyon
 taglib

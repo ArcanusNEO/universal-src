@@ -240,6 +240,7 @@ nautilus-open-any-terminal
 nautilus-sendto
 ncurses5-compat-libs
 neo-matrix
+neofetch
 ninjas2-lv2
 ninjas2-standalone
 ninjas2-vst
@@ -437,6 +438,7 @@ sunloginclient
 sunloginremote
 sx
 systemd-boot-pacman-hook
+t1lib
 tap-plugins
 tcping-go
 teamviewer
