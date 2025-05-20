@@ -1483,7 +1483,7 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(2.7466066388926214, 1.24956942118329)
+window-ratio=(2.745664739884393, 1.25)
 zoom=0.49093364197530859
 
 [org/gnome/evolution-data-server]
@@ -1703,7 +1703,7 @@ last-save-directory='file:///home/lucas/Downloads'
 
 [org/gnome/gnome-system-monitor]
 cpu-colors=[(uint32 0, '#e01b24'), (1, '#ff7800'), (2, '#f6d32d'), (3, '#33d17a'), (4, '#26a269'), (5, '#62a0ea'), (6, '#1c71d8'), (7, '#613583'), (8, '#9141ac'), (9, '#c061cb'), (10, '#ffbe6f'), (11, '#f9f06b'), (12, '#8ff0a4'), (13, '#2ec27e'), (14, '#1a5fb4'), (15, '#c061cb'), (16, '#d851f3327999'), (17, '#ea977999f332'), (18, '#7999f332c71b'), (19, '#f332a3a07999'), (20, '#80257999f332'), (21, '#9688f3327999'), (22, '#f3327999ba03'), (23, '#7999dd7ff332'), (24, '#f332ad887999'), (25, '#8a0c7999f332'), (26, '#8ca0f3327999'), (27, '#f3327999b01c'), (28, '#7999d397f332'), (29, '#f332ef517999'), (30, '#cbd67999f332'), (31, '#7999f332a85a'), (32, '#f33284df7999'), (33, '#799991cef332'), (34, '#b549f3327999'), (35, '#f3327999d8c4')]
-current-tab='resources'
+current-tab='processes'
 logarithmic-scale=false
 maximized=false
 network-total-in-bits=false
@@ -2008,7 +2008,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.963903433661557, -116.419389)
+night-light-last-coordinates=(34.956617118671218, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2657,7 +2657,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 [org/gnome/software]
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1746751760
+flatpak-purge-timestamp=int64 1747673541
 
 [org/gnome/swell-foop]
 colors=3
@@ -3039,7 +3039,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///home/lucas/src/httpcomponents-client/httpclient5/src/main/java/org/apache/hc/client5/http/AbstractClientContextBuilder.java']
+session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
