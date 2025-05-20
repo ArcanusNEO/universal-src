@@ -43,6 +43,7 @@ checkra1n-cli
 chromedriver
 chromium-widevine
 clash-geoip
+clashtui
 cloog
 cmake-format
 cmake-language-server
@@ -417,7 +418,6 @@ sing-geoip-db
 sing-geoip-rule-set
 sing-geosite-db
 sing-geosite-rule-set
-skypeforlinux-bin
 smooth
 snapd-xdg-open-git
 solfege

@@ -782,7 +782,7 @@ size=(850, 695)
 state=87168
 
 [org/gnome/control-center]
-last-panel='power'
+last-panel='display'
 window-state=(1104, 720, false)
 
 [org/gnome/desktop/a11y]
@@ -1473,12 +1473,12 @@ dual-page-odd-left=true
 enable-spellchecking=true
 fullscreen=false
 inverted-colors=false
-show-sidebar=true
+show-sidebar=false
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(2.8909508465073857, 1.6771190060128993)
-zoom=0.60678856306507245
+window-ratio=(2.4192735459157957, 1.2494061757719714)
+zoom=0.50565713588756034
 
 [org/gnome/evolution-data-server]
 migrated=true
@@ -3023,7 +3023,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
+session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+file:///home/lucas/.cache/.fr-6U3E62/swig-4.2.1/README']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true

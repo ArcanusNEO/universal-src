@@ -428,6 +428,7 @@ cjson
 clang
 clang18
 clash-geoip
+clashtui
 clazy
 clblast
 clevis
@@ -5663,7 +5664,6 @@ skanpage
 skim
 skladnik
 skopeo
-skypeforlinux-bin
 sl
 slang
 sleuthkit
