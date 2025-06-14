@@ -95,6 +95,7 @@ ambix-lv2
 ambix-standalone
 ambix-vst
 amf-headers
+aml
 ams
 amsynth
 amsynth-common
@@ -420,6 +421,7 @@ cjs
 cjson
 clang
 clang18
+clang19
 clash-geoip
 clashtui
 clazy
@@ -475,6 +477,7 @@ compface
 compiler-rt
 compiler-rt15
 compiler-rt18
+compiler-rt19
 composefs
 composer
 confuse
@@ -1062,6 +1065,7 @@ gf2x
 gfan
 gfeeds
 gflags
+gfxstream
 ghc
 ghc-libs
 ghex
@@ -1237,6 +1241,7 @@ gpaste
 gperf
 gperftools
 gpgme
+gpgmepp
 gpicview
 gping
 gpm
@@ -1727,6 +1732,7 @@ haskell-string-conversions
 haskell-syb
 haskell-tagged
 haskell-tagsoup
+haskell-tasty
 haskell-temporary
 haskell-terminal-size
 haskell-texmath
@@ -2597,8 +2603,7 @@ lib32-nspr
 lib32-nss
 lib32-ocl-icd
 lib32-openal
-lib32-opencl-clover-mesa
-lib32-opencl-rusticl-mesa
+lib32-opencl-mesa
 lib32-openssl
 lib32-openssl-1.1
 lib32-opus
@@ -2661,6 +2666,7 @@ libadwaita
 libadwaita-demos
 libadwaita-docs
 libaec
+libaemu
 libafterimage
 libaio
 libakonadi
@@ -3307,6 +3313,7 @@ live-media
 lksctp-tools
 lld
 lld18
+lld19
 lldb
 lldb-mi
 llhttp
@@ -3319,6 +3326,7 @@ llvm14-libs
 llvm15
 llvm15-libs
 llvm18-libs
+llvm19-libs
 lm_sensors
 lmdb
 lmms
@@ -3603,6 +3611,7 @@ ncompress
 ncurses
 ncurses5-compat-libs
 ndctl
+neatvnc
 nemo
 nemo-audio-tab
 nemo-emblems
@@ -3726,9 +3735,8 @@ openbox
 openbsd-netcat
 opencc
 opencl-clhpp
-opencl-clover-mesa
 opencl-headers
-opencl-rusticl-mesa
+opencl-mesa
 opencolorio
 openconnect
 opencore-amr
@@ -4823,7 +4831,9 @@ python-pytorch-opt
 python-pytz
 python-pyudev
 python-pywavelets
+python-pywayland
 python-pywinrm
+python-pywlroots
 python-pyx
 python-pyxdg
 python-pyyaml-env-tag
@@ -4866,6 +4876,8 @@ python-rope
 python-routes
 python-rpds-py
 python-rpy2
+python-rpy2-rinterface
+python-rpy2-robjects
 python-rpyc
 python-rsa
 python-ruamel-yaml
@@ -5027,6 +5039,7 @@ python-wsproto
 python-x-transformers
 python-xattr
 python-xcffib
+python-xkbcommon
 python-xlib
 python-xlrd
 python-xmlsec
@@ -5047,7 +5060,6 @@ python-zope-interface
 python-zopfli
 python-zstandard
 python2
-python311
 qastools
 qca-qt5
 qca-qt6
@@ -5085,8 +5097,11 @@ qemu-hw-display-virtio-gpu
 qemu-hw-display-virtio-gpu-gl
 qemu-hw-display-virtio-gpu-pci
 qemu-hw-display-virtio-gpu-pci-gl
+qemu-hw-display-virtio-gpu-pci-rutabaga
+qemu-hw-display-virtio-gpu-rutabaga
 qemu-hw-display-virtio-vga
 qemu-hw-display-virtio-vga-gl
+qemu-hw-display-virtio-vga-rutabaga
 qemu-hw-s390x-virtio-gpu-ccw
 qemu-hw-uefi-vars
 qemu-hw-usb-host
@@ -5137,7 +5152,7 @@ qemu-user-static
 qemu-user-static-binfmt
 qemu-vhost-user-gpu
 qemu-vmsr-helper
-qgpgme-qt6
+qgpgme
 qhull
 qimgv
 qjackctl
@@ -5268,6 +5283,7 @@ quazip-qt6
 quickjs
 quilt
 qv2ray
+qwlroots
 qxgedit
 qxlsx
 qxmpp
@@ -5484,6 +5500,7 @@ rust-src
 rust-wasm
 rustc-demangle
 rustic
+rutabaga-ffi
 rxvt-unicode
 rxvt-unicode-terminfo
 rygel
@@ -6303,7 +6320,9 @@ wayland
 wayland-protocols
 wayland-utils
 waylandpp
+waylib
 waypipe
+wayvnc
 wcslib
 wd719x-firmware
 wdiff
@@ -6347,9 +6366,12 @@ wireproxy
 wireshark-cli
 wireshark-qt
 wl-clipboard
+wlr-protocols
 wlrctl
-wlroots
+wlroots0.17
+wlroots0.18
 wmctrl
+wmenu
 woff2
 woff2-smiley-sans-bin
 wofi
