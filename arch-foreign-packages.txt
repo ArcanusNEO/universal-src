@@ -170,6 +170,7 @@ jellyfin-media-player
 jellyfish
 jre11
 jre8
+kcontacts5
 kddockwidgets-qt6
 kdocker
 kfilemetadata5
@@ -178,6 +179,8 @@ kmscon
 komorebi
 kotlin-language-server
 kpeople5
+kpimtextedit5
+ktextaddons5
 kvantum-theme-whitesur-git
 latex2rtf
 lemminx
@@ -188,6 +191,7 @@ lib32-lapack
 lib32-lzo
 lib32-ncurses5-compat-libs
 libaal
+libakonadi5
 libcroco
 libeuicc
 libgbinder
@@ -375,7 +379,6 @@ python-whatever
 python-wn
 python-x-transformers
 python2
-python311
 qcustomplot-qt6
 qdl-git
 qemacs-git
@@ -383,6 +386,7 @@ qimgv
 qqmusic-electron
 qt4
 qt4-doc
+qt5-datavis3d
 qt5-gamepad
 qt5-lottie
 qt5-purchasing
@@ -519,6 +523,7 @@ xbyak
 xcftools
 xcowsay
 xcp
+xf86-video-vmware
 xivlauncher-cn-git
 xorgxrdp
 xplc

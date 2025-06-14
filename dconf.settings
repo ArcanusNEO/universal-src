@@ -390,7 +390,7 @@ width=838
 first-run=false
 
 [org/gnome/Console]
-last-window-maximised=false
+last-window-maximised=true
 last-window-size=(812, 597)
 
 [org/gnome/Contacts]
@@ -782,8 +782,8 @@ size=(850, 695)
 state=87168
 
 [org/gnome/control-center]
-last-panel='display'
-window-state=(1104, 720, false)
+last-panel='keyboard'
+window-state=(1104, 720, true)
 
 [org/gnome/desktop/a11y]
 always-show-universal-access-status=true
@@ -829,6 +829,14 @@ picture-uri-dark='file:///home/lucas/.local/share/backgrounds/2023-10-17-17-10-5
 primary-color='#000000000000'
 secondary-color='#000000000000'
 show-desktop-icons=false
+
+[org/gnome/desktop/break-reminders/eyesight]
+play-sound=true
+
+[org/gnome/desktop/break-reminders/movement]
+duration-seconds=uint32 300
+interval-seconds=uint32 1800
+play-sound=true
 
 [org/gnome/desktop/calendar]
 show-weekdate=true
@@ -1323,6 +1331,10 @@ tls-cert='/home/lucas/.local/share/gnome-remote-desktop/rdp-tls.crt'
 tls-key='/home/lucas/.local/share/gnome-remote-desktop/rdp-tls.key'
 view-only=false
 
+[org/gnome/desktop/screen-time-limits]
+daily-limit-enabled=false
+history-enabled=false
+
 [org/gnome/desktop/screensaver]
 color-shading-type='solid'
 picture-options='zoom'
@@ -1692,14 +1704,14 @@ include-pointer=false
 last-save-directory='file:///home/lucas/Downloads'
 
 [org/gnome/gnome-system-monitor]
-current-tab='disks'
+current-tab='processes'
 logarithmic-scale=false
 maximized=false
 network-total-in-bits=false
 process-memory-in-iec=true
 resources-memory-in-iec=true
 show-dependencies=true
-show-whose-processes='user'
+show-whose-processes='all'
 update-interval=1000
 window-height=887
 window-state=(1440, 979, 45, 29)
@@ -1733,8 +1745,8 @@ col-2-visible=true
 col-2-width=76
 col-26-visible=false
 col-26-width=0
-columns-order=[0, 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
-sort-col=0
+columns-order=[0, 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 7]
+sort-col=15
 sort-order=0
 
 [org/gnome/hitori]
@@ -2008,6 +2020,7 @@ screenreader=@as []
 screensaver=['<Super>q']
 screenshot=['<Primary>Print']
 screenshot-clip=['Print']
+shutdown=@as []
 volume-down=['<Super>Down']
 volume-mute=['<Super>m']
 volume-up=['<Super>Up']
@@ -2080,7 +2093,7 @@ name='WeChat'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom21]
 binding='<Shift><Super>q'
-command='qq'
+command='/usr/bin/linuxqq'
 name='QQ'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom23]
@@ -2170,7 +2183,7 @@ disabled-extensions=['better-osd@hllvc', 'launch-new-instance@gnome-shell-extens
 enabled-extensions=['panel-osd@berend.de.schouwer.gmail.com', 'system-monitor@paradoxxx.zero.gmail.com', 'captivate@rensoliemans.nl', 'switchtwolayouts@qtmax.dev', 'ubuntu-dock@ubuntu.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'system-monitor-next@paradoxxx.zero.gmail.com', 'maximize-to-workspace@rliang.github.com', 'MaximizeToEmptyWorkspace-extension@kaisersite.de', 'gnome-optiprime@kalteseele', 'RadeonPRIME@xvexisu-gmail.com', 'gnome-optirun@TCG', 'GNOME_Run_With_PRIME@floturcocantsee.daguerro.net', 'custom-menu-panel@AndreaBenini', 'unite@hardpixel.eu', 'cpupower@mko-sl.de', 'impatience@gfxmonk.net', 'GPU_profile_selector@lorenzo9904.gmail.com', 'dash-to-dock@micxgx.gmail.com', 'GPaste@gnome-shell-extensions.gnome.org', 'notification-timeout@chlumskyvaclav.gmail.com', 'ProxySwitcher@flannaghan.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'handy_extensions_collection@transcliff.eu.org', 'appindicatorsupport@rgcjonas.gmail.com', 'ibus-switcher@kevinhwang91.github.com', 'system-monitor@gnome-shell-extensions.gcampax.github.com', 'light-style@gnome-shell-extensions.gcampax.github.com', 'handy-extensions-collection@transcliff.eu.org', 'compiz-alike-magic-lamp-effect@hermes83.github.com', 'AlphabeticalAppGrid@stuarthayhurst']
 favorite-apps=['']
 had-bluetooth-devices-setup=true
-last-selected-power-profile='power-saver'
+last-selected-power-profile='performance'
 looking-glass-history=['1+1']
 remember-mount-password=true
 welcome-dialog-last-shown-version='41.2'
@@ -2635,10 +2648,10 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1747547477
-install-timestamp=int64 1737735210
+flatpak-purge-timestamp=int64 1749887649
+install-timestamp=int64 1749651698
 online-updates-timestamp=int64 1664501401
-update-notification-timestamp=int64 1737740246
+update-notification-timestamp=int64 1749653470
 
 [org/gnome/swell-foop]
 colors=3
@@ -3023,7 +3036,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+file:///home/lucas/.cache/.fr-6U3E62/swig-4.2.1/README']
+session=['1;;+file:///home/lucas/Documents/appops.txt']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true

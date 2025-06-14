@@ -91,6 +91,7 @@ ambix-standalone
 ambix-vst
 amd-ucode
 amf-headers
+aml
 ams
 amsynth
 amsynth-common
@@ -383,6 +384,7 @@ cjs
 cjson
 clang
 clang18
+clang19
 clazy
 clblast
 clevis
@@ -431,6 +433,7 @@ comgr
 compface
 compiler-rt
 compiler-rt18
+compiler-rt19
 composable-kernel
 composefs
 composer
@@ -971,6 +974,7 @@ gf2x
 gfan
 gfeeds
 gflags
+gfxstream
 ghc
 ghc-libs
 ghex
@@ -1125,6 +1129,7 @@ gpaste
 gperf
 gperftools
 gpgme
+gpgmepp
 gpicview
 gping
 gpm
@@ -1606,6 +1611,7 @@ haskell-string-conversions
 haskell-syb
 haskell-tagged
 haskell-tagsoup
+haskell-tasty
 haskell-temporary
 haskell-terminal-size
 haskell-texmath
@@ -1948,7 +1954,6 @@ kconfig5
 kconfigwidgets
 kconfigwidgets5
 kcontacts
-kcontacts5
 kcoreaddons
 kcoreaddons5
 kcpuid
@@ -2156,7 +2161,6 @@ kparts5
 kpat
 kpeople
 kpimtextedit
-kpimtextedit5
 kpipewire
 kpkpass
 kplotting
@@ -2193,7 +2197,6 @@ ksvg
 ksystemlog
 kteatime
 ktextaddons
-ktextaddons5
 ktexteditor
 ktexteditor5
 ktexttemplate
@@ -2435,9 +2438,8 @@ lib32-nvidia-cg-toolkit
 lib32-nvidia-utils
 lib32-ocl-icd
 lib32-openal
-lib32-opencl-clover-mesa
+lib32-opencl-mesa
 lib32-opencl-nvidia
-lib32-opencl-rusticl-mesa
 lib32-openssl
 lib32-openssl-1.1
 lib32-opus
@@ -2499,10 +2501,10 @@ libadwaita
 libadwaita-demos
 libadwaita-docs
 libaec
+libaemu
 libafterimage
 libaio
 libakonadi
-libakonadi5
 libantlr3c
 libao
 libappimage
@@ -3127,6 +3129,7 @@ live-media
 lksctp-tools
 lld
 lld18
+lld19
 lldb
 lldb-mi
 llhttp
@@ -3139,6 +3142,7 @@ llvm14-libs
 llvm15
 llvm15-libs
 llvm18-libs
+llvm19-libs
 lm_sensors
 lmdb
 lmms
@@ -3393,6 +3397,7 @@ nccl
 ncompress
 ncurses
 ndctl
+neatvnc
 nemo
 nemo-audio-tab
 nemo-emblems
@@ -3509,10 +3514,9 @@ openbox
 openbsd-netcat
 opencc
 opencl-clhpp
-opencl-clover-mesa
 opencl-headers
+opencl-mesa
 opencl-nvidia
-opencl-rusticl-mesa
 opencolorio
 openconnect
 opencore-amr
@@ -4522,7 +4526,9 @@ python-pytools
 python-pytorch-opt-cuda
 python-pytz
 python-pyudev
+python-pywayland
 python-pywinrm
+python-pywlroots
 python-pyx
 python-pyxdg
 python-pyyaml-env-tag
@@ -4562,6 +4568,8 @@ python-rope
 python-routes
 python-rpds-py
 python-rpy2
+python-rpy2-rinterface
+python-rpy2-robjects
 python-rpyc
 python-rsa
 python-ruamel-yaml
@@ -4703,6 +4711,7 @@ python-wrapt
 python-wsproto
 python-xattr
 python-xcffib
+python-xkbcommon
 python-xlib
 python-xlrd
 python-xmlsec
@@ -4756,8 +4765,11 @@ qemu-hw-display-virtio-gpu
 qemu-hw-display-virtio-gpu-gl
 qemu-hw-display-virtio-gpu-pci
 qemu-hw-display-virtio-gpu-pci-gl
+qemu-hw-display-virtio-gpu-pci-rutabaga
+qemu-hw-display-virtio-gpu-rutabaga
 qemu-hw-display-virtio-vga
 qemu-hw-display-virtio-vga-gl
+qemu-hw-display-virtio-vga-rutabaga
 qemu-hw-s390x-virtio-gpu-ccw
 qemu-hw-uefi-vars
 qemu-hw-usb-host
@@ -4808,7 +4820,7 @@ qemu-user-static
 qemu-user-static-binfmt
 qemu-vhost-user-gpu
 qemu-vmsr-helper
-qgpgme-qt6
+qgpgme
 qhull
 qjackctl
 qmidiarp-lv2
@@ -4835,7 +4847,6 @@ qt5-3d
 qt5-base
 qt5-charts
 qt5-connectivity
-qt5-datavis3d
 qt5-declarative
 qt5-doc
 qt5-examples
@@ -4924,6 +4935,7 @@ quadrapassel
 quazip-qt5
 quazip-qt6
 quilt
+qwlroots
 qxgedit
 qxlsx
 qxmpp
@@ -5156,6 +5168,7 @@ rust-musl
 rust-src
 rust-wasm
 rustic
+rutabaga-ffi
 rxvt-unicode
 rxvt-unicode-terminfo
 rygel
@@ -5888,7 +5901,9 @@ wayland
 wayland-protocols
 wayland-utils
 waylandpp
+waylib
 waypipe
+wayvnc
 wcslib
 wdiff
 webkit2gtk
@@ -5922,8 +5937,12 @@ wireproxy
 wireshark-cli
 wireshark-qt
 wl-clipboard
-wlroots
+wlr-protocols
+wlroots0.17
+wlroots0.18
+wlroots0.19
 wmctrl
+wmenu
 woff2
 wofi
 wolf-shaper-dssi
@@ -5994,7 +6013,6 @@ xf86-video-intel
 xf86-video-nouveau
 xf86-video-qxl
 xf86-video-vesa
-xf86-video-vmware
 xf86-video-voodoo
 xfce4-dev-tools
 xfce4-panel
