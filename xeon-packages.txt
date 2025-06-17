@@ -1026,6 +1026,8 @@ gcc-objc
 gcc-rust
 gcc13
 gcc13-libs
+gcc14
+gcc14-libs
 gcc49
 gcc8
 gcc8-libs
