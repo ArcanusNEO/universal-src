@@ -1027,6 +1027,8 @@ gcc-rust
 gcc13
 gcc13-libs
 gcc49
+gcc8
+gcc8-libs
 gconf
 gcr
 gcr-4
@@ -4408,6 +4410,7 @@ python-evdev
 python-eventlet
 python-executing
 python-faker
+python-fast-colorthief
 python-fastapi
 python-fastbencode
 python-fastjsonschema
@@ -4611,6 +4614,7 @@ python-mitmproxy-wireguard
 python-ml-dtypes
 python-mock
 python-moddb
+python-modern-colorthief
 python-more-itertools
 python-mpmath
 python-msgpack
@@ -5674,6 +5678,7 @@ sshfs
 sshpass
 ssr
 sssd
+st
 stardict
 stardict-langdao-ce-gb
 stardict-langdao-ec-gb
