@@ -5938,7 +5938,6 @@ wl-clipboard
 wlr-protocols
 wlroots0.17
 wlroots0.18
-wlroots0.19
 wmctrl
 wmenu
 woff2

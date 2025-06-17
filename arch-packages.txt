@@ -1044,7 +1044,6 @@ gcc14
 gcc14-libs
 gcc49
 gcc8
-gcc8-fortran
 gcc8-libs
 gconf
 gcr
@@ -6457,7 +6456,6 @@ wlr-protocols
 wlrctl
 wlroots0.17
 wlroots0.18
-wlroots0.19
 wmctrl
 wmenu
 woff2

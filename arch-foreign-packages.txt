@@ -104,7 +104,6 @@ gcc13
 gcc13-libs
 gcc49
 gcc8
-gcc8-fortran
 gcc8-libs
 gconf
 gdm-settings
