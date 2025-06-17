@@ -936,8 +936,6 @@ gcc-fortran
 gcc-libs
 gcc-objc
 gcc-rust
-gcc13
-gcc13-libs
 gcc14
 gcc14-libs
 gcr
@@ -3137,8 +3135,6 @@ llm-manager
 llvm
 llvm-julia-libs
 llvm-libs
-llvm14
-llvm14-libs
 llvm15
 llvm15-libs
 llvm18-libs
@@ -4139,6 +4135,7 @@ python-evdev
 python-eventlet
 python-executing
 python-faker
+python-fast-colorthief
 python-fastapi
 python-fastbencode
 python-fastjsonschema
@@ -4323,6 +4320,7 @@ python-mistune
 python-mitmproxy-rs
 python-ml-dtypes
 python-moddb
+python-modern-colorthief
 python-more-itertools
 python-mpmath
 python-msgpack

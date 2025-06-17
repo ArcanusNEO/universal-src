@@ -100,7 +100,12 @@ fxload
 fzf-extras
 ganache-cli
 gatling
+gcc13
+gcc13-libs
 gcc49
+gcc8
+gcc8-fortran
+gcc8-libs
 gconf
 gdm-settings
 gdm-tools
@@ -212,6 +217,8 @@ libvisual
 libxcomp
 linux-wifi-hotspot
 linuxqq
+llvm14
+llvm14-libs
 lmod
 lmstudio
 localsend-bin
@@ -428,6 +435,7 @@ solfege
 sonic-pi
 spacecadetpinball-git
 spotify
+st
 stardict-langdao-ce-gb
 stardict-langdao-ec-gb
 stardict-oald
