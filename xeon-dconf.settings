@@ -775,7 +775,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='system'
+last-panel='sharing'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -838,7 +838,7 @@ show-weekdate=true
 automatic-timezone=false
 
 [org/gnome/desktop/file-sharing]
-require-password='always'
+require-password='never'
 
 [org/gnome/desktop/input-sources]
 mru-sources=[('xkb', 'us'), ('ibus', 'libpinyin')]
@@ -2008,7 +2008,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(37.888350272570307, 127.7277611)
+night-light-last-coordinates=(48.857335429275722, 2.3513765000000002)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2657,7 +2657,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 [org/gnome/software]
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1750124057
+flatpak-purge-timestamp=int64 1750809813
 
 [org/gnome/swell-foop]
 colors=3
@@ -2747,7 +2747,7 @@ sort-directories-first=false
 sort-order='descending'
 type-format='category'
 window-position=(45, 29)
-window-size=(1920, 1004)
+window-size=(1440, 1004)
 
 [org/mate/caja/window-state]
 geometry='800x550+377+120'
@@ -3039,7 +3039,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;file:///home/lucas/.local/share/Mousepad/autosave-0;+']
+session=['1;;+file:///home/lucas/.config/Typora/conf/conf.user.json']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
