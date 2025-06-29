@@ -715,6 +715,7 @@ elfutils
 elinks
 elisa
 ell
+emacs-apel
 emacs-nox
 embree
 embree3
@@ -846,6 +847,7 @@ flatpak
 flatpak-builder
 flatpak-xdg-utils
 flex
+flim
 flint
 flite
 fltk
@@ -5564,6 +5566,7 @@ secure-delete
 sed
 see-git
 seer-gdb
+semi
 semver
 serd
 serf

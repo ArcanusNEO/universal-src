@@ -2008,7 +2008,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(48.857335429275722, 2.3513765000000002)
+night-light-last-coordinates=(34.958296688405554, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2657,7 +2657,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 [org/gnome/software]
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1750809813
+flatpak-purge-timestamp=int64 1751079896
 
 [org/gnome/swell-foop]
 colors=3
