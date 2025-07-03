@@ -16,8 +16,8 @@ height=714
 width=1440
 
 [ca/desrt/dconf-editor]
-saved-pathbar-path='/org/gnome/mutter/overlay-key'
-saved-view='/org/gnome/mutter/overlay-key'
+saved-pathbar-path='/org/gnome/desktop/interface/accent-color'
+saved-view='/org/'
 show-warning=false
 window-height=819
 window-is-maximized=false
@@ -173,7 +173,9 @@ never-applied=false
 always-show-accessibility-menu=true
 
 [io/github/realmazharhussain/GdmSettings/appearance]
-accent-color='blue'
+accent-color='slate'
+background-color='rgb(40,40,40)'
+background-type='default'
 cursor-theme='WhiteSur-cursors'
 icon-theme='WhiteSur'
 shell-theme='WhiteSur-Dark'
@@ -464,7 +466,8 @@ window-height=566
 window-width=720
 
 [org/gnome/Snapshot]
-is-maximized=false
+capture-mode='picture'
+is-maximized=true
 window-height=640
 window-width=800
 
@@ -758,7 +761,7 @@ window-size=(800, 600)
 
 [org/gnome/cheese]
 burst-delay=1000
-camera='USB 2.0 Camera (V4L2)'
+camera='\\_SB_.PCI0.XHCI.RHUB.HS08-8:1.0-1bcf:2281'
 photo-x-resolution=1920
 photo-y-resolution=1080
 video-x-resolution=1920
@@ -775,7 +778,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='sharing'
+last-panel='display'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -859,7 +862,7 @@ enable-hot-corners=false
 font-name='sans-serif 11'
 gtk-im-module='ibus'
 gtk-key-theme='Emacs'
-gtk-theme='WhiteSur-Light'
+gtk-theme='Mojave-Light'
 icon-theme='WhiteSur'
 locate-pointer=false
 monospace-font-name='monospace 12'
@@ -1456,9 +1459,9 @@ search-engine-providers=[{'url': <'https://duckduckgo.com/?q=%s&t=epiphany'>, 'b
 use-google-search-suggestions=true
 
 [org/gnome/epiphany/state]
-is-maximized=true
+is-maximized=false
 window-position=(0, 0)
-window-size=(1920, 1052)
+window-size=(1024, 768)
 
 [org/gnome/epiphany/sync]
 sync-device-id='5ae271437cf42aac51ea6b6d33098b63'
@@ -1616,10 +1619,12 @@ auto-save=false
 auto-save-interval=uint32 1
 display-overview-map=true
 display-right-margin=false
+editor-font='Lucida Grande Medium 12'
 insert-spaces=true
 scheme='Adwaita'
 style-scheme-for-light-theme-variant='kate'
 tabs-size=uint32 2
+use-default-font=true
 wrap-last-split-mode='word'
 
 [org/gnome/gedit/preferences/print]
@@ -1637,7 +1642,7 @@ search-for-entry=['rsshub.app', '    ', '//.*']
 
 [org/gnome/gedit/state/window]
 bottom-panel-size=140
-height=700
+height=669
 maximized=false
 side-panel-active-page='GeditWindowDocumentsPanel'
 side-panel-size=200
@@ -1816,7 +1821,7 @@ show-delete-permanently=true
 [org/gnome/nautilus/window-state]
 initial-size=(1171, 776)
 initial-size-file-chooser=(890, 550)
-maximized=true
+maximized=false
 sidebar-width=200
 
 [org/gnome/nibbles]
@@ -2008,7 +2013,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.958296688405554, -116.419389)
+night-light-last-coordinates=(34.956492109976026, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2657,7 +2662,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 [org/gnome/software]
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1751079896
+flatpak-purge-timestamp=int64 1751423928
 
 [org/gnome/swell-foop]
 colors=3
@@ -2714,8 +2719,8 @@ window-maximized=true
 show-extensions-notice=false
 
 [org/gtk/gtk4/settings/color-chooser]
-custom-colors=[(1.0, 1.0, 1.0, 0.0), (0.0, 0.0, 0.0, 0.0), (0.0, 0.0, 0.0, 0.25)]
-selected-color=(true, 0.60392159223556519, 0.60000002384185791, 0.58823531866073608, 1.0)
+custom-colors=[(0.15686275064945221, 0.15686275064945221, 0.15686275064945221, 1.0), (1.0, 1.0, 1.0, 0.0), (0.0, 0.0, 0.0, 0.0), (0.0, 0.0, 0.0, 0.25)]
+selected-color=(true, 0.15686275064945221, 0.15686275064945221, 0.15686275064945221, 1.0)
 
 [org/gtk/gtk4/settings/file-chooser]
 date-format='regular'
@@ -3039,7 +3044,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///home/lucas/.config/Typora/conf/conf.user.json']
+session=['1;;+']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true
@@ -3052,7 +3057,7 @@ replace-all=true
 [org/xfce/mousepad/state/window]
 fullscreen=false
 height=uint32 796
-maximized=true
+maximized=false
 width=uint32 1113
 
 [system/locale]

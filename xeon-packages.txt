@@ -2373,7 +2373,6 @@ kunitconversion5
 kuserfeedback
 kvantum
 kvantum-qt5
-kvantum-theme-whitesur-git
 kvazaar
 kwallet
 kwallet5
@@ -3554,6 +3553,7 @@ mod_dnssd
 modemmanager
 modemmanager-qt
 modemmanager-qt5
+mojave-gtk-theme-git
 mokutil
 mold
 molequeue
