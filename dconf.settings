@@ -121,6 +121,22 @@ startup-view='page_list'
 [desktop/gnome/crypto/pgp]
 last-signer=''
 
+[desktop/ibus/engine/bopomofo]
+CommaPeriodPage=false
+InitChinese=true
+InitSimplifiedChinese=false
+LookupTablePageSize=5
+MinusEqualPage=false
+SelectKeys=0
+
+[desktop/ibus/engine/pinyin]
+AutoCommit=true
+CommaPeriodPage=false
+InitChinese=true
+InitSimplifiedChinese=true
+LookupTablePageSize=5
+MinusEqualPage=false
+
 [desktop/ibus/general]
 embed-preedit-text=true
 switcher-delay-time=-1
@@ -172,7 +188,7 @@ never-applied=false
 always-show-accessibility-menu=true
 
 [io/github/realmazharhussain/GdmSettings/appearance]
-accent-color='blue'
+accent-color='slate'
 background-type='default'
 cursor-theme='WhiteSur-cursors'
 icon-theme='WhiteSur'
@@ -419,7 +435,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=true
+track-changes=false
 track-extension-state=true
 upload=''
 
@@ -865,7 +881,7 @@ enable-hot-corners=false
 font-name='sans-serif 11'
 gtk-im-module='ibus'
 gtk-key-theme='Emacs'
-gtk-theme='WhiteSur-Light'
+gtk-theme='Mojave-Light'
 icon-theme='WhiteSur'
 locate-pointer=false
 monospace-font-name='monospace 12'
@@ -1809,7 +1825,7 @@ show-delete-permanently=true
 
 [org/gnome/nautilus/window-state]
 initial-size=(1171, 776)
-initial-size-file-chooser=(890, 550)
+initial-size-file-chooser=(1276, 935)
 maximized=true
 sidebar-width=200
 
@@ -1916,6 +1932,9 @@ last-folder-path='/home/lucas/Games/Palworld.v0.2.3.0-0xdeadcode'
 
 [org/gnome/portal/filechooser/raven-reader]
 last-folder-path='/home/lucas/src/universal-src'
+
+[org/gnome/portal/filechooser/steam-native]
+last-folder-path='/usr/share/pixmaps'
 
 [org/gnome/portal/filechooser/tsukimi]
 last-folder-path='/etc/mpv'
@@ -2648,10 +2667,10 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1749986218
-install-timestamp=int64 1749651698
+flatpak-purge-timestamp=int64 1751501525
+install-timestamp=int64 1750499078
 online-updates-timestamp=int64 1664501401
-update-notification-timestamp=int64 1749653470
+update-notification-timestamp=int64 1750499178
 
 [org/gnome/swell-foop]
 colors=3
@@ -3036,7 +3055,7 @@ toolbar-visible=false
 
 [org/xfce/mousepad/state/application]
 enabled-plugins=@as []
-session=['1;;+file:///home/lucas/Documents/appops.txt']
+session=['1;;+']
 
 [org/xfce/mousepad/state/search]
 highlight-all=true

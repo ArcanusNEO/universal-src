@@ -9,7 +9,7 @@ android-sdk
 android-sdk-build-tools
 android-sdk-platform-tools
 android-studio
-another-redis-desktop-manager-bin
+another-redis-desktop-manager-appimage
 aocc
 aocl-aocc
 aocl-gcc
@@ -25,7 +25,7 @@ ast-firmware
 asusctl
 aurutils
 automoc4
-baidunetdisk-electron
+baidunetdisk-bin
 balena-etcher
 bfg
 bilibili-bin
@@ -71,11 +71,6 @@ dxvk-mingw
 dxvk-nvapi-mingw
 edb-debugger
 electron-netease-cloud-music
-electron11-bin
-electron12-bin
-electron21-bin
-electron22-bin
-electron32-bin
 electron33
 envycontrol
 evhz-git
@@ -160,7 +155,6 @@ icoextract
 icu69
 icu70
 ida-free
-idevicerestore-git
 imewlconverter
 imgcat
 ir.lv2
@@ -178,6 +172,7 @@ kcontacts5
 kddockwidgets-qt6
 kdocker
 kfilemetadata5
+kitemmodels5
 kjs
 kmscon
 komorebi
@@ -185,7 +180,6 @@ kotlin-language-server
 kpeople5
 kpimtextedit5
 ktextaddons5
-kvantum-theme-whitesur-git
 latex2rtf
 lemminx
 lerc
@@ -216,8 +210,6 @@ libvisual
 libxcomp
 linux-wifi-hotspot
 linuxqq
-llvm14
-llvm14-libs
 lmod
 lmstudio
 localsend-bin
@@ -246,6 +238,8 @@ mkdocs-minify-plugin
 mkinitcpio-firmware
 mma
 modemmanager-qt5
+mojave-gtk-theme-git
+molequeue
 mprime
 nautilus-open-any-terminal
 nautilus-sendto
@@ -267,6 +261,7 @@ nvflash
 nvidia-prime-rtd3pm
 nx-x11
 nxagent
+odin4-cli
 oh-my-zsh-git
 onlyoffice-bin
 openssl-1.0
@@ -480,7 +475,7 @@ ttf-ms-win10-auto-zh_tw
 ttf-smiley-sans-bin
 ttf-twemoji
 ttf-wps-fonts
-typora-electron
+typora
 ubuntu-themes
 uefitool
 uemacs-git

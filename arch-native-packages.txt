@@ -647,7 +647,6 @@ eglexternalplatform
 eigen
 electron
 electron27
-electron34
 electron35
 electron36
 element
@@ -656,6 +655,7 @@ elfutils
 elinks
 elisa
 ell
+emacs-apel
 emacs-nox
 embree
 embree3
@@ -780,6 +780,7 @@ flatpak
 flatpak-builder
 flatpak-xdg-utils
 flex
+flim
 flint
 flite
 fltk
@@ -2066,7 +2067,6 @@ kirigami-gallery
 kirigami2
 kiriki
 kitemmodels
-kitemmodels5
 kitemviews
 kitemviews5
 kiten
@@ -3102,13 +3102,22 @@ linux-api-headers
 linux-atm
 linux-docs
 linux-firmware
-linux-firmware-bnx2x
+linux-firmware-amdgpu
+linux-firmware-atheros
+linux-firmware-broadcom
+linux-firmware-cirrus
+linux-firmware-intel
 linux-firmware-liquidio
 linux-firmware-marvell
+linux-firmware-mediatek
 linux-firmware-mellanox
 linux-firmware-nfp
+linux-firmware-nvidia
+linux-firmware-other
 linux-firmware-qcom
 linux-firmware-qlogic
+linux-firmware-radeon
+linux-firmware-realtek
 linux-firmware-whence
 linux-headers
 linux-lts
@@ -3336,7 +3345,6 @@ modemmanager
 modemmanager-qt
 mokutil
 mold
-molequeue
 mongo-c-driver
 mono
 mono-msbuild
@@ -3686,6 +3694,7 @@ perl-class-inspector
 perl-class-load
 perl-class-singleton
 perl-clone
+perl-clone-choose
 perl-common-sense
 perl-config-general
 perl-crypt-openssl-random
@@ -5218,6 +5227,7 @@ seahorse
 seahorse-nautilus
 seatd
 sed
+semi
 semver
 serd
 serf

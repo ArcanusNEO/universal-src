@@ -116,7 +116,7 @@ android-studio
 android-tools
 android-udev
 angelfish
-another-redis-desktop-manager-bin
+another-redis-desktop-manager-appimage
 ansible
 ansible-core
 ansible-language-server
@@ -251,7 +251,7 @@ b43-fwcutter
 babel-cli
 babel-core
 babl
-baidunetdisk-electron
+baidunetdisk-bin
 balena-etcher
 baloo
 baloo-widgets
@@ -719,14 +719,8 @@ eglexternalplatform
 eigen
 electron
 electron-netease-cloud-music
-electron11-bin
-electron12-bin
-electron21-bin
-electron22-bin
 electron27
-electron32-bin
 electron33
-electron34
 electron35
 electron36
 element
@@ -735,6 +729,7 @@ elfutils
 elinks
 elisa
 ell
+emacs-apel
 emacs-nox
 embree
 embree3
@@ -866,6 +861,7 @@ flatpak
 flatpak-builder
 flatpak-xdg-utils
 flex
+flim
 flint
 flite
 fltk
@@ -1939,7 +1935,6 @@ icu69
 icu70
 id3lib
 ida-free
-idevicerestore-git
 iempluginsuite-standalone
 iempluginsuite-vst3
 ifplugd
@@ -2401,7 +2396,6 @@ kunitconversion5
 kuserfeedback
 kvantum
 kvantum-qt5
-kvantum-theme-whitesur-git
 kvazaar
 kwallet
 kwallet5
@@ -3318,13 +3312,22 @@ linux-api-headers
 linux-atm
 linux-docs
 linux-firmware
-linux-firmware-bnx2x
+linux-firmware-amdgpu
+linux-firmware-atheros
+linux-firmware-broadcom
+linux-firmware-cirrus
+linux-firmware-intel
 linux-firmware-liquidio
 linux-firmware-marvell
+linux-firmware-mediatek
 linux-firmware-mellanox
 linux-firmware-nfp
+linux-firmware-nvidia
+linux-firmware-other
 linux-firmware-qcom
 linux-firmware-qlogic
+linux-firmware-radeon
+linux-firmware-realtek
 linux-firmware-whence
 linux-headers
 linux-lts
@@ -3353,8 +3356,6 @@ llm-manager
 llvm
 llvm-julia-libs
 llvm-libs
-llvm14
-llvm14-libs
 llvm15
 llvm15-libs
 llvm18-libs
@@ -3582,6 +3583,7 @@ mod_dnssd
 modemmanager
 modemmanager-qt
 modemmanager-qt5
+mojave-gtk-theme-git
 mokutil
 mold
 molequeue
@@ -3758,6 +3760,7 @@ odin2-synthesizer-common
 odin2-synthesizer-lv2
 odin2-synthesizer-standalone
 odin2-synthesizer-vst3
+odin4-cli
 odt2txt
 oh-my-zsh-git
 okteta
@@ -3973,6 +3976,7 @@ perl-class-inspector
 perl-class-load
 perl-class-singleton
 perl-clone
+perl-clone-choose
 perl-common-sense
 perl-config-general
 perl-crypt-openssl-random
@@ -5641,6 +5645,7 @@ secure-delete
 sed
 see-git
 seer-gdb
+semi
 semver
 serd
 serf
@@ -6257,7 +6262,7 @@ twolame
 txt2man
 typescript
 typescript-language-server
-typora-electron
+typora
 tzdata
 uasm
 ubuntu-keyring
