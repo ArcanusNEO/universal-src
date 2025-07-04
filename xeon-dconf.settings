@@ -467,7 +467,7 @@ window-width=720
 
 [org/gnome/Snapshot]
 capture-mode='picture'
-is-maximized=true
+is-maximized=false
 window-height=640
 window-width=800
 
@@ -773,12 +773,12 @@ world-clocks=[{'location': <(uint32 2, <('Beijing', 'ZBAA', true, [(0.6969681421
 
 [org/gnome/clocks/state/window]
 maximized=false
-panel-id='world'
+panel-id='timer'
 size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='display'
+last-panel='universal-access'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1821,7 +1821,7 @@ show-delete-permanently=true
 [org/gnome/nautilus/window-state]
 initial-size=(1171, 776)
 initial-size-file-chooser=(890, 550)
-maximized=false
+maximized=true
 sidebar-width=200
 
 [org/gnome/nibbles]
@@ -2013,7 +2013,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.956492109976026, -116.419389)
+night-light-last-coordinates=(34.962464197002895, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2662,7 +2662,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 [org/gnome/software]
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1751423928
+flatpak-purge-timestamp=int64 1751570323
 
 [org/gnome/swell-foop]
 colors=3

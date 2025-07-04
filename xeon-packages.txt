@@ -716,7 +716,7 @@ elinks
 elisa
 ell
 emacs-apel
-emacs-nox
+emacs-wayland
 embree
 embree3
 emby-ffmpeg
