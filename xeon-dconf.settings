@@ -444,6 +444,8 @@ window-width=600
 show-properties=true
 
 [org/gnome/Mahjongg]
+mapset='Turtle'
+tileset='postmodern'
 window-height=596
 window-is-maximized=false
 window-width=900
@@ -472,16 +474,17 @@ window-height=640
 window-width=800
 
 [org/gnome/TextEditor]
-highlight-current-line=true
+highlight-current-line=false
 indent-style='space'
 last-save-directory='file:///home/lucas/Games'
 restore-session=false
+right-margin-position=uint32 80
 show-grid=false
-show-line-numbers=true
+show-line-numbers=false
 show-map=false
 show-right-margin=false
 style-scheme='kate'
-style-variant='light'
+style-variant='follow'
 tab-width=uint32 2
 use-system-font=true
 
@@ -761,9 +764,10 @@ window-size=(800, 600)
 
 [org/gnome/cheese]
 burst-delay=1000
-camera='\\_SB_.PCI0.XHCI.RHUB.HS08-8:1.0-1bcf:2281'
+camera='USB Camera (V4L2)'
 photo-x-resolution=1920
 photo-y-resolution=1080
+selected-effect='无效果'
 video-x-resolution=1920
 video-y-resolution=1080
 
@@ -778,7 +782,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='universal-access'
+last-panel='notifications'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1602,12 +1606,12 @@ window-height=745
 window-width=1684
 
 [org/gnome/five-or-more]
-window-height=678
+window-height=814
 window-is-maximized=false
-window-width=790
+window-width=880
 
 [org/gnome/gedit/plugins]
-active-plugins=['filebrowser', 'docinfo', 'spell', 'quickhighlight', 'modelines', 'quickopen', 'sort']
+active-plugins=['spell', 'sort', 'quickhighlight', 'modelines', 'filebrowser', 'docinfo']
 
 [org/gnome/gedit/plugins/filebrowser]
 root='file:///'
@@ -1617,14 +1621,16 @@ virtual-root='file:///home/lucas/src/universal-src/neocc'
 [org/gnome/gedit/preferences/editor]
 auto-save=false
 auto-save-interval=uint32 1
+display-line-numbers=false
 display-overview-map=true
 display-right-margin=false
-editor-font='Lucida Grande Medium 12'
+editor-font='Monospace 14'
+highlight-current-line=false
 insert-spaces=true
 scheme='Adwaita'
 style-scheme-for-light-theme-variant='kate'
 tabs-size=uint32 2
-use-default-font=true
+use-default-font=false
 wrap-last-split-mode='word'
 
 [org/gnome/gedit/preferences/print]
@@ -1634,14 +1640,16 @@ print-syntax-highlighting=false
 print-wrap-mode='word'
 
 [org/gnome/gedit/preferences/ui]
+bottom-panel-visible=false
 show-tabs-mode='auto'
+side-panel-visible=false
 
 [org/gnome/gedit/state/history-entry]
 replace-with-entry=['rss.transcliff.top']
 search-for-entry=['rsshub.app', '    ', '//.*']
 
 [org/gnome/gedit/state/window]
-bottom-panel-size=140
+bottom-panel-size=139
 height=669
 maximized=false
 side-panel-active-page='GeditWindowDocumentsPanel'
@@ -1708,7 +1716,7 @@ last-save-directory='file:///home/lucas/Downloads'
 
 [org/gnome/gnome-system-monitor]
 cpu-colors=[(uint32 0, '#e01b24'), (1, '#ff7800'), (2, '#f6d32d'), (3, '#33d17a'), (4, '#26a269'), (5, '#62a0ea'), (6, '#1c71d8'), (7, '#613583'), (8, '#9141ac'), (9, '#c061cb'), (10, '#ffbe6f'), (11, '#f9f06b'), (12, '#8ff0a4'), (13, '#2ec27e'), (14, '#1a5fb4'), (15, '#c061cb'), (16, '#d851f3327999'), (17, '#ea977999f332'), (18, '#7999f332c71b'), (19, '#f332a3a07999'), (20, '#80257999f332'), (21, '#9688f3327999'), (22, '#f3327999ba03'), (23, '#7999dd7ff332'), (24, '#f332ad887999'), (25, '#8a0c7999f332'), (26, '#8ca0f3327999'), (27, '#f3327999b01c'), (28, '#7999d397f332'), (29, '#f332ef517999'), (30, '#cbd67999f332'), (31, '#7999f332a85a'), (32, '#f33284df7999'), (33, '#799991cef332'), (34, '#b549f3327999'), (35, '#f3327999d8c4')]
-current-tab='resources'
+current-tab='disks'
 logarithmic-scale=false
 maximized=false
 network-total-in-bits=false
@@ -1969,7 +1977,7 @@ show-browser=true
 sorting=('Artist', false)
 
 [org/gnome/rhythmbox/player]
-play-order='random-by-age-and-rating'
+play-order='linear-loop'
 transition-time=0.10000000000000001
 use-xfade-backend=true
 volume=1.0
@@ -2013,7 +2021,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.962464197002895, -116.419389)
+night-light-last-coordinates=(34.955724907293444, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2158,7 +2166,7 @@ name='ROG Control Center'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom6]
 binding='<Super>t'
-command='mousepad'
+command='gnome-text-editor -n'
 name='Text Editor'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7]
@@ -2660,9 +2668,16 @@ toggle-quick-settings=@as []
 locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.0295270260429752)], [(0.69689057971334611, 2.0313596217575696)])>)>]
 
 [org/gnome/software]
+check-timestamp=int64 1751690545
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1751570323
+flatpak-purge-timestamp=int64 1752285253
+
+[org/gnome/solitaire/window-state]
+fullscreen=false
+height=600
+maximized=false
+width=800
 
 [org/gnome/swell-foop]
 colors=3
@@ -3031,10 +3046,12 @@ use-default-monospace-font=false
 word-wrap=true
 
 [org/xfce/mousepad/preferences/window]
+always-show-tabs=false
 client-side-decorations=false
 cycle-tabs=true
 menubar-visible=true
 opening-mode='window'
+path-in-title=true
 recent-menu-items=uint32 0
 remember-size=true
 remember-state=true
