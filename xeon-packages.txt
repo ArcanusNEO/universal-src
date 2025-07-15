@@ -2777,7 +2777,6 @@ libei
 libelf
 libepoxy
 libepubgen
-liberica-jdk-11-full-bin
 libesmtp
 libetebase
 libetonyek
