@@ -435,7 +435,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
@@ -492,16 +492,16 @@ window-height=640
 window-width=800
 
 [org/gnome/TextEditor]
-highlight-current-line=true
+highlight-current-line=false
 indent-style='space'
 last-save-directory='file:///home/lucas/Games'
 restore-session=false
 show-grid=false
-show-line-numbers=true
+show-line-numbers=false
 show-map=false
 show-right-margin=false
 style-scheme='kate'
-style-variant='light'
+style-variant='follow'
 tab-width=uint32 2
 use-system-font=true
 
@@ -798,7 +798,7 @@ size=(850, 695)
 state=87168
 
 [org/gnome/control-center]
-last-panel='keyboard'
+last-panel='display'
 window-state=(1104, 720, true)
 
 [org/gnome/desktop/a11y]
@@ -2161,7 +2161,7 @@ name='ROG Control Center'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom6]
 binding='<Super>t'
-command='mousepad'
+command='gnome-text-editor -n'
 name='Text Editor'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7]
@@ -2667,7 +2667,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1664500951
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1751501525
+flatpak-purge-timestamp=int64 1752971004
 install-timestamp=int64 1750499078
 online-updates-timestamp=int64 1664501401
 update-notification-timestamp=int64 1750499178

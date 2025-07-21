@@ -393,12 +393,15 @@ qt5-lottie
 qt5-purchasing
 qt5-quicktimeline
 qt5-serialbus
+qt5-wayland-decorations
 qt5-webglplugin
 qt5-webview
 qtraw
 quad
 quickjs
 qv2ray
+qwhitesurgtkdecorations-qt5
+qwhitesurgtkdecorations-qt6
 rarian
 reiser4progs
 remmina-plugin-folder
