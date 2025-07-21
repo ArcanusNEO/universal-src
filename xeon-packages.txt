@@ -3494,8 +3494,11 @@ mediainfo
 megasync-nopdfium
 meld
 mellite
+memtest86+
 memtest86+-efi
 memtest86+-iso
+memtest_vulkan
+memtester
 menu-cache
 mephisto.lv2
 mercurial
@@ -4241,6 +4244,7 @@ pystring
 python
 python-aaf2
 python-absl
+python-accessible-pygments
 python-adal
 python-agate
 python-agate-dbf

@@ -414,7 +414,7 @@ save-history=true
 show-history=''
 sync-clipboard-to-primary=''
 sync-primary-to-clipboard=''
-track-changes=false
+track-changes=true
 track-extension-state=true
 upload=''
 
@@ -782,7 +782,7 @@ size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='notifications'
+last-panel='network'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -2021,7 +2021,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.966607189451906, -116.419389)
+night-light-last-coordinates=(34.965120500095118, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2671,7 +2671,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1751690545
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1752538658
+flatpak-purge-timestamp=int64 1752995412
 
 [org/gnome/solitaire/window-state]
 fullscreen=false
