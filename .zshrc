@@ -1,3 +1,4 @@
+setopt rmstarsilent
 export ZSH=/usr/share/oh-my-zsh
 export ZSH_THEME=simple
 export DISABLE_AUTO_UPDATE=true
