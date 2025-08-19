@@ -3806,7 +3806,6 @@ openvdb
 openvpn
 openvr
 openxr
-opera-ffmpeg-codecs
 opnplug-lv2
 opnplug-standalone
 opnplug-vst

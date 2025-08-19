@@ -2021,7 +2021,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.962705816508802, -116.419389)
+night-light-last-coordinates=(34.966086432052911, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
