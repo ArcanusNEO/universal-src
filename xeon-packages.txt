@@ -145,7 +145,6 @@ arduino-builder
 arduino-cli
 arduino-ctags
 arduino-fwuploader
-arduino-ide
 arduino-language-server
 argbash
 argon2
@@ -213,7 +212,7 @@ avogadro-crystals
 avogadro-fragments
 avogadro-molecules
 avogadrolibs
-avogadrolibs-qt5
+avogadrolibs-qt
 avr-binutils
 avr-gcc
 avr-libc
@@ -364,6 +363,7 @@ cajviewer
 calendarsupport
 calf
 calibre
+callaudiod
 calligra
 cantarell-fonts
 cantor
@@ -401,6 +401,7 @@ cgdb
 chafa
 charles
 charls
+chatty
 check
 check-docs
 checkra1n-cli
@@ -490,6 +491,7 @@ cool-retro-term
 coordgen
 coreutils
 cowsay
+cowsql
 cpio
 cppcheck
 cppdap
@@ -533,10 +535,6 @@ davs2
 db
 db5.3
 dbeaver
-dbeaver-plugin-apache-poi
-dbeaver-plugin-batik
-dbeaver-plugin-office
-dbeaver-plugin-svg-format
 dblatex
 dbus
 dbus-broker
@@ -552,6 +550,7 @@ dcmtk
 dconf
 dconf-editor
 ddcutil
+ddm
 ddrescue
 deadbeef
 debian-archive-keyring
@@ -561,6 +560,7 @@ debtap
 debugedit
 debuginfod
 decibels
+deepin-desktop-base
 default-cursors
 dejagnu
 deno
@@ -651,7 +651,6 @@ dpf-plugins-vst3
 dpkg
 dqlite
 draco
-dracut
 dragon
 dragonfly-reverb-clap
 dragonfly-reverb-lv2
@@ -666,6 +665,12 @@ drumkv1-standalone
 drumstick
 dscanner
 dtc
+dtk6core
+dtk6declarative
+dtk6gui
+dtk6log
+dtk6systemsettings
+dtkcommon
 dtools
 dub
 duf
@@ -707,8 +712,10 @@ electron
 electron-netease-cloud-music
 electron27
 electron33
+electron34
 electron35
 electron36
+electron37
 element
 elementary-icon-theme
 elfutils
@@ -809,6 +816,7 @@ fcgiwrap
 fcrackzip
 fd
 fdupes
+feedbackd
 feeluown
 feeluown-bilibili
 feeluown-kuwo
@@ -851,6 +859,7 @@ flim
 flint
 flite
 fltk
+fltk1.3
 fluidsynth
 fmt
 fmt9
@@ -1020,8 +1029,6 @@ gcc-fortran
 gcc-libs
 gcc-objc
 gcc-rust
-gcc13
-gcc13-libs
 gcc14
 gcc14-libs
 gcc49
@@ -1139,6 +1146,7 @@ gnome-browser-connector
 gnome-builder
 gnome-calculator
 gnome-calendar
+gnome-calls
 gnome-characters
 gnome-chess
 gnome-clocks
@@ -1155,7 +1163,6 @@ gnome-devel-docs
 gnome-dictionary
 gnome-disk-utility
 gnome-epub-thumbnailer
-gnome-extra-meta
 gnome-font-viewer
 gnome-games
 gnome-games-meta
@@ -1169,7 +1176,6 @@ gnome-logs
 gnome-mahjongg
 gnome-maps
 gnome-menus
-gnome-meta
 gnome-mime-data
 gnome-mimeapps
 gnome-mines
@@ -1546,6 +1552,7 @@ haskell-hls-graph
 haskell-hls-hlint-plugin
 haskell-hls-module-name-plugin
 haskell-hls-ormolu-plugin
+haskell-hls-overloaded-record-dot-plugin
 haskell-hls-plugin-api
 haskell-hls-pragmas-plugin
 haskell-hls-qualify-imported-names-plugin
@@ -1673,6 +1680,7 @@ haskell-pretty-show
 haskell-pretty-simple
 haskell-prettyprinter
 haskell-prettyprinter-ansi-terminal
+haskell-prettyprinter-compat-ansi-wl-pprint
 haskell-primes
 haskell-primitive
 haskell-primitive-extras
@@ -1925,6 +1933,9 @@ imgcat
 iml
 imlib2
 incidenceeditor
+incus
+incus-tools
+incus-ui
 indent
 inetutils
 infamousplugins
@@ -1996,7 +2007,6 @@ jconvolver
 jdk-lts
 jdk-lts-doc
 jdk-openjdk
-jdk11
 jdk11-openjdk
 jdk17-openjdk
 jdk21-openjdk
@@ -2019,7 +2029,6 @@ jose
 joyutils
 jp2a
 jq
-jre11
 jre8
 jre8-openjdk
 jre8-openjdk-headless
@@ -2727,6 +2736,7 @@ libclapper
 libclapper-gtk
 libclc
 libcloudproviders
+libcmatrix
 libcmis
 libcolord
 libconfig
@@ -2828,6 +2838,7 @@ libglacierapp
 libglibutil
 libglvnd
 libgme
+libgmobile
 libgnome-games-support
 libgnome-games-support-2
 libgnome-keyring
@@ -3090,7 +3101,6 @@ libretro-parallel-n64
 libretro-picodrive
 libretro-play
 libretro-ppsspp
-libretro-retrodream
 libretro-sameboy
 libretro-scummvm
 libretro-shaders-slang
@@ -3398,7 +3408,6 @@ lxappearance-gtk3
 lxappearance-obconf-gtk3
 lxc
 lxcfs
-lxd
 lxde-common
 lxde-icon-theme
 lxdm-gtk3
@@ -3456,6 +3465,7 @@ man-db
 man-pages
 man-pages-zh_cn
 mangohud
+manifold
 marble
 marble-common
 mariadb
@@ -3604,6 +3614,7 @@ mxml
 mxml-docs
 mypaint-brushes1
 mypy
+namcap
 nano
 nanobind
 nasm
@@ -3796,7 +3807,6 @@ openvpn
 openvr
 openxr
 opera-ffmpeg-codecs
-opl-synth
 opnplug-lv2
 opnplug-standalone
 opnplug-vst
@@ -4109,7 +4119,6 @@ perl-yaml-tiny
 phodav
 phonon-qt5
 phonon-qt5-gstreamer
-phonon-qt5-vlc
 phonon-qt6
 phonon-qt6-vlc
 php
@@ -4233,6 +4242,7 @@ purpose5
 pvoc
 pwgen
 pwru
+pyalpm
 pybind11
 pypy
 pypy3
@@ -4327,7 +4337,6 @@ python-cerberus
 python-certifi
 python-cffi
 python-cffsubr
-python-cgi
 python-chardet
 python-charset-normalizer
 python-cheroot
@@ -4779,6 +4788,7 @@ python-pyjwt
 python-pykakasi
 python-pylev
 python-pyliblo
+python-pyliblo3
 python-pylint
 python-pylint-celery
 python-pylint-django
@@ -4956,6 +4966,7 @@ python-sqlparse
 python-srt
 python-srt_equalizer
 python-stack-data
+python-standard-cgi
 python-starlette
 python-statsmodels
 python-stevedore
@@ -5300,7 +5311,6 @@ quilt
 qv2ray
 qwhitesurgtkdecorations-qt5
 qwhitesurgtkdecorations-qt6
-qwlroots
 qxgedit
 qxlsx
 qxmpp
@@ -5637,6 +5647,7 @@ sndio
 sniffnet
 socat
 sof-firmware
+sofia-sip
 solfege
 solid
 solid5
@@ -6033,6 +6044,7 @@ tree-sitter-rust
 tree-sitter-typescript-git
 tree-sitter-vim
 tree-sitter-vimdoc
+treeland
 treeline
 ts-node
 tslib
@@ -6102,7 +6114,6 @@ ttf-fira-mono
 ttf-fira-sans
 ttf-firacode-nerd
 ttf-fixedsys-excelsior-linux
-ttf-font-awesome
 ttf-gentium-plus
 ttf-go-nerd
 ttf-hack
@@ -6199,6 +6210,7 @@ uchardet
 udftools
 udisks2
 udisks2-docs
+udp2raw
 ueberzug
 uefitool
 uemacs-git
@@ -6290,6 +6302,7 @@ vlc-cli
 vlc-gui-qt
 vlc-plugin-a52dec
 vlc-plugin-alsa
+vlc-plugin-archive
 vlc-plugin-dav1d
 vlc-plugin-dbus
 vlc-plugin-dbus-screensaver
@@ -6302,6 +6315,7 @@ vlc-plugin-journal
 vlc-plugin-jpeg
 vlc-plugin-lua
 vlc-plugin-mpg123
+vlc-plugin-ogg
 vlc-plugin-opus
 vlc-plugin-png
 vlc-plugin-pulse
@@ -6368,7 +6382,6 @@ wayland
 wayland-protocols
 wayland-utils
 waylandpp
-waylib
 waypipe
 wayvnc
 wcslib
@@ -6418,9 +6431,11 @@ wlr-protocols
 wlrctl
 wlroots0.17
 wlroots0.18
+wlroots0.19
 wmctrl
 wmenu
 woff2
+woff2-font-awesome
 woff2-smiley-sans-bin
 wofi
 wolf-shaper-dssi
@@ -6500,7 +6515,6 @@ xf86-video-amdgpu
 xf86-video-ati
 xf86-video-dummy
 xf86-video-fbdev
-xf86-video-intel
 xf86-video-nouveau
 xf86-video-qxl
 xf86-video-vesa

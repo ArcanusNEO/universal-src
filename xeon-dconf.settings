@@ -109,7 +109,7 @@ output-device='alsa_output.pci-0000_04_00.6.analog-surround-40'
 interface-open-file-manager=false
 interface-prefer-dark-theme=true
 persist-save-folder='/home/lucas/Downloads'
-persist-window-geometry=(453, 217, 402, 302)
+persist-window-geometry=(1063, 208, 402, 302)
 recording-downsample=1
 recording-framerate=60
 recording-output-format='webm'
@@ -777,12 +777,12 @@ world-clocks=[{'location': <(uint32 2, <('Beijing', 'ZBAA', true, [(0.6969681421
 
 [org/gnome/clocks/state/window]
 maximized=false
-panel-id='timer'
+panel-id='world'
 size=(962, 792)
 state=87168
 
 [org/gnome/control-center]
-last-panel='network'
+last-panel='system'
 window-state=(1205, 967, false)
 
 [org/gnome/desktop/a11y]
@@ -1490,7 +1490,7 @@ show-sidebar=true
 sidebar-page='thumbnails'
 sidebar-size=177
 sizing-mode='free'
-window-ratio=(2.745664739884393, 1.25)
+window-ratio=(2.7449664429530203, 1.2505938242280286)
 zoom=0.49093364197530859
 
 [org/gnome/evolution-data-server]
@@ -2021,7 +2021,7 @@ visible-columns=['post-time', 'duration', 'album', 'artist']
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=false
-night-light-last-coordinates=(34.965120500095118, -116.419389)
+night-light-last-coordinates=(34.962705816508802, -116.419389)
 night-light-schedule-automatic=false
 
 [org/gnome/settings-daemon/plugins/media-keys]
@@ -2127,7 +2127,6 @@ command='picgo-upload'
 name='PicGo Upload'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom25]
-binding='<Super>backslash'
 command='xunmap'
 name='XUnmap'
 
@@ -2151,7 +2150,6 @@ command='fan.boostswitch'
 name='ASUS Fan Control'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom31]
-binding='<Super>semicolon'
 command='xscrsaver sudo glances'
 name='XScreenSaver'
 
@@ -2170,7 +2168,6 @@ command='gnome-text-editor -n'
 name='Text Editor'
 
 [org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom7]
-binding='<Super>BackSpace'
 command='xkill'
 name='XKill'
 
@@ -2671,7 +2668,7 @@ locations=[<(uint32 2, <('Beijing', 'ZBAA', true, [(0.69696814214530467, 2.02952
 check-timestamp=int64 1751690545
 download-updates=false
 first-run=false
-flatpak-purge-timestamp=int64 1752995412
+flatpak-purge-timestamp=int64 1755561705
 
 [org/gnome/solitaire/window-state]
 fullscreen=false
@@ -2813,7 +2810,7 @@ search-sort-column='date_modified'
 
 [org/nemo/window-state]
 geometry='1258x888+45+29'
-maximized=true
+maximized=false
 side-pane-view='places'
 sidebar-bookmark-breakpoint=5
 sidebar-width=209
@@ -3076,6 +3073,20 @@ fullscreen=false
 height=uint32 796
 maximized=false
 width=uint32 1113
+
+[sm/puri/Chatty]
+blur-idle-buddies=true
+clear-out-stuck-sms=false
+indicate-unknown-contacts=true
+mam-enabled=true
+message-carbons=false
+purple-enabled=true
+render-attachments=true
+request-sms-delivery-reports=true
+return-sends-message=false
+send-receipts=false
+send-typing=false
+strip-url-tracking-id=false
 
 [system/locale]
 region='zh_CN.UTF-8'
