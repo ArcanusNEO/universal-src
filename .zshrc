@@ -7,12 +7,12 @@ export ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
 if [[ ! -d $ZSH_CACHE_DIR ]]; then
   mkdir -p $ZSH_CACHE_DIR
 fi
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 plugins=(
   git
 )
 source "$ZSH/oh-my-zsh.sh"
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 PROMPT='%(?.%{$fg[green]%}.%{$fg[red]%})%?%{$fg_bold[blue]%}|%{$fg[green]%}%C%{$fg_bold[blue]%}$(git_prompt_info)%{$fg_bold[cyan]%}'
 if [[ $(id -u) -eq 0 ]]; then
   PROMPT+='# %{$reset_color%}'
